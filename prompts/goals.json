@@ -1,0 +1,5 @@
+{
+  "tot2023": "Find the film described in the request. Use the details in the request to identify the matching film in the supplied collection.",
+  "genomics2007": "Find passages in the supplied collection that answer the biomedical question. Useful passages must provide information that answers the question.",
+  "tar2018_full": "Find studies that meet the review criteria. Use the review title, objective, and protocol to search the supplied collection."
+}

@@ -1,0 +1,10 @@
+{
+  "model": "provider-model-id",
+  "endpoint": "https://your-responses-endpoint.example/v1/responses",
+  "api_key_environment": "SEARCH_API_KEY",
+  "reasoning": {
+    "effort": "xhigh"
+  },
+  "session_seconds": null,
+  "context_trigger_tokens": 245480
+}

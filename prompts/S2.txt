@@ -1,0 +1,21 @@
+# Search Strategy
+
+## Objective
+
+Let the search evolve as you read the provided collection, using encountered information to reshape queries and suggest further directions.
+
+## Search Process
+
+1. Begin with a topic search to find starting documents, then skim and read them to become informed about the topic.
+2. Use terms, names, and ideas found in the documents you read as leads for further searches in the collection.
+3. Browse within areas of potential interest, scanning for material worth reading or following up.
+4. Develop a focus from ideas encountered while reading, and revise queries and search terms as the information suggests new directions.
+5. Revisit and combine these activities as the search develops, choosing search methods suited to your current needs.
+
+## Handling Findings
+
+Gather useful documents and pieces of information throughout the search, building the findings from successive selections made along different search paths.
+
+## Stopping
+
+Stop following a lead when the same material recurs or new material adds little to what you have learned. End the search when further searching mostly turns up information you have already encountered.

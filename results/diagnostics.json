@@ -1,0 +1,2386 @@
+{
+  "status": "PASS",
+  "selection": {
+    "GPT/tot2023": {
+      "S0": {
+        "selected": 0.8808293333333334,
+        "all_query": 0.7531119999999999,
+        "paired_change": {
+          "n": 150,
+          "mean": -0.12771733333333332,
+          "interval": [
+            -0.17229513333333335,
+            -0.0871920166666667
+          ],
+          "wins": 5,
+          "ties": 110,
+          "losses": 35
+        }
+      },
+      "S1": {
+        "selected": 0.8866026666666667,
+        "all_query": 0.6238446666666667,
+        "paired_change": {
+          "n": 150,
+          "mean": -0.26275799999999994,
+          "interval": [
+            -0.3211468333333333,
+            -0.20633736666666672
+          ],
+          "wins": 6,
+          "ties": 79,
+          "losses": 65
+        }
+      },
+      "S2": {
+        "selected": 0.9063673333333333,
+        "all_query": 0.8069686666666667,
+        "paired_change": {
+          "n": 150,
+          "mean": -0.09939866666666666,
+          "interval": [
+            -0.13617616666666668,
+            -0.06580698333333335
+          ],
+          "wins": 5,
+          "ties": 114,
+          "losses": 31
+        }
+      },
+      "S3": {
+        "selected": 0.8868513333333332,
+        "all_query": 0.7894779999999999,
+        "paired_change": {
+          "n": 150,
+          "mean": -0.09737333333333334,
+          "interval": [
+            -0.13607258333333333,
+            -0.06109355000000003
+          ],
+          "wins": 6,
+          "ties": 116,
+          "losses": 28
+        }
+      },
+      "S4": {
+        "selected": 0.85612,
+        "all_query": 0.7654093333333334,
+        "paired_change": {
+          "n": 150,
+          "mean": -0.09071066666666666,
+          "interval": [
+            -0.1306470166666667,
+            -0.05336978333333334
+          ],
+          "wins": 10,
+          "ties": 114,
+          "losses": 26
+        }
+      },
+      "all_conditions": {
+        "selected": 0.8833541333333332,
+        "all_query": 0.7477625333333334,
+        "paired_change": {
+          "n": 150,
+          "mean": -0.1355916,
+          "interval": [
+            -0.1667619933333333,
+            -0.10700060000000002
+          ],
+          "wins": 7,
+          "ties": 60,
+          "losses": 83
+        }
+      }
+    },
+    "GPT/genomics2007": {
+      "S0": {
+        "selected": 0.3672499377777778,
+        "all_query": 0.3898178938888888,
+        "paired_change": {
+          "n": 36,
+          "mean": 0.022567956111111107,
+          "interval": [
+            -0.024492213937500014,
+            0.07829659743055553
+          ],
+          "wins": 17,
+          "ties": 2,
+          "losses": 17
+        }
+      },
+      "S1": {
+        "selected": 0.32218944305555547,
+        "all_query": 0.3535640994444444,
+        "paired_change": {
+          "n": 36,
+          "mean": 0.03137465638888889,
+          "interval": [
+            -0.0004079022152777848,
+            0.05825907794444443
+          ],
+          "wins": 25,
+          "ties": 3,
+          "losses": 8
+        }
+      },
+      "S2": {
+        "selected": 0.36467491861111107,
+        "all_query": 0.3974908094444445,
+        "paired_change": {
+          "n": 36,
+          "mean": 0.03281589083333333,
+          "interval": [
+            -0.014103871250000006,
+            0.08322343790277777
+          ],
+          "wins": 21,
+          "ties": 1,
+          "losses": 14
+        }
+      },
+      "S3": {
+        "selected": 0.33399830277777776,
+        "all_query": 0.35848082333333336,
+        "paired_change": {
+          "n": 36,
+          "mean": 0.02448252055555556,
+          "interval": [
+            -0.017794503395833335,
+            0.06781238036805552
+          ],
+          "wins": 22,
+          "ties": 1,
+          "losses": 13
+        }
+      },
+      "S4": {
+        "selected": 0.3459763544444445,
+        "all_query": 0.3665116969444444,
+        "paired_change": {
+          "n": 36,
+          "mean": 0.020535342499999998,
+          "interval": [
+            -0.010265592118055564,
+            0.049725208993055554
+          ],
+          "wins": 22,
+          "ties": 3,
+          "losses": 11
+        }
+      },
+      "all_conditions": {
+        "selected": 0.3468177913333333,
+        "all_query": 0.3731730646111111,
+        "paired_change": {
+          "n": 36,
+          "mean": 0.026355273277777775,
+          "interval": [
+            0.004223169513888887,
+            0.05102910033055554
+          ],
+          "wins": 24,
+          "ties": 1,
+          "losses": 11
+        }
+      }
+    },
+    "GPT/tar2018_full": {
+      "S0": {
+        "selected": 0.9001666666666667,
+        "all_query": 0.9317333333333334,
+        "paired_change": {
+          "n": 30,
+          "mean": 0.031566666666666666,
+          "interval": [
+            0.010566666666666672,
+            0.05983416666666665
+          ],
+          "wins": 9,
+          "ties": 21,
+          "losses": 0
+        }
+      },
+      "S1": {
+        "selected": 0.9019333333333334,
+        "all_query": 0.9309666666666667,
+        "paired_change": {
+          "n": 30,
+          "mean": 0.029033333333333338,
+          "interval": [
+            0.01486583333333334,
+            0.04560083333333333
+          ],
+          "wins": 12,
+          "ties": 18,
+          "losses": 0
+        }
+      },
+      "S2": {
+        "selected": 0.8770666666666667,
+        "all_query": 0.9376,
+        "paired_change": {
+          "n": 30,
+          "mean": 0.06053333333333334,
+          "interval": [
+            0.012233333333333337,
+            0.13820083333333333
+          ],
+          "wins": 7,
+          "ties": 23,
+          "losses": 0
+        }
+      },
+      "S3": {
+        "selected": 0.9478333333333334,
+        "all_query": 0.9498333333333334,
+        "paired_change": {
+          "n": 30,
+          "mean": 0.001999999999999998,
+          "interval": [
+            -0.0032333333333333363,
+            0.006666666666666669
+          ],
+          "wins": 4,
+          "ties": 25,
+          "losses": 1
+        }
+      },
+      "S4": {
+        "selected": 0.8905666666666666,
+        "all_query": 0.9342333333333334,
+        "paired_change": {
+          "n": 30,
+          "mean": 0.043666666666666666,
+          "interval": [
+            0.011,
+            0.09483499999999997
+          ],
+          "wins": 9,
+          "ties": 21,
+          "losses": 0
+        }
+      },
+      "all_conditions": {
+        "selected": 0.9035133333333333,
+        "all_query": 0.9368733333333333,
+        "paired_change": {
+          "n": 30,
+          "mean": 0.03336000000000001,
+          "interval": [
+            0.015453000000000003,
+            0.05486733333333334
+          ],
+          "wins": 16,
+          "ties": 14,
+          "losses": 0
+        }
+      }
+    },
+    "Claude/tot2023": {
+      "S0": {
+        "selected": 0.604266,
+        "all_query": 0.414518,
+        "paired_change": {
+          "n": 150,
+          "mean": -0.189748,
+          "interval": [
+            -0.24453278333333336,
+            -0.13581863333333338
+          ],
+          "wins": 26,
+          "ties": 57,
+          "losses": 67
+        }
+      },
+      "S1": {
+        "selected": 0.5653220000000001,
+        "all_query": 0.3733226666666667,
+        "paired_change": {
+          "n": 150,
+          "mean": -0.19199933333333333,
+          "interval": [
+            -0.24572795,
+            -0.13989325000000005
+          ],
+          "wins": 30,
+          "ties": 52,
+          "losses": 68
+        }
+      },
+      "S2": {
+        "selected": 0.5841153333333333,
+        "all_query": 0.43536066666666673,
+        "paired_change": {
+          "n": 150,
+          "mean": -0.14875466666666667,
+          "interval": [
+            -0.20246836666666668,
+            -0.09709121666666667
+          ],
+          "wins": 29,
+          "ties": 64,
+          "losses": 57
+        }
+      },
+      "S3": {
+        "selected": 0.6077913333333334,
+        "all_query": 0.41757,
+        "paired_change": {
+          "n": 150,
+          "mean": -0.19022133333333333,
+          "interval": [
+            -0.2449109666666667,
+            -0.1367933
+          ],
+          "wins": 22,
+          "ties": 58,
+          "losses": 70
+        }
+      },
+      "S4": {
+        "selected": 0.6088946666666666,
+        "all_query": 0.39941333333333334,
+        "paired_change": {
+          "n": 150,
+          "mean": -0.20948133333333332,
+          "interval": [
+            -0.2655020166666667,
+            -0.1542371666666667
+          ],
+          "wins": 32,
+          "ties": 51,
+          "losses": 67
+        }
+      },
+      "all_conditions": {
+        "selected": 0.5940778666666666,
+        "all_query": 0.4080369333333333,
+        "paired_change": {
+          "n": 150,
+          "mean": -0.18604093333333332,
+          "interval": [
+            -0.22720620000000002,
+            -0.14593450666666669
+          ],
+          "wins": 30,
+          "ties": 27,
+          "losses": 93
+        }
+      }
+    },
+    "Claude/genomics2007": {
+      "S0": {
+        "selected": 0.33236842305555553,
+        "all_query": 0.33512299972222226,
+        "paired_change": {
+          "n": 36,
+          "mean": 0.002754576666666666,
+          "interval": [
+            -0.026265903374999997,
+            0.03244051838194443
+          ],
+          "wins": 13,
+          "ties": 2,
+          "losses": 21
+        }
+      },
+      "S1": {
+        "selected": 0.32905178138888885,
+        "all_query": 0.34580213555555556,
+        "paired_change": {
+          "n": 36,
+          "mean": 0.016750354166666665,
+          "interval": [
+            -0.04177395109722223,
+            0.08027785485416665
+          ],
+          "wins": 19,
+          "ties": 2,
+          "losses": 15
+        }
+      },
+      "S2": {
+        "selected": 0.30104034305555555,
+        "all_query": 0.32265690750000003,
+        "paired_change": {
+          "n": 36,
+          "mean": 0.021616564444444448,
+          "interval": [
+            -0.0466305973611111,
+            0.07428363695138888
+          ],
+          "wins": 23,
+          "ties": 1,
+          "losses": 12
+        }
+      },
+      "S3": {
+        "selected": 0.3561100569444444,
+        "all_query": 0.3609760261111111,
+        "paired_change": {
+          "n": 36,
+          "mean": 0.0048659691666666696,
+          "interval": [
+            -0.06089040463888888,
+            0.058144630458333325
+          ],
+          "wins": 25,
+          "ties": 1,
+          "losses": 10
+        }
+      },
+      "S4": {
+        "selected": 0.35613380666666666,
+        "all_query": 0.37092319250000005,
+        "paired_change": {
+          "n": 36,
+          "mean": 0.014789385833333332,
+          "interval": [
+            -0.03530946336805556,
+            0.06588531205555553
+          ],
+          "wins": 18,
+          "ties": 1,
+          "losses": 17
+        }
+      },
+      "all_conditions": {
+        "selected": 0.3349408822222222,
+        "all_query": 0.3470962522777778,
+        "paired_change": {
+          "n": 36,
+          "mean": 0.01215537005555556,
+          "interval": [
+            -0.022949557815277778,
+            0.04417591363611109
+          ],
+          "wins": 22,
+          "ties": 0,
+          "losses": 14
+        }
+      }
+    },
+    "Claude/tar2018_full": {
+      "S0": {
+        "selected": 0.7844,
+        "all_query": 0.9311666666666665,
+        "paired_change": {
+          "n": 30,
+          "mean": 0.14676666666666668,
+          "interval": [
+            0.07026583333333332,
+            0.2411333333333333
+          ],
+          "wins": 16,
+          "ties": 13,
+          "losses": 1
+        }
+      },
+      "S1": {
+        "selected": 0.7423,
+        "all_query": 0.9218,
+        "paired_change": {
+          "n": 30,
+          "mean": 0.1795,
+          "interval": [
+            0.10243166666666668,
+            0.2702333333333333
+          ],
+          "wins": 17,
+          "ties": 13,
+          "losses": 0
+        }
+      },
+      "S2": {
+        "selected": 0.7894999999999999,
+        "all_query": 0.9398999999999998,
+        "paired_change": {
+          "n": 30,
+          "mean": 0.1504,
+          "interval": [
+            0.077265,
+            0.2407
+          ],
+          "wins": 18,
+          "ties": 12,
+          "losses": 0
+        }
+      },
+      "S3": {
+        "selected": 0.7698333333333331,
+        "all_query": 0.9395666666666666,
+        "paired_change": {
+          "n": 30,
+          "mean": 0.16973333333333332,
+          "interval": [
+            0.07806416666666667,
+            0.28023499999999996
+          ],
+          "wins": 16,
+          "ties": 14,
+          "losses": 0
+        }
+      },
+      "S4": {
+        "selected": 0.8123333333333332,
+        "all_query": 0.9411333333333333,
+        "paired_change": {
+          "n": 30,
+          "mean": 0.1288,
+          "interval": [
+            0.056862499999999996,
+            0.21626749999999997
+          ],
+          "wins": 11,
+          "ties": 19,
+          "losses": 0
+        }
+      },
+      "all_conditions": {
+        "selected": 0.7796733333333333,
+        "all_query": 0.9347133333333333,
+        "paired_change": {
+          "n": 30,
+          "mean": 0.15504,
+          "interval": [
+            0.09325966666666666,
+            0.2283013333333333
+          ],
+          "wins": 21,
+          "ties": 8,
+          "losses": 1
+        }
+      }
+    },
+    "DeepSeek/tot2023": {
+      "S0": {
+        "selected": 0.6661113333333333,
+        "all_query": 0.557712,
+        "paired_change": {
+          "n": 150,
+          "mean": -0.10839933333333335,
+          "interval": [
+            -0.1607094666666667,
+            -0.05794220000000007
+          ],
+          "wins": 30,
+          "ties": 83,
+          "losses": 37
+        }
+      },
+      "S1": {
+        "selected": 0.6823540000000001,
+        "all_query": 0.556544,
+        "paired_change": {
+          "n": 150,
+          "mean": -0.12581,
+          "interval": [
+            -0.17573683333333334,
+            -0.07821875
+          ],
+          "wins": 24,
+          "ties": 85,
+          "losses": 41
+        }
+      },
+      "S2": {
+        "selected": 0.7130286666666666,
+        "all_query": 0.5989006666666666,
+        "paired_change": {
+          "n": 150,
+          "mean": -0.114128,
+          "interval": [
+            -0.16449798333333335,
+            -0.06590751666666667
+          ],
+          "wins": 22,
+          "ties": 94,
+          "losses": 34
+        }
+      },
+      "S3": {
+        "selected": 0.69018,
+        "all_query": 0.5986006666666667,
+        "paired_change": {
+          "n": 150,
+          "mean": -0.09157933333333333,
+          "interval": [
+            -0.14096943333333334,
+            -0.044510133333333375
+          ],
+          "wins": 25,
+          "ties": 93,
+          "losses": 32
+        }
+      },
+      "S4": {
+        "selected": 0.7145813333333333,
+        "all_query": 0.5905713333333333,
+        "paired_change": {
+          "n": 150,
+          "mean": -0.12401000000000001,
+          "interval": [
+            -0.17281833333333332,
+            -0.07641051666666666
+          ],
+          "wins": 24,
+          "ties": 87,
+          "losses": 39
+        }
+      },
+      "all_conditions": {
+        "selected": 0.6932510666666667,
+        "all_query": 0.5804657333333333,
+        "paired_change": {
+          "n": 150,
+          "mean": -0.1127853333333333,
+          "interval": [
+            -0.14580747666666669,
+            -0.08069440666666666
+          ],
+          "wins": 23,
+          "ties": 44,
+          "losses": 83
+        }
+      }
+    },
+    "DeepSeek/genomics2007": {
+      "S0": {
+        "selected": 0.30657523861111113,
+        "all_query": 0.3533108775,
+        "paired_change": {
+          "n": 36,
+          "mean": 0.04673563888888889,
+          "interval": [
+            -0.01649928013194444,
+            0.10389111712499997
+          ],
+          "wins": 27,
+          "ties": 1,
+          "losses": 8
+        }
+      },
+      "S1": {
+        "selected": 0.29287781055555556,
+        "all_query": 0.32351618027777784,
+        "paired_change": {
+          "n": 36,
+          "mean": 0.030638369722222225,
+          "interval": [
+            -0.02826154896527778,
+            0.08606660886111112
+          ],
+          "wins": 24,
+          "ties": 1,
+          "losses": 11
+        }
+      },
+      "S2": {
+        "selected": 0.30124429638888883,
+        "all_query": 0.3110151458333334,
+        "paired_change": {
+          "n": 36,
+          "mean": 0.00977084944444444,
+          "interval": [
+            -0.05976454409722222,
+            0.07258723813194443
+          ],
+          "wins": 22,
+          "ties": 0,
+          "losses": 14
+        }
+      },
+      "S3": {
+        "selected": 0.33171975527777775,
+        "all_query": 0.35095503916666665,
+        "paired_change": {
+          "n": 36,
+          "mean": 0.019235283888888885,
+          "interval": [
+            -0.0458979641875,
+            0.0799796499236111
+          ],
+          "wins": 23,
+          "ties": 1,
+          "losses": 12
+        }
+      },
+      "S4": {
+        "selected": 0.2947817988888889,
+        "all_query": 0.3343842375,
+        "paired_change": {
+          "n": 36,
+          "mean": 0.03960243861111112,
+          "interval": [
+            -0.02942309501388888,
+            0.09808366261111111
+          ],
+          "wins": 26,
+          "ties": 0,
+          "losses": 10
+        }
+      },
+      "all_conditions": {
+        "selected": 0.3054397799444445,
+        "all_query": 0.33463629605555556,
+        "paired_change": {
+          "n": 36,
+          "mean": 0.02919651611111111,
+          "interval": [
+            -0.019924999533333328,
+            0.07370043621944444
+          ],
+          "wins": 25,
+          "ties": 0,
+          "losses": 11
+        }
+      }
+    },
+    "DeepSeek/tar2018_full": {
+      "S0": {
+        "selected": 0.7465666666666666,
+        "all_query": 0.8870999999999999,
+        "paired_change": {
+          "n": 30,
+          "mean": 0.14053333333333334,
+          "interval": [
+            0.08263333333333334,
+            0.20123416666666663
+          ],
+          "wins": 15,
+          "ties": 15,
+          "losses": 0
+        }
+      },
+      "S1": {
+        "selected": 0.6154333333333333,
+        "all_query": 0.8554999999999999,
+        "paired_change": {
+          "n": 30,
+          "mean": 0.24006666666666668,
+          "interval": [
+            0.14883166666666664,
+            0.34136833333333333
+          ],
+          "wins": 21,
+          "ties": 9,
+          "losses": 0
+        }
+      },
+      "S2": {
+        "selected": 0.578,
+        "all_query": 0.8820666666666667,
+        "paired_change": {
+          "n": 30,
+          "mean": 0.3040666666666666,
+          "interval": [
+            0.205665,
+            0.41300499999999996
+          ],
+          "wins": 23,
+          "ties": 7,
+          "losses": 0
+        }
+      },
+      "S3": {
+        "selected": 0.6717666666666667,
+        "all_query": 0.8291666666666667,
+        "paired_change": {
+          "n": 30,
+          "mean": 0.15739999999999998,
+          "interval": [
+            0.10443166666666666,
+            0.21323333333333333
+          ],
+          "wins": 19,
+          "ties": 11,
+          "losses": 0
+        }
+      },
+      "S4": {
+        "selected": 0.6904333333333333,
+        "all_query": 0.8856666666666667,
+        "paired_change": {
+          "n": 30,
+          "mean": 0.19523333333333334,
+          "interval": [
+            0.11313250000000002,
+            0.2863008333333334
+          ],
+          "wins": 18,
+          "ties": 12,
+          "losses": 0
+        }
+      },
+      "all_conditions": {
+        "selected": 0.66044,
+        "all_query": 0.8679,
+        "paired_change": {
+          "n": 30,
+          "mean": 0.20746,
+          "interval": [
+            0.1559996666666667,
+            0.2584803333333333
+          ],
+          "wins": 25,
+          "ties": 5,
+          "losses": 0
+        }
+      }
+    }
+  },
+  "tar": {
+    "GPT/S0": {
+      "sessions": 30,
+      "pool_coverage": 0.931744809899975,
+      "selected_exact": 0.9001229701564806,
+      "gap": 0.03162183974349429,
+      "means": {
+        "selected": 0.9001666666666667,
+        "first_k": 0.8144666666666667,
+        "last_k": 0.8246000000000001,
+        "all": 0.9317333333333334
+      },
+      "first_k_change": {
+        "n": 30,
+        "mean": -0.08570000000000001,
+        "interval": [
+          -0.16960166666666665,
+          -0.026900000000000004
+        ],
+        "wins": 1,
+        "ties": 18,
+        "losses": 11
+      },
+      "late_queries_add_relevant_sessions": 1,
+      "fraction_queries_adding_relevant": 0.1851016564561456
+    },
+    "GPT/S1": {
+      "sessions": 30,
+      "pool_coverage": 0.9318080896962666,
+      "selected_exact": 0.9019890350987185,
+      "gap": 0.02981905459754811,
+      "means": {
+        "selected": 0.9019333333333334,
+        "first_k": 0.7511666666666665,
+        "last_k": 0.7306333333333332,
+        "all": 0.9309666666666667
+      },
+      "first_k_change": {
+        "n": 30,
+        "mean": -0.1507666666666667,
+        "interval": [
+          -0.24283333333333335,
+          -0.07656583333333336
+        ],
+        "wins": 3,
+        "ties": 6,
+        "losses": 21
+      },
+      "late_queries_add_relevant_sessions": 1,
+      "fraction_queries_adding_relevant": 0.21220193477546415
+    },
+    "GPT/S2": {
+      "sessions": 30,
+      "pool_coverage": 0.93758188634805,
+      "selected_exact": 0.8770455969836691,
+      "gap": 0.06053628936438069,
+      "means": {
+        "selected": 0.8770666666666667,
+        "first_k": 0.8096,
+        "last_k": 0.7803999999999999,
+        "all": 0.9376
+      },
+      "first_k_change": {
+        "n": 30,
+        "mean": -0.06746666666666666,
+        "interval": [
+          -0.12340416666666669,
+          -0.018233333333333338
+        ],
+        "wins": 3,
+        "ties": 15,
+        "losses": 12
+      },
+      "late_queries_add_relevant_sessions": 2,
+      "fraction_queries_adding_relevant": 0.18773753131001752
+    },
+    "GPT/S3": {
+      "sessions": 30,
+      "pool_coverage": 0.9524364027051129,
+      "selected_exact": 0.947794102039764,
+      "gap": 0.004642300665348753,
+      "means": {
+        "selected": 0.9478333333333334,
+        "first_k": 0.9175333333333333,
+        "last_k": 0.7413666666666667,
+        "all": 0.9498333333333334
+      },
+      "first_k_change": {
+        "n": 30,
+        "mean": -0.030300000000000004,
+        "interval": [
+          -0.05596666666666667,
+          -0.009833333333333341
+        ],
+        "wins": 1,
+        "ties": 19,
+        "losses": 10
+      },
+      "late_queries_add_relevant_sessions": 1,
+      "fraction_queries_adding_relevant": 0.1265990873529237
+    },
+    "GPT/S4": {
+      "sessions": 30,
+      "pool_coverage": 0.9342155840267182,
+      "selected_exact": 0.8905367849629663,
+      "gap": 0.0436787990637521,
+      "means": {
+        "selected": 0.8905666666666666,
+        "first_k": 0.8469999999999999,
+        "last_k": 0.8042333333333335,
+        "all": 0.9342333333333334
+      },
+      "first_k_change": {
+        "n": 30,
+        "mean": -0.04356666666666666,
+        "interval": [
+          -0.08946749999999999,
+          -0.00793250000000001
+        ],
+        "wins": 3,
+        "ties": 17,
+        "losses": 10
+      },
+      "late_queries_add_relevant_sessions": 2,
+      "fraction_queries_adding_relevant": 0.1757714506282618
+    },
+    "GPT/all_conditions": {
+      "sessions": 150,
+      "pool_coverage": 0.9375573545352245,
+      "selected_exact": 0.9034976978483197,
+      "gap": 0.03405965668690479,
+      "means": {
+        "selected": 0.9035133333333333,
+        "first_k": 0.8279533333333334,
+        "last_k": 0.7762466666666665,
+        "all": 0.9368733333333333
+      },
+      "first_k_change": {
+        "n": 30,
+        "mean": -0.07556,
+        "interval": [
+          -0.11320666666666668,
+          -0.043933166666666676
+        ],
+        "wins": 3,
+        "ties": 6,
+        "losses": 21
+      },
+      "late_queries_add_relevant_sessions": 7,
+      "fraction_queries_adding_relevant": 0.17748233210456255
+    },
+    "Claude/S0": {
+      "sessions": 30,
+      "pool_coverage": 0.9414979868803345,
+      "selected_exact": 0.7843962567856919,
+      "gap": 0.1571017300946428,
+      "means": {
+        "selected": 0.7844,
+        "first_k": 0.8763333333333333,
+        "last_k": 0.8253666666666668,
+        "all": 0.9311666666666665
+      },
+      "first_k_change": {
+        "n": 30,
+        "mean": 0.09193333333333334,
+        "interval": [
+          0.04213333333333333,
+          0.1484683333333333
+        ],
+        "wins": 14,
+        "ties": 14,
+        "losses": 2
+      },
+      "late_queries_add_relevant_sessions": 4,
+      "fraction_queries_adding_relevant": 0.3002380952380952
+    },
+    "Claude/S1": {
+      "sessions": 30,
+      "pool_coverage": 0.926803565768637,
+      "selected_exact": 0.7422666808313801,
+      "gap": 0.18453688493725695,
+      "means": {
+        "selected": 0.7423,
+        "first_k": 0.8665,
+        "last_k": 0.7274666666666667,
+        "all": 0.9218
+      },
+      "first_k_change": {
+        "n": 30,
+        "mean": 0.12420000000000002,
+        "interval": [
+          0.0599325,
+          0.19373416666666668
+        ],
+        "wins": 15,
+        "ties": 13,
+        "losses": 2
+      },
+      "late_queries_add_relevant_sessions": 3,
+      "fraction_queries_adding_relevant": 0.25196368446368445
+    },
+    "Claude/S2": {
+      "sessions": 30,
+      "pool_coverage": 0.9485361075232643,
+      "selected_exact": 0.7895301026207734,
+      "gap": 0.15900600490249095,
+      "means": {
+        "selected": 0.7894999999999999,
+        "first_k": 0.9137333333333333,
+        "last_k": 0.8238999999999999,
+        "all": 0.9398999999999998
+      },
+      "first_k_change": {
+        "n": 30,
+        "mean": 0.12423333333333333,
+        "interval": [
+          0.05209916666666666,
+          0.21376833333333328
+        ],
+        "wins": 17,
+        "ties": 12,
+        "losses": 1
+      },
+      "late_queries_add_relevant_sessions": 2,
+      "fraction_queries_adding_relevant": 0.15315237050531172
+    },
+    "Claude/S3": {
+      "sessions": 30,
+      "pool_coverage": 0.9454181724897908,
+      "selected_exact": 0.7697983823400203,
+      "gap": 0.1756197901497702,
+      "means": {
+        "selected": 0.7698333333333331,
+        "first_k": 0.8859333333333332,
+        "last_k": 0.7699999999999999,
+        "all": 0.9395666666666666
+      },
+      "first_k_change": {
+        "n": 30,
+        "mean": 0.11610000000000001,
+        "interval": [
+          0.04646583333333334,
+          0.20480083333333335
+        ],
+        "wins": 12,
+        "ties": 18,
+        "losses": 0
+      },
+      "late_queries_add_relevant_sessions": 1,
+      "fraction_queries_adding_relevant": 0.22316875662463892
+    },
+    "Claude/S4": {
+      "sessions": 30,
+      "pool_coverage": 0.9440501067093953,
+      "selected_exact": 0.8123210376520338,
+      "gap": 0.13172906905736148,
+      "means": {
+        "selected": 0.8123333333333332,
+        "first_k": 0.8874666666666666,
+        "last_k": 0.8556666666666667,
+        "all": 0.9411333333333333
+      },
+      "first_k_change": {
+        "n": 30,
+        "mean": 0.07513333333333333,
+        "interval": [
+          -0.029102500000000003,
+          0.1802683333333333
+        ],
+        "wins": 11,
+        "ties": 17,
+        "losses": 2
+      },
+      "late_queries_add_relevant_sessions": 3,
+      "fraction_queries_adding_relevant": 0.23923922812080706
+    },
+    "Claude/all_conditions": {
+      "sessions": 150,
+      "pool_coverage": 0.9412611878742845,
+      "selected_exact": 0.77966249204598,
+      "gap": 0.16159869582830444,
+      "means": {
+        "selected": 0.7796733333333333,
+        "first_k": 0.8859933333333333,
+        "last_k": 0.80048,
+        "all": 0.9347133333333333
+      },
+      "first_k_change": {
+        "n": 30,
+        "mean": 0.10631999999999998,
+        "interval": [
+          0.06141250000000001,
+          0.15834099999999998
+        ],
+        "wins": 19,
+        "ties": 11,
+        "losses": 0
+      },
+      "late_queries_add_relevant_sessions": 13,
+      "fraction_queries_adding_relevant": 0.2335524269905075
+    },
+    "DeepSeek/S0": {
+      "sessions": 30,
+      "pool_coverage": 0.8898072765404732,
+      "selected_exact": 0.7465566301911987,
+      "gap": 0.1432506463492745,
+      "means": {
+        "selected": 0.7465666666666666,
+        "first_k": 0.6887333333333333,
+        "last_k": 0.5898,
+        "all": 0.8870999999999999
+      },
+      "first_k_change": {
+        "n": 30,
+        "mean": -0.057833333333333334,
+        "interval": [
+          -0.15850250000000002,
+          0.03270083333333332
+        ],
+        "wins": 8,
+        "ties": 11,
+        "losses": 11
+      },
+      "late_queries_add_relevant_sessions": 2,
+      "fraction_queries_adding_relevant": 0.09382789157116461
+    },
+    "DeepSeek/S1": {
+      "sessions": 30,
+      "pool_coverage": 0.8573113841887369,
+      "selected_exact": 0.6154409446747764,
+      "gap": 0.24187043951396067,
+      "means": {
+        "selected": 0.6154333333333333,
+        "first_k": 0.5079333333333333,
+        "last_k": 0.47743333333333327,
+        "all": 0.8554999999999999
+      },
+      "first_k_change": {
+        "n": 30,
+        "mean": -0.10749999999999997,
+        "interval": [
+          -0.2279383333333333,
+          0.014800000000000018
+        ],
+        "wins": 6,
+        "ties": 6,
+        "losses": 18
+      },
+      "late_queries_add_relevant_sessions": 5,
+      "fraction_queries_adding_relevant": 0.1395541044546323
+    },
+    "DeepSeek/S2": {
+      "sessions": 30,
+      "pool_coverage": 0.8988920460212202,
+      "selected_exact": 0.5779163074941557,
+      "gap": 0.3209757385270647,
+      "means": {
+        "selected": 0.578,
+        "first_k": 0.7441666666666666,
+        "last_k": 0.3475666666666667,
+        "all": 0.8820666666666667
+      },
+      "first_k_change": {
+        "n": 30,
+        "mean": 0.16616666666666668,
+        "interval": [
+          0.04796333333333332,
+          0.2904374999999999
+        ],
+        "wins": 17,
+        "ties": 8,
+        "losses": 5
+      },
+      "late_queries_add_relevant_sessions": 5,
+      "fraction_queries_adding_relevant": 0.07523055804047447
+    },
+    "DeepSeek/S3": {
+      "sessions": 30,
+      "pool_coverage": 0.8335603378174211,
+      "selected_exact": 0.6717770679026739,
+      "gap": 0.16178326991474756,
+      "means": {
+        "selected": 0.6717666666666667,
+        "first_k": 0.6419333333333334,
+        "last_k": 0.4993666666666667,
+        "all": 0.8291666666666667
+      },
+      "first_k_change": {
+        "n": 30,
+        "mean": -0.029833333333333337,
+        "interval": [
+          -0.11556750000000002,
+          0.05723583333333328
+        ],
+        "wins": 9,
+        "ties": 8,
+        "losses": 13
+      },
+      "late_queries_add_relevant_sessions": 5,
+      "fraction_queries_adding_relevant": 0.12407107574077898
+    },
+    "DeepSeek/S4": {
+      "sessions": 30,
+      "pool_coverage": 0.8899956227464632,
+      "selected_exact": 0.690322354077671,
+      "gap": 0.19967326866879212,
+      "means": {
+        "selected": 0.6904333333333333,
+        "first_k": 0.6555666666666667,
+        "last_k": 0.5042000000000001,
+        "all": 0.8856666666666667
+      },
+      "first_k_change": {
+        "n": 30,
+        "mean": -0.034866666666666664,
+        "interval": [
+          -0.1525008333333333,
+          0.08743499999999997
+        ],
+        "wins": 9,
+        "ties": 9,
+        "losses": 12
+      },
+      "late_queries_add_relevant_sessions": 4,
+      "fraction_queries_adding_relevant": 0.09930715688322282
+    },
+    "DeepSeek/all_conditions": {
+      "sessions": 150,
+      "pool_coverage": 0.8739133334628629,
+      "selected_exact": 0.660402660868095,
+      "gap": 0.21351067259476791,
+      "means": {
+        "selected": 0.6604400000000001,
+        "first_k": 0.6476666666666667,
+        "last_k": 0.48367333333333334,
+        "all": 0.8679
+      },
+      "first_k_change": {
+        "n": 30,
+        "mean": -0.012773333333333333,
+        "interval": [
+          -0.07160416666666664,
+          0.04282849999999997
+        ],
+        "wins": 15,
+        "ties": 1,
+        "losses": 14
+      },
+      "late_queries_add_relevant_sessions": 21,
+      "fraction_queries_adding_relevant": 0.10639815733805463
+    }
+  },
+  "topic_distributions": {
+    "GPT/tot2023/S1": {
+      "leave_one_out_mean_range": [
+        -0.0008993288590604035,
+        0.012523489932885904
+      ],
+      "lower_quality_more_searches": [
+        "201",
+        "223",
+        "650",
+        "824",
+        "911"
+      ],
+      "baseline_perfect": 129,
+      "baseline_zero": 15,
+      "condition_zero": 15,
+      "largest_gain_topic": "173",
+      "largest_loss_topic": "201"
+    },
+    "GPT/tot2023/S2": {
+      "leave_one_out_mean_range": [
+        0.01899798657718121,
+        0.03242080536912752
+      ],
+      "lower_quality_more_searches": [
+        "223",
+        "650",
+        "654",
+        "945"
+      ],
+      "baseline_perfect": 129,
+      "baseline_zero": 15,
+      "condition_zero": 12,
+      "largest_gain_topic": "173",
+      "largest_loss_topic": "223"
+    },
+    "GPT/tot2023/S3": {
+      "leave_one_out_mean_range": [
+        -0.0006489932885906026,
+        0.012773825503355707
+      ],
+      "lower_quality_more_searches": [
+        "519",
+        "654",
+        "736",
+        "824"
+      ],
+      "baseline_perfect": 129,
+      "baseline_zero": 15,
+      "condition_zero": 15,
+      "largest_gain_topic": "477",
+      "largest_loss_topic": "519"
+    },
+    "GPT/tot2023/S4": {
+      "leave_one_out_mean_range": [
+        -0.03158657718120805,
+        -0.018163758389261743
+      ],
+      "lower_quality_more_searches": [
+        "223",
+        "519",
+        "650",
+        "824",
+        "980"
+      ],
+      "baseline_perfect": 129,
+      "baseline_zero": 15,
+      "condition_zero": 18,
+      "largest_gain_topic": "656",
+      "largest_loss_topic": "223"
+    },
+    "GPT/genomics2007/S1": {
+      "leave_one_out_mean_range": [
+        -0.051786927142857146,
+        -0.032062223142857144
+      ],
+      "lower_quality_more_searches": [
+        "204",
+        "209",
+        "221",
+        "222",
+        "224",
+        "229",
+        "235"
+      ],
+      "baseline_perfect": 3,
+      "baseline_zero": 0,
+      "condition_zero": 1,
+      "largest_gain_topic": "214",
+      "largest_loss_topic": "224"
+    },
+    "GPT/genomics2007/S2": {
+      "leave_one_out_mean_range": [
+        -0.009791448285714287,
+        0.011637123142857142
+      ],
+      "lower_quality_more_searches": [
+        "201",
+        "202",
+        "205",
+        "207",
+        "212",
+        "215",
+        "217",
+        "219",
+        "220",
+        "221",
+        "222",
+        "226"
+      ],
+      "baseline_perfect": 3,
+      "baseline_zero": 0,
+      "condition_zero": 0,
+      "largest_gain_topic": "225",
+      "largest_loss_topic": "233"
+    },
+    "GPT/genomics2007/S3": {
+      "leave_one_out_mean_range": [
+        -0.04037659828571429,
+        -0.01991596742857143
+      ],
+      "lower_quality_more_searches": [
+        "201",
+        "206",
+        "207",
+        "209",
+        "210",
+        "212",
+        "215",
+        "220",
+        "221",
+        "225",
+        "227",
+        "228",
+        "229",
+        "231"
+      ],
+      "baseline_perfect": 3,
+      "baseline_zero": 0,
+      "condition_zero": 0,
+      "largest_gain_topic": "213",
+      "largest_loss_topic": "233"
+    },
+    "GPT/genomics2007/S4": {
+      "leave_one_out_mean_range": [
+        -0.028098998285714286,
+        -0.014455096285714283
+      ],
+      "lower_quality_more_searches": [
+        "200",
+        "202",
+        "207",
+        "215",
+        "217",
+        "221",
+        "222",
+        "231"
+      ],
+      "baseline_perfect": 3,
+      "baseline_zero": 0,
+      "condition_zero": 1,
+      "largest_gain_topic": "209",
+      "largest_loss_topic": "201"
+    },
+    "GPT/tar2018_full/S1": {
+      "leave_one_out_mean_range": [
+        -0.0096551724137931,
+        0.009482758620689657
+      ],
+      "lower_quality_more_searches": [
+        "CD008587",
+        "CD010502",
+        "CD011053",
+        "CD011926"
+      ],
+      "baseline_perfect": 12,
+      "baseline_zero": 0,
+      "condition_zero": 0,
+      "largest_gain_topic": "CD011686",
+      "largest_loss_topic": "CD012010"
+    },
+    "GPT/tar2018_full/S2": {
+      "leave_one_out_mean_range": [
+        -0.03537931034482759,
+        0.010586206896551723
+      ],
+      "lower_quality_more_searches": [
+        "CD008587",
+        "CD010502",
+        "CD011431",
+        "CD012010",
+        "CD012179",
+        "CD012216",
+        "CD012599"
+      ],
+      "baseline_perfect": 12,
+      "baseline_zero": 0,
+      "condition_zero": 1,
+      "largest_gain_topic": "CD011686",
+      "largest_loss_topic": "CD012216"
+    },
+    "GPT/tar2018_full/S3": {
+      "leave_one_out_mean_range": [
+        0.03782758620689656,
+        0.05313793103448276
+      ],
+      "lower_quality_more_searches": [
+        "CD012010"
+      ],
+      "baseline_perfect": 12,
+      "baseline_zero": 0,
+      "condition_zero": 0,
+      "largest_gain_topic": "CD011686",
+      "largest_loss_topic": "CD012010"
+    },
+    "GPT/tar2018_full/S4": {
+      "leave_one_out_mean_range": [
+        -0.01620689655172414,
+        0.0015862068965517256
+      ],
+      "lower_quality_more_searches": [
+        "CD008587",
+        "CD010502",
+        "CD011126",
+        "CD011686",
+        "CD012010",
+        "CD012165"
+      ],
+      "baseline_perfect": 12,
+      "baseline_zero": 0,
+      "condition_zero": 0,
+      "largest_gain_topic": "CD009263",
+      "largest_loss_topic": "CD011686"
+    },
+    "Claude/tot2023/S1": {
+      "leave_one_out_mean_range": [
+        -0.04591677852348993,
+        -0.03249395973154362
+      ],
+      "lower_quality_more_searches": [
+        "108",
+        "137",
+        "162",
+        "250",
+        "261",
+        "266",
+        "285",
+        "460",
+        "477",
+        "550",
+        "558",
+        "616",
+        "654",
+        "702",
+        "820",
+        "859",
+        "987"
+      ],
+      "baseline_perfect": 78,
+      "baseline_zero": 28,
+      "condition_zero": 32,
+      "largest_gain_topic": "390",
+      "largest_loss_topic": "266"
+    },
+    "Claude/tot2023/S2": {
+      "leave_one_out_mean_range": [
+        -0.02699731543624161,
+        -0.0135744966442953
+      ],
+      "lower_quality_more_searches": [
+        "105",
+        "108",
+        "120",
+        "126",
+        "132",
+        "137",
+        "162",
+        "298",
+        "430",
+        "460",
+        "501",
+        "516",
+        "547",
+        "647",
+        "673",
+        "755",
+        "900",
+        "945",
+        "973",
+        "980",
+        "987"
+      ],
+      "baseline_perfect": 78,
+      "baseline_zero": 28,
+      "condition_zero": 26,
+      "largest_gain_topic": "223",
+      "largest_loss_topic": "298"
+    },
+    "Claude/tot2023/S3": {
+      "leave_one_out_mean_range": [
+        -0.0031624161073825507,
+        0.010260402684563758
+      ],
+      "lower_quality_more_searches": [
+        "1036",
+        "108",
+        "162",
+        "172",
+        "211",
+        "327",
+        "334",
+        "407",
+        "460",
+        "466",
+        "647",
+        "654",
+        "667",
+        "672",
+        "673",
+        "702",
+        "859",
+        "872"
+      ],
+      "baseline_perfect": 78,
+      "baseline_zero": 28,
+      "condition_zero": 30,
+      "largest_gain_topic": "223",
+      "largest_loss_topic": "407"
+    },
+    "Claude/tot2023/S4": {
+      "leave_one_out_mean_range": [
+        -0.002051677852348995,
+        0.010393959731543622
+      ],
+      "lower_quality_more_searches": [
+        "1006",
+        "1031",
+        "1067",
+        "137",
+        "232",
+        "266",
+        "327",
+        "331",
+        "334",
+        "477",
+        "501",
+        "654",
+        "672",
+        "673",
+        "859",
+        "987"
+      ],
+      "baseline_perfect": 78,
+      "baseline_zero": 28,
+      "condition_zero": 29,
+      "largest_gain_topic": "390",
+      "largest_loss_topic": "232"
+    },
+    "Claude/genomics2007/S1": {
+      "leave_one_out_mean_range": [
+        -0.011254540000000002,
+        0.001069616857142854
+      ],
+      "lower_quality_more_searches": [
+        "207",
+        "209",
+        "230",
+        "234",
+        "235"
+      ],
+      "baseline_perfect": 1,
+      "baseline_zero": 0,
+      "condition_zero": 0,
+      "largest_gain_topic": "225",
+      "largest_loss_topic": "214"
+    },
+    "Claude/genomics2007/S2": {
+      "leave_one_out_mean_range": [
+        -0.036522749714285714,
+        -0.023468355428571428
+      ],
+      "lower_quality_more_searches": [
+        "200",
+        "201",
+        "202",
+        "203",
+        "206",
+        "207",
+        "209",
+        "210",
+        "211",
+        "214",
+        "217",
+        "221",
+        "230",
+        "231",
+        "233",
+        "234",
+        "235"
+      ],
+      "baseline_perfect": 1,
+      "baseline_zero": 0,
+      "condition_zero": 0,
+      "largest_gain_topic": "204",
+      "largest_loss_topic": "221"
+    },
+    "Claude/genomics2007/S3": {
+      "leave_one_out_mean_range": [
+        -0.0024707900000000053,
+        0.03394377571428571
+      ],
+      "lower_quality_more_searches": [
+        "201",
+        "202",
+        "203",
+        "206",
+        "207",
+        "209",
+        "210",
+        "211",
+        "214",
+        "216",
+        "217",
+        "220",
+        "231",
+        "232",
+        "235"
+      ],
+      "baseline_perfect": 1,
+      "baseline_zero": 0,
+      "condition_zero": 0,
+      "largest_gain_topic": "225",
+      "largest_loss_topic": "220"
+    },
+    "Claude/genomics2007/S4": {
+      "leave_one_out_mean_range": [
+        -0.0024463617142857067,
+        0.03873010885714287
+      ],
+      "lower_quality_more_searches": [
+        "200",
+        "203",
+        "210",
+        "223",
+        "230"
+      ],
+      "baseline_perfect": 1,
+      "baseline_zero": 0,
+      "condition_zero": 0,
+      "largest_gain_topic": "225",
+      "largest_loss_topic": "224"
+    },
+    "Claude/tar2018_full/S1": {
+      "leave_one_out_mean_range": [
+        -0.05262068965517242,
+        -0.030758620689655184
+      ],
+      "lower_quality_more_searches": [
+        "CD008587",
+        "CD009263",
+        "CD010213",
+        "CD010502",
+        "CD012010"
+      ],
+      "baseline_perfect": 11,
+      "baseline_zero": 1,
+      "condition_zero": 1,
+      "largest_gain_topic": "CD012599",
+      "largest_loss_topic": "CD008587"
+    },
+    "Claude/tar2018_full/S2": {
+      "leave_one_out_mean_range": [
+        -0.011965517241379313,
+        0.016758620689655168
+      ],
+      "lower_quality_more_searches": [
+        "CD008122",
+        "CD008587",
+        "CD009263",
+        "CD010213",
+        "CD010296",
+        "CD010502",
+        "CD010657",
+        "CD011686",
+        "CD011926",
+        "CD012010"
+      ],
+      "baseline_perfect": 11,
+      "baseline_zero": 1,
+      "condition_zero": 1,
+      "largest_gain_topic": "CD012165",
+      "largest_loss_topic": "CD011686"
+    },
+    "Claude/tar2018_full/S3": {
+      "leave_one_out_mean_range": [
+        -0.032310344827586206,
+        0.019413793103448276
+      ],
+      "lower_quality_more_searches": [
+        "CD008122",
+        "CD008587",
+        "CD010213",
+        "CD010296",
+        "CD011686",
+        "CD011926",
+        "CD012010",
+        "CD012216"
+      ],
+      "baseline_perfect": 11,
+      "baseline_zero": 1,
+      "condition_zero": 2,
+      "largest_gain_topic": "CD011515",
+      "largest_loss_topic": "CD012216"
+    },
+    "Claude/tar2018_full/S4": {
+      "leave_one_out_mean_range": [
+        -0.005586206896551725,
+        0.06337931034482759
+      ],
+      "lower_quality_more_searches": [
+        "CD008587",
+        "CD010213",
+        "CD012216",
+        "CD012599"
+      ],
+      "baseline_perfect": 11,
+      "baseline_zero": 1,
+      "condition_zero": 1,
+      "largest_gain_topic": "CD011602",
+      "largest_loss_topic": "CD012216"
+    },
+    "DeepSeek/tot2023/S1": {
+      "leave_one_out_mean_range": [
+        0.009640268456375839,
+        0.023063087248322147
+      ],
+      "lower_quality_more_searches": [
+        "224",
+        "390",
+        "636",
+        "750",
+        "755",
+        "877"
+      ],
+      "baseline_perfect": 97,
+      "baseline_zero": 45,
+      "condition_zero": 43,
+      "largest_gain_topic": "1031",
+      "largest_loss_topic": "236"
+    },
+    "DeepSeek/tot2023/S2": {
+      "leave_one_out_mean_range": [
+        0.04052080536912753,
+        0.05394362416107383
+      ],
+      "lower_quality_more_searches": [
+        "1006",
+        "172",
+        "201",
+        "275",
+        "356",
+        "366",
+        "599",
+        "636",
+        "750",
+        "869"
+      ],
+      "baseline_perfect": 97,
+      "baseline_zero": 45,
+      "condition_zero": 41,
+      "largest_gain_topic": "105",
+      "largest_loss_topic": "172"
+    },
+    "DeepSeek/tot2023/S3": {
+      "leave_one_out_mean_range": [
+        0.017518791946308718,
+        0.030941610738255024
+      ],
+      "lower_quality_more_searches": [
+        "1006",
+        "201",
+        "275",
+        "558",
+        "750",
+        "783",
+        "859",
+        "869",
+        "980"
+      ],
+      "baseline_perfect": 97,
+      "baseline_zero": 45,
+      "condition_zero": 41,
+      "largest_gain_topic": "105",
+      "largest_loss_topic": "201"
+    },
+    "DeepSeek/tot2023/S4": {
+      "leave_one_out_mean_range": [
+        0.04208389261744966,
+        0.05550671140939596
+      ],
+      "lower_quality_more_searches": [
+        "390",
+        "501",
+        "599",
+        "636",
+        "740",
+        "750",
+        "980"
+      ],
+      "baseline_perfect": 97,
+      "baseline_zero": 45,
+      "condition_zero": 39,
+      "largest_gain_topic": "105",
+      "largest_loss_topic": "223"
+    },
+    "DeepSeek/genomics2007/S1": {
+      "leave_one_out_mean_range": [
+        -0.02101416285714286,
+        0.004958835999999999
+      ],
+      "lower_quality_more_searches": [
+        "209",
+        "217",
+        "218",
+        "221",
+        "227",
+        "232"
+      ],
+      "baseline_perfect": 2,
+      "baseline_zero": 2,
+      "condition_zero": 2,
+      "largest_gain_topic": "230",
+      "largest_loss_topic": "233"
+    },
+    "DeepSeek/genomics2007/S2": {
+      "leave_one_out_mean_range": [
+        -0.021634048285714278,
+        0.013564364285714291
+      ],
+      "lower_quality_more_searches": [
+        "204",
+        "208",
+        "216",
+        "217",
+        "221",
+        "224",
+        "227"
+      ],
+      "baseline_perfect": 2,
+      "baseline_zero": 2,
+      "condition_zero": 2,
+      "largest_gain_topic": "201",
+      "largest_loss_topic": "224"
+    },
+    "DeepSeek/genomics2007/S3": {
+      "leave_one_out_mean_range": [
+        -0.002708497142857147,
+        0.04014864571428571
+      ],
+      "lower_quality_more_searches": [
+        "205",
+        "209",
+        "210",
+        "217",
+        "220",
+        "221",
+        "229",
+        "231",
+        "233",
+        "234"
+      ],
+      "baseline_perfect": 2,
+      "baseline_zero": 2,
+      "condition_zero": 2,
+      "largest_gain_topic": "225",
+      "largest_loss_topic": "233"
+    },
+    "DeepSeek/genomics2007/S4": {
+      "leave_one_out_mean_range": [
+        -0.02073154742857143,
+        0.010726747714285714
+      ],
+      "lower_quality_more_searches": [
+        "205",
+        "212",
+        "214",
+        "218"
+      ],
+      "baseline_perfect": 2,
+      "baseline_zero": 2,
+      "condition_zero": 2,
+      "largest_gain_topic": "204",
+      "largest_loss_topic": "233"
+    },
+    "DeepSeek/tar2018_full/S1": {
+      "leave_one_out_mean_range": [
+        -0.15289655172413794,
+        -0.10117241379310346
+      ],
+      "lower_quality_more_searches": [
+        "CD008587",
+        "CD009175",
+        "CD010296",
+        "CD010657",
+        "CD012165",
+        "CD012599"
+      ],
+      "baseline_perfect": 10,
+      "baseline_zero": 1,
+      "condition_zero": 2,
+      "largest_gain_topic": "CD012281",
+      "largest_loss_topic": "CD011602"
+    },
+    "DeepSeek/tar2018_full/S2": {
+      "leave_one_out_mean_range": [
+        -0.1834827586206897,
+        -0.13989655172413795
+      ],
+      "lower_quality_more_searches": [
+        "CD008122",
+        "CD008587",
+        "CD008759",
+        "CD008892",
+        "CD009175",
+        "CD009263",
+        "CD010296",
+        "CD010502",
+        "CD010657",
+        "CD011602",
+        "CD012599"
+      ],
+      "baseline_perfect": 10,
+      "baseline_zero": 1,
+      "condition_zero": 3,
+      "largest_gain_topic": "CD011431",
+      "largest_loss_topic": "CD011515"
+    },
+    "DeepSeek/tar2018_full/S3": {
+      "leave_one_out_mean_range": [
+        -0.0932758620689655,
+        -0.04289655172413792
+      ],
+      "lower_quality_more_searches": [
+        "CD008587",
+        "CD009175",
+        "CD010296",
+        "CD011602",
+        "CD011912",
+        "CD012599"
+      ],
+      "baseline_perfect": 10,
+      "baseline_zero": 1,
+      "condition_zero": 2,
+      "largest_gain_topic": "CD012165",
+      "largest_loss_topic": "CD011602"
+    },
+    "DeepSeek/tar2018_full/S4": {
+      "leave_one_out_mean_range": [
+        -0.07796551724137932,
+        -0.02358620689655173
+      ],
+      "lower_quality_more_searches": [
+        "CD008587",
+        "CD010502",
+        "CD011602",
+        "CD012599"
+      ],
+      "baseline_perfect": 10,
+      "baseline_zero": 1,
+      "condition_zero": 2,
+      "largest_gain_topic": "CD012165",
+      "largest_loss_topic": "CD011602"
+    }
+  },
+  "same_topic_examples": {},
+  "goal_control_contrasts": {
+    "GPT/tot2023/S1": {
+      "topics": 150,
+      "mean_difference": 0.03048266666666667,
+      "paired_bootstrap_95_interval": [
+        -0.015799466666666668,
+        0.07921576666666662
+      ],
+      "p_value": 0.22201777982220178,
+      "test": "monte_carlo_two_sided_sign_randomization",
+      "seed": 20261029,
+      "holm_p": 1.0
+    },
+    "GPT/tot2023/S2": {
+      "topics": 150,
+      "mean_difference": 0.05024733333333333,
+      "paired_bootstrap_95_interval": [
+        0.01737,
+        0.088756
+      ],
+      "p_value": 0.004789952100478995,
+      "test": "monte_carlo_two_sided_sign_randomization",
+      "seed": 20261029,
+      "holm_p": 0.12453875461245387
+    },
+    "GPT/tot2023/S3": {
+      "topics": 150,
+      "mean_difference": 0.030731333333333333,
+      "paired_bootstrap_95_interval": [
+        -0.00021066666666666716,
+        0.06467466666666667
+      ],
+      "p_value": 0.0871091289087109,
+      "test": "monte_carlo_two_sided_sign_randomization",
+      "seed": 20261029,
+      "holm_p": 1.0
+    },
+    "GPT/genomics2007/S1": {
+      "topics": 36,
+      "mean_difference": -0.02378691138888889,
+      "paired_bootstrap_95_interval": [
+        -0.06614216357638888,
+        0.01515899508333333
+      ],
+      "p_value": 0.28254717452825473,
+      "test": "monte_carlo_two_sided_sign_randomization",
+      "seed": 20261029,
+      "holm_p": 1.0
+    },
+    "GPT/genomics2007/S2": {
+      "topics": 36,
+      "mean_difference": 0.018698564166666667,
+      "paired_bootstrap_95_interval": [
+        -0.03141407514583334,
+        0.0688462005625
+      ],
+      "p_value": 0.4830851691483085,
+      "test": "monte_carlo_two_sided_sign_randomization",
+      "seed": 20261029,
+      "holm_p": 1.0
+    },
+    "GPT/genomics2007/S3": {
+      "topics": 36,
+      "mean_difference": -0.011978051666666673,
+      "paired_bootstrap_95_interval": [
+        -0.06541453919444445,
+        0.03507827515972223
+      ],
+      "p_value": 0.6536234637653624,
+      "test": "monte_carlo_two_sided_sign_randomization",
+      "seed": 20261029,
+      "holm_p": 1.0
+    },
+    "GPT/tar2018_full/S1": {
+      "topics": 30,
+      "mean_difference": 0.011366666666666669,
+      "paired_bootstrap_95_interval": [
+        -0.025166666666666674,
+        0.06596666666666667
+      ],
+      "p_value": 0.8633113668863311,
+      "test": "monte_carlo_two_sided_sign_randomization",
+      "seed": 20261029,
+      "holm_p": 1.0
+    },
+    "GPT/tar2018_full/S2": {
+      "topics": 30,
+      "mean_difference": -0.013500000000000002,
+      "paired_bootstrap_95_interval": [
+        -0.10589999999999998,
+        0.06223416666666666
+      ],
+      "p_value": 0.7172928270717293,
+      "test": "monte_carlo_two_sided_sign_randomization",
+      "seed": 20261029,
+      "holm_p": 1.0
+    },
+    "GPT/tar2018_full/S3": {
+      "topics": 30,
+      "mean_difference": 0.05726666666666667,
+      "paired_bootstrap_95_interval": [
+        0.0213,
+        0.10930083333333332
+      ],
+      "p_value": 0.00044999550004499957,
+      "test": "monte_carlo_two_sided_sign_randomization",
+      "seed": 20261029,
+      "holm_p": 0.012149878501214989
+    },
+    "Claude/tot2023/S1": {
+      "topics": 150,
+      "mean_difference": -0.04357266666666666,
+      "paired_bootstrap_95_interval": [
+        -0.09354588333333332,
+        0.005753883333333304
+      ],
+      "p_value": 0.09146908530914691,
+      "test": "monte_carlo_two_sided_sign_randomization",
+      "seed": 20261029,
+      "holm_p": 1.0
+    },
+    "Claude/tot2023/S2": {
+      "topics": 150,
+      "mean_difference": -0.024779333333333334,
+      "paired_bootstrap_95_interval": [
+        -0.07366634999999999,
+        0.0241843
+      ],
+      "p_value": 0.31945680543194566,
+      "test": "monte_carlo_two_sided_sign_randomization",
+      "seed": 20261029,
+      "holm_p": 1.0
+    },
+    "Claude/tot2023/S3": {
+      "topics": 150,
+      "mean_difference": -0.0011033333333333318,
+      "paired_bootstrap_95_interval": [
+        -0.05391629999999999,
+        0.051664083333333326
+      ],
+      "p_value": 0.9690103098969011,
+      "test": "monte_carlo_two_sided_sign_randomization",
+      "seed": 20261029,
+      "holm_p": 1.0
+    },
+    "Claude/genomics2007/S1": {
+      "topics": 36,
+      "mean_difference": -0.027082025277777786,
+      "paired_bootstrap_95_interval": [
+        -0.08238542527777779,
+        0.024892209166666648
+      ],
+      "p_value": 0.3604263957360426,
+      "test": "monte_carlo_two_sided_sign_randomization",
+      "seed": 20261029,
+      "holm_p": 1.0
+    },
+    "Claude/genomics2007/S2": {
+      "topics": 36,
+      "mean_difference": -0.05509346361111112,
+      "paired_bootstrap_95_interval": [
+        -0.12913538440277783,
+        0.008955250159722216
+      ],
+      "p_value": 0.1250587494125059,
+      "test": "monte_carlo_two_sided_sign_randomization",
+      "seed": 20261029,
+      "holm_p": 1.0
+    },
+    "Claude/genomics2007/S3": {
+      "topics": 36,
+      "mean_difference": -2.3749722222231377e-05,
+      "paired_bootstrap_95_interval": [
+        -0.05448788965972224,
+        0.05841613364583331
+      ],
+      "p_value": 0.99950000499995,
+      "test": "monte_carlo_two_sided_sign_randomization",
+      "seed": 20261029,
+      "holm_p": 1.0
+    },
+    "Claude/tar2018_full/S1": {
+      "topics": 30,
+      "mean_difference": -0.07003333333333334,
+      "paired_bootstrap_95_interval": [
+        -0.1853675,
+        0.048838333333333254
+      ],
+      "p_value": 0.26014739852601476,
+      "test": "monte_carlo_two_sided_sign_randomization",
+      "seed": 20261029,
+      "holm_p": 1.0
+    },
+    "Claude/tar2018_full/S2": {
+      "topics": 30,
+      "mean_difference": -0.022833333333333348,
+      "paired_bootstrap_95_interval": [
+        -0.1421375,
+        0.09936833333333331
+      ],
+      "p_value": 0.7185928140718593,
+      "test": "monte_carlo_two_sided_sign_randomization",
+      "seed": 20261029,
+      "holm_p": 1.0
+    },
+    "Claude/tar2018_full/S3": {
+      "topics": 30,
+      "mean_difference": -0.04250000000000001,
+      "paired_bootstrap_95_interval": [
+        -0.13354166666666664,
+        0.029434166666666657
+      ],
+      "p_value": 0.36736632633673666,
+      "test": "monte_carlo_two_sided_sign_randomization",
+      "seed": 20261029,
+      "holm_p": 1.0
+    },
+    "DeepSeek/tot2023/S1": {
+      "topics": 150,
+      "mean_difference": -0.03222733333333334,
+      "paired_bootstrap_95_interval": [
+        -0.08943008333333333,
+        0.023584083333333332
+      ],
+      "p_value": 0.27844721552784474,
+      "test": "monte_carlo_two_sided_sign_randomization",
+      "seed": 20261029,
+      "holm_p": 1.0
+    },
+    "DeepSeek/tot2023/S2": {
+      "topics": 150,
+      "mean_difference": -0.001552666666666666,
+      "paired_bootstrap_95_interval": [
+        -0.056838816666666674,
+        0.056878149999999995
+      ],
+      "p_value": 0.963330366696333,
+      "test": "monte_carlo_two_sided_sign_randomization",
+      "seed": 20261029,
+      "holm_p": 1.0
+    },
+    "DeepSeek/tot2023/S3": {
+      "topics": 150,
+      "mean_difference": -0.024401333333333334,
+      "paired_bootstrap_95_interval": [
+        -0.08286953333333333,
+        0.03430886666666667
+      ],
+      "p_value": 0.42438575614243856,
+      "test": "monte_carlo_two_sided_sign_randomization",
+      "seed": 20261029,
+      "holm_p": 1.0
+    },
+    "DeepSeek/genomics2007/S1": {
+      "topics": 36,
+      "mean_difference": -0.001903988333333334,
+      "paired_bootstrap_95_interval": [
+        -0.04358887797222222,
+        0.03816949652777777
+      ],
+      "p_value": 0.929330706692933,
+      "test": "monte_carlo_two_sided_sign_randomization",
+      "seed": 20261029,
+      "holm_p": 1.0
+    },
+    "DeepSeek/genomics2007/S2": {
+      "topics": 36,
+      "mean_difference": 0.006462497500000002,
+      "paired_bootstrap_95_interval": [
+        -0.06259457105555556,
+        0.07980236722916667
+      ],
+      "p_value": 0.8633713662863371,
+      "test": "monte_carlo_two_sided_sign_randomization",
+      "seed": 20261029,
+      "holm_p": 1.0
+    },
+    "DeepSeek/genomics2007/S3": {
+      "topics": 36,
+      "mean_difference": 0.03693795638888889,
+      "paired_bootstrap_95_interval": [
+        -0.028000493479166666,
+        0.11538275506249994
+      ],
+      "p_value": 0.3562164378356216,
+      "test": "monte_carlo_two_sided_sign_randomization",
+      "seed": 20261029,
+      "holm_p": 1.0
+    },
+    "DeepSeek/tar2018_full/S1": {
+      "topics": 30,
+      "mean_difference": -0.07500000000000001,
+      "paired_bootstrap_95_interval": [
+        -0.18070333333333333,
+        0.020400833333333316
+      ],
+      "p_value": 0.16711832881671182,
+      "test": "monte_carlo_two_sided_sign_randomization",
+      "seed": 20261029,
+      "holm_p": 1.0
+    },
+    "DeepSeek/tar2018_full/S2": {
+      "topics": 30,
+      "mean_difference": -0.11243333333333333,
+      "paired_bootstrap_95_interval": [
+        -0.20709999999999998,
+        -0.029066666666666678
+      ],
+      "p_value": 0.019369806301936982,
+      "test": "monte_carlo_two_sided_sign_randomization",
+      "seed": 20261029,
+      "holm_p": 0.48424515754842457
+    },
+    "DeepSeek/tar2018_full/S3": {
+      "topics": 30,
+      "mean_difference": -0.018666666666666668,
+      "paired_bootstrap_95_interval": [
+        -0.07519999999999999,
+        0.03316999999999995
+      ],
+      "p_value": 0.5157148428515714,
+      "test": "monte_carlo_two_sided_sign_randomization",
+      "seed": 20261029,
+      "holm_p": 1.0
+    }
+  }
+}

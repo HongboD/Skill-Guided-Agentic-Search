@@ -1,0 +1,21 @@
+# Search Strategy
+
+## Objective
+
+Search the provided collection, iteratively revising search terms for the same request using wording found in retrieved documents.
+
+## Search Process
+
+1. Identify the question’s key concepts, keeping the number of required concepts small to avoid unnecessarily excluding relevant documents.
+2. Search using alternative terms for each concept, including synonyms, spelling variants, and abbreviations; allow any alternative to match within each concept.
+3. Broaden the query with additional terms and compare results with the previous search, examining documents retrieved only by the broader query.
+4. Read retrieved documents for additional wording, including unexpected descriptions of the same subject, and use those expressions in further searches.
+5. Check that the search retrieves relevant documents already found in the collection; investigate missed documents by testing each query concept separately against those documents, and revise the search.
+
+## Handling Findings
+
+Combine results from the searches and remove duplicate records.
+
+## Stopping
+
+Consider stopping query development when a series of added terms yields no new relevant documents. Be more cautious about stopping when little evidence has been found.

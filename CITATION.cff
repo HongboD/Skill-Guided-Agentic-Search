@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Please cite the associated paper when its public bibliographic record is available."
+title: "Skill-Guided Agentic Search"
+type: software
+version: 0.1.0
+authors:
+  - name: "Anonymous Authors"
+abstract: "Experiment code, strategy prompts, and numerical results for studying search instructions across three retrieval tasks and three model backends."

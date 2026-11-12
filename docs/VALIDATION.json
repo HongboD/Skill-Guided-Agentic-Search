@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "synthetic_tests_passed": 18,
+  "original_topic_condition_prompt_comparisons": 1080,
+  "prompt_text_mismatches": 0,
+  "published_result_cells": 3240,
+  "fixed_baseline_result_cells": 432,
+  "statistical_recomputation": "PASS",
+  "statistical_outputs_checked": [
+    "analysis.json",
+    "diagnostics.json",
+    "paper_plot_data.json",
+    "paper_tables.md"
+  ],
+  "official_scores_recomputed": false,
+  "live_model_calls": 0,
+  "full_corpus_index_builds": 0,
+  "benchmark_inputs_bundled": false,
+  "external_model_and_lucene_execution": "not rerun in this environment",
+  "python_files_syntax_checked": 48,
+  "broken_relative_markdown_links": []
+}

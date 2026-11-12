@@ -1,0 +1,25 @@
+{
+  "setup_id": "common-python-search-agent-v1",
+  "agent": "Common Python loop + LiteLLM 1.105.0",
+  "applies_to_models": [
+    "GPT",
+    "Claude",
+    "DeepSeek"
+  ],
+  "session_limit_seconds": null,
+  "session_time_policy": "No session time limit for any model or topic.",
+  "instruction_policy": "python-search-agent-instructions-1",
+  "context_policy": {
+    "mode": "python_checkpoint_v1",
+    "trigger_tokens": 245480
+  },
+  "reasoning_effort": "xhigh",
+  "tools": [
+    "search",
+    "open",
+    "finish"
+  ],
+  "model_specific_execution_overrides": {},
+  "topic_specific_execution_overrides": {},
+  "configuration_basis": "Researcher-confirmed common setup for all 3,240 accepted sessions; no session time limit."
+}

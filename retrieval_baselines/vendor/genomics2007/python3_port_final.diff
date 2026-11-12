@@ -1,0 +1,64 @@
+--- original
++++ python3
+@@ -48,7 +48,7 @@
+ 			offset =	int(fields[4])
+ 			length =	int(fields[5])			
+ 			submissionDx.setdefault(topic,[]).append((rank, pmid, offset, length))
+-		except Exception, e:
++		except Exception as e:
+ 			# report and terminate...
+ 			sys.stderr.write("Unable to correct improperly formated line:\n%s\n" % line)
+ 			sys.stderr.write("Parsed fields are %s\n" % str(fields))
+@@ -371,12 +371,12 @@
+ submissionFileGlob = sys.argv[2]
+ 
+ # load gold standard data...
+-file = open(goldStandardFile, 'r')
++file = open(goldStandardFile, 'r', encoding='latin-1')
+ goldStdDx = buildGoldStd(file)
+ file.close()
+ 
+ # output result header...
+-print '\t'.join(["RUN", "MEASURE", "TOPIC", "SCORE"])
++print('\t'.join(["RUN", "MEASURE", "TOPIC", "SCORE"]))
+ 
+ # loop over submission files, which can be a multifile-glob...
+ for submissionFile in glob.glob(submissionFileGlob):
+@@ -385,7 +385,7 @@
+ 	# progress report...
+ 	sys.stderr.write("Processing run %s..." % runName)
+ 	# load submission data...
+-	file = open(submissionFile,'r')
++	file = open(submissionFile,'r', encoding='latin-1')
+ 	submissionDx = buildSubmissions(file)
+ 	file.close()
+ 	# compute topic scores...
+@@ -400,20 +400,19 @@
+ 	passage2MAP = sum(passage2AveragePrecisionByTopic.values())/len(passage2AveragePrecisionByTopic)
+ 	# output document results...
+ 	for topic in sorted(goldStdDx.keys()):
+-		print '\t'.join([runName, "DOCUMENT", str(topic), "%0.8f" % documentAveragePrecisionByTopic[topic]])
+-	print "%s" % '\t'.join([runName, "DOCUMENT", "MAP", "%0.8f" % documentMAP])
++		print('\t'.join([runName, "DOCUMENT", str(topic), "%0.8f" % documentAveragePrecisionByTopic[topic]]))
++	print("%s" % '\t'.join([runName, "DOCUMENT", "MAP", "%0.8f" % documentMAP]))
+ 	# output passage results...
+ 	for topic in sorted(goldStdDx.keys()):
+-		print '\t'.join([runName, "PASSAGE", str(topic), "%0.8f" % passageAveragePrecisionByTopic[topic]])
+-	print "%s" % '\t'.join([runName, "PASSAGE", "MAP", "%0.8f" % passageMAP])
++		print('\t'.join([runName, "PASSAGE", str(topic), "%0.8f" % passageAveragePrecisionByTopic[topic]]))
++	print("%s" % '\t'.join([runName, "PASSAGE", "MAP", "%0.8f" % passageMAP]))
+ 	# output aspect results...
+ 	for topic in sorted(goldStdDx.keys()):
+-		print '\t'.join([runName, "ASPECT", str(topic), "%0.8f" % aspectAveragePrecisionByTopic[topic]])
+-	print "%s" % '\t'.join([runName, "ASPECT", "MAP", "%0.8f" % aspectMAP])
++		print('\t'.join([runName, "ASPECT", str(topic), "%0.8f" % aspectAveragePrecisionByTopic[topic]]))
++	print("%s" % '\t'.join([runName, "ASPECT", "MAP", "%0.8f" % aspectMAP]))
+ 	# output passage2 results...
+ 	for topic in sorted(goldStdDx.keys()):
+-		print '\t'.join([runName, "PASSAGE2", str(topic), "%0.8f" % passage2AveragePrecisionByTopic[topic]])
+-	print "%s" % '\t'.join([runName, "PASSAGE2", "MAP", "%0.8f" % passage2MAP])
++		print('\t'.join([runName, "PASSAGE2", str(topic), "%0.8f" % passage2AveragePrecisionByTopic[topic]]))
++	print("%s" % '\t'.join([runName, "PASSAGE2", "MAP", "%0.8f" % passage2MAP]))
+ 	# progress report...
+ 	sys.stderr.write("OK.\n")
+-

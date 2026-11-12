@@ -1,0 +1,24 @@
+{
+  "default_field": "contents",
+  "fields": [
+    "contents",
+    "title"
+  ],
+  "default_operator": "OR",
+  "analyzer": {
+    "language": "en",
+    "stemming": true,
+    "stemmer": "porter",
+    "stopwords": true
+  },
+  "bm25": {
+    "k1": 0.9,
+    "b": 0.4
+  },
+  "page_size": 20,
+  "snippet_chars": 600,
+  "open_chars": null,
+  "max_final_queries": 3,
+  "rrf_k": 60,
+  "backfill": false
+}

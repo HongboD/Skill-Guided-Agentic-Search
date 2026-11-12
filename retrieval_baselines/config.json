@@ -1,0 +1,51 @@
+{
+  "engine": {
+    "pyserini": "2.4.0",
+    "lucene": "10.5.0",
+    "java_major": 21
+  },
+  "retrieval": {
+    "analyzer": {
+      "language": "en",
+      "stemming": true,
+      "stemmer": "porter",
+      "stopwords": true
+    },
+    "fields": [
+      "contents",
+      "title"
+    ],
+    "default_field": "contents",
+    "default_operator": "OR",
+    "bm25": {
+      "k1": 0.9,
+      "b": 0.4
+    }
+  },
+  "rm3": {
+    "fb_docs": 10,
+    "fb_terms": 10,
+    "original_query_weight": 0.5,
+    "filter_terms": true
+  },
+  "tasks": {
+    "tot2023": {
+      "topics": 150,
+      "depth": 1000,
+      "records": 231848,
+      "metric": "NDCG@1000"
+    },
+    "genomics2007": {
+      "topics": 36,
+      "depth": 1000,
+      "records": 12641127,
+      "metric": "Aspect MAP"
+    },
+    "tar2018_full": {
+      "topics": 30,
+      "depth": 5000,
+      "records": 27836723,
+      "metric": "Recall@5000"
+    }
+  }
+}

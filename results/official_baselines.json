@@ -1,0 +1,6962 @@
+[
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-200-B0-r1",
+    "task": "genomics2007",
+    "topic_id": "200",
+    "condition": "B0",
+    "primary_score": 0.24791355,
+    "topic_scores": {
+      "DOCUMENT": 0.36509634,
+      "PASSAGE": 0.11863044,
+      "ASPECT": 0.24791355,
+      "PASSAGE2": 0.19690579
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-200-B1-r1",
+    "task": "genomics2007",
+    "topic_id": "200",
+    "condition": "B1",
+    "primary_score": 0.28108321,
+    "topic_scores": {
+      "DOCUMENT": 0.42666762,
+      "PASSAGE": 0.10786699,
+      "ASPECT": 0.28108321,
+      "PASSAGE2": 0.20940614
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-201-B0-r1",
+    "task": "genomics2007",
+    "topic_id": "201",
+    "condition": "B0",
+    "primary_score": 0.03558779,
+    "topic_scores": {
+      "DOCUMENT": 0.1854833,
+      "PASSAGE": 0.02786999,
+      "ASPECT": 0.03558779,
+      "PASSAGE2": 0.02754426
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-201-B1-r1",
+    "task": "genomics2007",
+    "topic_id": "201",
+    "condition": "B1",
+    "primary_score": 0.02522813,
+    "topic_scores": {
+      "DOCUMENT": 0.3169004,
+      "PASSAGE": 0.05202313,
+      "ASPECT": 0.02522813,
+      "PASSAGE2": 0.05021755
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-202-B0-r1",
+    "task": "genomics2007",
+    "topic_id": "202",
+    "condition": "B0",
+    "primary_score": 0.00126363,
+    "topic_scores": {
+      "DOCUMENT": 0.01345893,
+      "PASSAGE": 0.00018077,
+      "ASPECT": 0.00126363,
+      "PASSAGE2": 0.00019465
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-202-B1-r1",
+    "task": "genomics2007",
+    "topic_id": "202",
+    "condition": "B1",
+    "primary_score": 0.00251087,
+    "topic_scores": {
+      "DOCUMENT": 0.02606046,
+      "PASSAGE": 0.00048349,
+      "ASPECT": 0.00251087,
+      "PASSAGE2": 0.00049423
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-203-B0-r1",
+    "task": "genomics2007",
+    "topic_id": "203",
+    "condition": "B0",
+    "primary_score": 0.58098568,
+    "topic_scores": {
+      "DOCUMENT": 0.65266233,
+      "PASSAGE": 0.24360361,
+      "ASPECT": 0.58098568,
+      "PASSAGE2": 0.41337827
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-203-B1-r1",
+    "task": "genomics2007",
+    "topic_id": "203",
+    "condition": "B1",
+    "primary_score": 0.55598887,
+    "topic_scores": {
+      "DOCUMENT": 0.68152477,
+      "PASSAGE": 0.19415185,
+      "ASPECT": 0.55598887,
+      "PASSAGE2": 0.39701467
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-204-B0-r1",
+    "task": "genomics2007",
+    "topic_id": "204",
+    "condition": "B0",
+    "primary_score": 0.63376936,
+    "topic_scores": {
+      "DOCUMENT": 0.41640964,
+      "PASSAGE": 0.18762046,
+      "ASPECT": 0.63376936,
+      "PASSAGE2": 0.26848718
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-204-B1-r1",
+    "task": "genomics2007",
+    "topic_id": "204",
+    "condition": "B1",
+    "primary_score": 0.66911868,
+    "topic_scores": {
+      "DOCUMENT": 0.62616752,
+      "PASSAGE": 0.23926661,
+      "ASPECT": 0.66911868,
+      "PASSAGE2": 0.29717847
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-205-B0-r1",
+    "task": "genomics2007",
+    "topic_id": "205",
+    "condition": "B0",
+    "primary_score": 0.06649979,
+    "topic_scores": {
+      "DOCUMENT": 0.11750525,
+      "PASSAGE": 0.01275304,
+      "ASPECT": 0.06649979,
+      "PASSAGE2": 0.01182657
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-205-B1-r1",
+    "task": "genomics2007",
+    "topic_id": "205",
+    "condition": "B1",
+    "primary_score": 0.03921906,
+    "topic_scores": {
+      "DOCUMENT": 0.19294607,
+      "PASSAGE": 0.00478058,
+      "ASPECT": 0.03921906,
+      "PASSAGE2": 0.00441737
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-206-B0-r1",
+    "task": "genomics2007",
+    "topic_id": "206",
+    "condition": "B0",
+    "primary_score": 0.34076806,
+    "topic_scores": {
+      "DOCUMENT": 0.43370362,
+      "PASSAGE": 0.04812143,
+      "ASPECT": 0.34076806,
+      "PASSAGE2": 0.06951126
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-206-B1-r1",
+    "task": "genomics2007",
+    "topic_id": "206",
+    "condition": "B1",
+    "primary_score": 0.23486044,
+    "topic_scores": {
+      "DOCUMENT": 0.42985745,
+      "PASSAGE": 0.03525708,
+      "ASPECT": 0.23486044,
+      "PASSAGE2": 0.03437238
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-207-B0-r1",
+    "task": "genomics2007",
+    "topic_id": "207",
+    "condition": "B0",
+    "primary_score": 0.00544884,
+    "topic_scores": {
+      "DOCUMENT": 0.01884737,
+      "PASSAGE": 0.0002631,
+      "ASPECT": 0.00544884,
+      "PASSAGE2": 0.00015712
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-207-B1-r1",
+    "task": "genomics2007",
+    "topic_id": "207",
+    "condition": "B1",
+    "primary_score": 0.00706898,
+    "topic_scores": {
+      "DOCUMENT": 0.05976912,
+      "PASSAGE": 0.00090861,
+      "ASPECT": 0.00706898,
+      "PASSAGE2": 0.00037794
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-208-B0-r1",
+    "task": "genomics2007",
+    "topic_id": "208",
+    "condition": "B0",
+    "primary_score": 0.02632957,
+    "topic_scores": {
+      "DOCUMENT": 0.0752394,
+      "PASSAGE": 0.00746377,
+      "ASPECT": 0.02632957,
+      "PASSAGE2": 0.00758921
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-208-B1-r1",
+    "task": "genomics2007",
+    "topic_id": "208",
+    "condition": "B1",
+    "primary_score": 0.0800415,
+    "topic_scores": {
+      "DOCUMENT": 0.43368003,
+      "PASSAGE": 0.03115729,
+      "ASPECT": 0.0800415,
+      "PASSAGE2": 0.02893194
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-209-B0-r1",
+    "task": "genomics2007",
+    "topic_id": "209",
+    "condition": "B0",
+    "primary_score": 0.0434545,
+    "topic_scores": {
+      "DOCUMENT": 0.03424341,
+      "PASSAGE": 0.0101609,
+      "ASPECT": 0.0434545,
+      "PASSAGE2": 0.01209141
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-209-B1-r1",
+    "task": "genomics2007",
+    "topic_id": "209",
+    "condition": "B1",
+    "primary_score": 0.00793651,
+    "topic_scores": {
+      "DOCUMENT": 0.00363636,
+      "PASSAGE": 0.00037481,
+      "ASPECT": 0.00793651,
+      "PASSAGE2": 0.00027807
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-210-B0-r1",
+    "task": "genomics2007",
+    "topic_id": "210",
+    "condition": "B0",
+    "primary_score": 0.02005038,
+    "topic_scores": {
+      "DOCUMENT": 0.08340091,
+      "PASSAGE": 0.01014415,
+      "ASPECT": 0.02005038,
+      "PASSAGE2": 0.00970941
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-210-B1-r1",
+    "task": "genomics2007",
+    "topic_id": "210",
+    "condition": "B1",
+    "primary_score": 0.03685259,
+    "topic_scores": {
+      "DOCUMENT": 0.13355674,
+      "PASSAGE": 0.01389154,
+      "ASPECT": 0.03685259,
+      "PASSAGE2": 0.01256981
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-211-B0-r1",
+    "task": "genomics2007",
+    "topic_id": "211",
+    "condition": "B0",
+    "primary_score": 0.06911256,
+    "topic_scores": {
+      "DOCUMENT": 0.4312772,
+      "PASSAGE": 0.00758616,
+      "ASPECT": 0.06911256,
+      "PASSAGE2": 0.00973579
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-211-B1-r1",
+    "task": "genomics2007",
+    "topic_id": "211",
+    "condition": "B1",
+    "primary_score": 0.05438405,
+    "topic_scores": {
+      "DOCUMENT": 0.4855274,
+      "PASSAGE": 0.00599115,
+      "ASPECT": 0.05438405,
+      "PASSAGE2": 0.0073152
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-212-B0-r1",
+    "task": "genomics2007",
+    "topic_id": "212",
+    "condition": "B0",
+    "primary_score": 0.37094827,
+    "topic_scores": {
+      "DOCUMENT": 0.22807131,
+      "PASSAGE": 0.16290778,
+      "ASPECT": 0.37094827,
+      "PASSAGE2": 0.18564526
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-212-B1-r1",
+    "task": "genomics2007",
+    "topic_id": "212",
+    "condition": "B1",
+    "primary_score": 0.48862176,
+    "topic_scores": {
+      "DOCUMENT": 0.37534074,
+      "PASSAGE": 0.26744728,
+      "ASPECT": 0.48862176,
+      "PASSAGE2": 0.3191111
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-213-B0-r1",
+    "task": "genomics2007",
+    "topic_id": "213",
+    "condition": "B0",
+    "primary_score": 0.52243123,
+    "topic_scores": {
+      "DOCUMENT": 0.63425655,
+      "PASSAGE": 0.13643774,
+      "ASPECT": 0.52243123,
+      "PASSAGE2": 0.15058686
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-213-B1-r1",
+    "task": "genomics2007",
+    "topic_id": "213",
+    "condition": "B1",
+    "primary_score": 0.42805696,
+    "topic_scores": {
+      "DOCUMENT": 0.60386843,
+      "PASSAGE": 0.10813281,
+      "ASPECT": 0.42805696,
+      "PASSAGE2": 0.1286704
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-214-B0-r1",
+    "task": "genomics2007",
+    "topic_id": "214",
+    "condition": "B0",
+    "primary_score": 0.15006626,
+    "topic_scores": {
+      "DOCUMENT": 0.2313109,
+      "PASSAGE": 0.01396575,
+      "ASPECT": 0.15006626,
+      "PASSAGE2": 0.01508997
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-214-B1-r1",
+    "task": "genomics2007",
+    "topic_id": "214",
+    "condition": "B1",
+    "primary_score": 0.07805516,
+    "topic_scores": {
+      "DOCUMENT": 0.15321831,
+      "PASSAGE": 0.00908725,
+      "ASPECT": 0.07805516,
+      "PASSAGE2": 0.01355075
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-215-B0-r1",
+    "task": "genomics2007",
+    "topic_id": "215",
+    "condition": "B0",
+    "primary_score": 0.22938258,
+    "topic_scores": {
+      "DOCUMENT": 0.42246405,
+      "PASSAGE": 0.11067775,
+      "ASPECT": 0.22938258,
+      "PASSAGE2": 0.10629713
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-215-B1-r1",
+    "task": "genomics2007",
+    "topic_id": "215",
+    "condition": "B1",
+    "primary_score": 0.21782943,
+    "topic_scores": {
+      "DOCUMENT": 0.41784971,
+      "PASSAGE": 0.11128478,
+      "ASPECT": 0.21782943,
+      "PASSAGE2": 0.10591164
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-216-B0-r1",
+    "task": "genomics2007",
+    "topic_id": "216",
+    "condition": "B0",
+    "primary_score": 0.01970231,
+    "topic_scores": {
+      "DOCUMENT": 0.03611228,
+      "PASSAGE": 0.00346653,
+      "ASPECT": 0.01970231,
+      "PASSAGE2": 0.0022427
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-216-B1-r1",
+    "task": "genomics2007",
+    "topic_id": "216",
+    "condition": "B1",
+    "primary_score": 0.01683191,
+    "topic_scores": {
+      "DOCUMENT": 0.08104906,
+      "PASSAGE": 0.00566156,
+      "ASPECT": 0.01683191,
+      "PASSAGE2": 0.00308617
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-217-B0-r1",
+    "task": "genomics2007",
+    "topic_id": "217",
+    "condition": "B0",
+    "primary_score": 0.03205552,
+    "topic_scores": {
+      "DOCUMENT": 0.04395224,
+      "PASSAGE": 0.01800175,
+      "ASPECT": 0.03205552,
+      "PASSAGE2": 0.01444737
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-217-B1-r1",
+    "task": "genomics2007",
+    "topic_id": "217",
+    "condition": "B1",
+    "primary_score": 0.02495142,
+    "topic_scores": {
+      "DOCUMENT": 0.03858637,
+      "PASSAGE": 0.01712059,
+      "ASPECT": 0.02495142,
+      "PASSAGE2": 0.01417273
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-218-B0-r1",
+    "task": "genomics2007",
+    "topic_id": "218",
+    "condition": "B0",
+    "primary_score": 0.13313986,
+    "topic_scores": {
+      "DOCUMENT": 0.30516782,
+      "PASSAGE": 0.06225183,
+      "ASPECT": 0.13313986,
+      "PASSAGE2": 0.08595336
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-218-B1-r1",
+    "task": "genomics2007",
+    "topic_id": "218",
+    "condition": "B1",
+    "primary_score": 0.11944794,
+    "topic_scores": {
+      "DOCUMENT": 0.37535622,
+      "PASSAGE": 0.07026105,
+      "ASPECT": 0.11944794,
+      "PASSAGE2": 0.09465039
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-219-B0-r1",
+    "task": "genomics2007",
+    "topic_id": "219",
+    "condition": "B0",
+    "primary_score": 0.00686369,
+    "topic_scores": {
+      "DOCUMENT": 0.00849218,
+      "PASSAGE": 0.00202404,
+      "ASPECT": 0.00686369,
+      "PASSAGE2": 0.00127504
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-219-B1-r1",
+    "task": "genomics2007",
+    "topic_id": "219",
+    "condition": "B1",
+    "primary_score": 0.01282618,
+    "topic_scores": {
+      "DOCUMENT": 0.02348161,
+      "PASSAGE": 0.0026241,
+      "ASPECT": 0.01282618,
+      "PASSAGE2": 0.0025624
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-220-B0-r1",
+    "task": "genomics2007",
+    "topic_id": "220",
+    "condition": "B0",
+    "primary_score": 0.46521407,
+    "topic_scores": {
+      "DOCUMENT": 0.33983738,
+      "PASSAGE": 0.01946123,
+      "ASPECT": 0.46521407,
+      "PASSAGE2": 0.01619047
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-220-B1-r1",
+    "task": "genomics2007",
+    "topic_id": "220",
+    "condition": "B1",
+    "primary_score": 0.875,
+    "topic_scores": {
+      "DOCUMENT": 0.92424242,
+      "PASSAGE": 0.11710377,
+      "ASPECT": 0.875,
+      "PASSAGE2": 0.11547896
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-221-B0-r1",
+    "task": "genomics2007",
+    "topic_id": "221",
+    "condition": "B0",
+    "primary_score": 0.49906347,
+    "topic_scores": {
+      "DOCUMENT": 0.63494638,
+      "PASSAGE": 0.25123726,
+      "ASPECT": 0.49906347,
+      "PASSAGE2": 0.26920748
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-221-B1-r1",
+    "task": "genomics2007",
+    "topic_id": "221",
+    "condition": "B1",
+    "primary_score": 0.44947126,
+    "topic_scores": {
+      "DOCUMENT": 0.63165682,
+      "PASSAGE": 0.21296313,
+      "ASPECT": 0.44947126,
+      "PASSAGE2": 0.25742901
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-222-B0-r1",
+    "task": "genomics2007",
+    "topic_id": "222",
+    "condition": "B0",
+    "primary_score": 0.17673927,
+    "topic_scores": {
+      "DOCUMENT": 0.0488297,
+      "PASSAGE": 0.06648669,
+      "ASPECT": 0.17673927,
+      "PASSAGE2": 0.08684888
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-222-B1-r1",
+    "task": "genomics2007",
+    "topic_id": "222",
+    "condition": "B1",
+    "primary_score": 0.20778388,
+    "topic_scores": {
+      "DOCUMENT": 0.06563466,
+      "PASSAGE": 0.09519372,
+      "ASPECT": 0.20778388,
+      "PASSAGE2": 0.09934643
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-223-B0-r1",
+    "task": "genomics2007",
+    "topic_id": "223",
+    "condition": "B0",
+    "primary_score": 0.17680035,
+    "topic_scores": {
+      "DOCUMENT": 0.29362552,
+      "PASSAGE": 0.0172254,
+      "ASPECT": 0.17680035,
+      "PASSAGE2": 0.01529341
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-223-B1-r1",
+    "task": "genomics2007",
+    "topic_id": "223",
+    "condition": "B1",
+    "primary_score": 0.02144945,
+    "topic_scores": {
+      "DOCUMENT": 0.09917287,
+      "PASSAGE": 0.00318822,
+      "ASPECT": 0.02144945,
+      "PASSAGE2": 0.00322152
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-224-B0-r1",
+    "task": "genomics2007",
+    "topic_id": "224",
+    "condition": "B0",
+    "primary_score": 0.00106383,
+    "topic_scores": {
+      "DOCUMENT": 0.00054735,
+      "PASSAGE": 3.814e-05,
+      "ASPECT": 0.00106383,
+      "PASSAGE2": 1.019e-05
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-224-B1-r1",
+    "task": "genomics2007",
+    "topic_id": "224",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "DOCUMENT": 0.0,
+      "PASSAGE": 0.0,
+      "ASPECT": 0.0,
+      "PASSAGE2": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-225-B0-r1",
+    "task": "genomics2007",
+    "topic_id": "225",
+    "condition": "B0",
+    "primary_score": 0.00564972,
+    "topic_scores": {
+      "DOCUMENT": 0.00680272,
+      "PASSAGE": 0.00223451,
+      "ASPECT": 0.00564972,
+      "PASSAGE2": 0.00112145
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-225-B1-r1",
+    "task": "genomics2007",
+    "topic_id": "225",
+    "condition": "B1",
+    "primary_score": 0.03846154,
+    "topic_scores": {
+      "DOCUMENT": 0.14285714,
+      "PASSAGE": 0.01631625,
+      "ASPECT": 0.03846154,
+      "PASSAGE2": 0.00831526
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-226-B0-r1",
+    "task": "genomics2007",
+    "topic_id": "226",
+    "condition": "B0",
+    "primary_score": 0.12216986,
+    "topic_scores": {
+      "DOCUMENT": 0.17010769,
+      "PASSAGE": 0.04684115,
+      "ASPECT": 0.12216986,
+      "PASSAGE2": 0.0607903
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-226-B1-r1",
+    "task": "genomics2007",
+    "topic_id": "226",
+    "condition": "B1",
+    "primary_score": 0.21626218,
+    "topic_scores": {
+      "DOCUMENT": 0.34725476,
+      "PASSAGE": 0.0932547,
+      "ASPECT": 0.21626218,
+      "PASSAGE2": 0.11968401
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-227-B0-r1",
+    "task": "genomics2007",
+    "topic_id": "227",
+    "condition": "B0",
+    "primary_score": 0.15830609,
+    "topic_scores": {
+      "DOCUMENT": 0.23369076,
+      "PASSAGE": 0.10109705,
+      "ASPECT": 0.15830609,
+      "PASSAGE2": 0.11217137
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-227-B1-r1",
+    "task": "genomics2007",
+    "topic_id": "227",
+    "condition": "B1",
+    "primary_score": 0.22558178,
+    "topic_scores": {
+      "DOCUMENT": 0.32931076,
+      "PASSAGE": 0.15333079,
+      "ASPECT": 0.22558178,
+      "PASSAGE2": 0.17887713
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-228-B0-r1",
+    "task": "genomics2007",
+    "topic_id": "228",
+    "condition": "B0",
+    "primary_score": 0.05134555,
+    "topic_scores": {
+      "DOCUMENT": 0.02701118,
+      "PASSAGE": 0.00340215,
+      "ASPECT": 0.05134555,
+      "PASSAGE2": 0.0018915
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-228-B1-r1",
+    "task": "genomics2007",
+    "topic_id": "228",
+    "condition": "B1",
+    "primary_score": 0.00360427,
+    "topic_scores": {
+      "DOCUMENT": 0.00863024,
+      "PASSAGE": 0.00044644,
+      "ASPECT": 0.00360427,
+      "PASSAGE2": 0.00034594
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-229-B0-r1",
+    "task": "genomics2007",
+    "topic_id": "229",
+    "condition": "B0",
+    "primary_score": 0.64896472,
+    "topic_scores": {
+      "DOCUMENT": 0.30638756,
+      "PASSAGE": 0.09235136,
+      "ASPECT": 0.64896472,
+      "PASSAGE2": 0.21800915
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-229-B1-r1",
+    "task": "genomics2007",
+    "topic_id": "229",
+    "condition": "B1",
+    "primary_score": 0.81013927,
+    "topic_scores": {
+      "DOCUMENT": 0.75813093,
+      "PASSAGE": 0.15998635,
+      "ASPECT": 0.81013927,
+      "PASSAGE2": 0.20835008
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-230-B0-r1",
+    "task": "genomics2007",
+    "topic_id": "230",
+    "condition": "B0",
+    "primary_score": 0.26307564,
+    "topic_scores": {
+      "DOCUMENT": 0.23209439,
+      "PASSAGE": 0.14736628,
+      "ASPECT": 0.26307564,
+      "PASSAGE2": 0.16093644
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-230-B1-r1",
+    "task": "genomics2007",
+    "topic_id": "230",
+    "condition": "B1",
+    "primary_score": 0.28753196,
+    "topic_scores": {
+      "DOCUMENT": 0.25266332,
+      "PASSAGE": 0.14336732,
+      "ASPECT": 0.28753196,
+      "PASSAGE2": 0.16301418
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-231-B0-r1",
+    "task": "genomics2007",
+    "topic_id": "231",
+    "condition": "B0",
+    "primary_score": 0.02243197,
+    "topic_scores": {
+      "DOCUMENT": 0.01996141,
+      "PASSAGE": 0.00058654,
+      "ASPECT": 0.02243197,
+      "PASSAGE2": 0.00012891
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-231-B1-r1",
+    "task": "genomics2007",
+    "topic_id": "231",
+    "condition": "B1",
+    "primary_score": 0.05201977,
+    "topic_scores": {
+      "DOCUMENT": 0.03681606,
+      "PASSAGE": 0.00152409,
+      "ASPECT": 0.05201977,
+      "PASSAGE2": 0.00051878
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-232-B0-r1",
+    "task": "genomics2007",
+    "topic_id": "232",
+    "condition": "B0",
+    "primary_score": 0.07208845,
+    "topic_scores": {
+      "DOCUMENT": 0.13854526,
+      "PASSAGE": 0.00831613,
+      "ASPECT": 0.07208845,
+      "PASSAGE2": 0.00963382
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-232-B1-r1",
+    "task": "genomics2007",
+    "topic_id": "232",
+    "condition": "B1",
+    "primary_score": 0.12163593,
+    "topic_scores": {
+      "DOCUMENT": 0.16839225,
+      "PASSAGE": 0.00993865,
+      "ASPECT": 0.12163593,
+      "PASSAGE2": 0.00800337
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-233-B0-r1",
+    "task": "genomics2007",
+    "topic_id": "233",
+    "condition": "B0",
+    "primary_score": 0.16666667,
+    "topic_scores": {
+      "DOCUMENT": 0.08384794,
+      "PASSAGE": 0.0213038,
+      "ASPECT": 0.16666667,
+      "PASSAGE2": 0.01299981
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-233-B1-r1",
+    "task": "genomics2007",
+    "topic_id": "233",
+    "condition": "B1",
+    "primary_score": 0.07142857,
+    "topic_scores": {
+      "DOCUMENT": 0.04064056,
+      "PASSAGE": 0.00649576,
+      "ASPECT": 0.07142857,
+      "PASSAGE2": 0.00432758
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-234-B0-r1",
+    "task": "genomics2007",
+    "topic_id": "234",
+    "condition": "B0",
+    "primary_score": 0.00384988,
+    "topic_scores": {
+      "DOCUMENT": 0.00576737,
+      "PASSAGE": 0.00073902,
+      "ASPECT": 0.00384988,
+      "PASSAGE2": 0.00029307
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-234-B1-r1",
+    "task": "genomics2007",
+    "topic_id": "234",
+    "condition": "B1",
+    "primary_score": 0.00048337,
+    "topic_scores": {
+      "DOCUMENT": 0.00069169,
+      "PASSAGE": 6.75e-05,
+      "ASPECT": 0.00048337,
+      "PASSAGE2": 7.044e-05
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-235-B0-r1",
+    "task": "genomics2007",
+    "topic_id": "235",
+    "condition": "B0",
+    "primary_score": 0.21686126,
+    "topic_scores": {
+      "DOCUMENT": 0.24190523,
+      "PASSAGE": 0.11142094,
+      "ASPECT": 0.21686126,
+      "PASSAGE2": 0.13022474
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "genomics2007-235-B1-r1",
+    "task": "genomics2007",
+    "topic_id": "235",
+    "condition": "B1",
+    "primary_score": 0.19295667,
+    "topic_scores": {
+      "DOCUMENT": 0.3405568,
+      "PASSAGE": 0.11979627,
+      "ASPECT": 0.19295667,
+      "PASSAGE2": 0.13886778
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD008122-B0-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD008122",
+    "condition": "B0",
+    "primary_score": 0.903,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 56.0,
+      "num_rels": 62.0,
+      "last_rel": 4238.0,
+      "norm_last_rel": 0.848,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.0,
+      "wss_95": 0.0,
+      "total_cost": 4000.0,
+      "norm_area": 0.753,
+      "ap": 0.075,
+      "recall_total": 56.0,
+      "recall_max": 62.0,
+      "recall_at_threshold": 0.903,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.113,
+      "recall@100": 0.21,
+      "recall@200": 0.323,
+      "recall@300": 0.355,
+      "recall@400": 0.452,
+      "recall@500": 0.468,
+      "recall@1000": 0.629,
+      "recall@2000": 0.79,
+      "recall@3000": 0.839,
+      "recall@4000": 0.887,
+      "recall@5000": 0.903
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD008122-B1-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD008122",
+    "condition": "B1",
+    "primary_score": 0.903,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 56.0,
+      "num_rels": 62.0,
+      "last_rel": 4367.0,
+      "norm_last_rel": 0.873,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.0,
+      "wss_95": 0.0,
+      "total_cost": 4000.0,
+      "norm_area": 0.779,
+      "ap": 0.091,
+      "recall_total": 56.0,
+      "recall_max": 62.0,
+      "recall_at_threshold": 0.903,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.113,
+      "recall@100": 0.226,
+      "recall@200": 0.355,
+      "recall@300": 0.419,
+      "recall@400": 0.484,
+      "recall@500": 0.532,
+      "recall@1000": 0.71,
+      "recall@2000": 0.806,
+      "recall@3000": 0.855,
+      "recall@4000": 0.887,
+      "recall@5000": 0.903
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD008587-B0-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD008587",
+    "condition": "B0",
+    "primary_score": 1.0,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 35.0,
+      "num_rels": 35.0,
+      "last_rel": 1691.0,
+      "norm_last_rel": 0.338,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.662,
+      "wss_95": 0.716,
+      "total_cost": 4300.0,
+      "norm_area": 0.944,
+      "ap": 0.192,
+      "recall_total": 35.0,
+      "recall_max": 35.0,
+      "recall_at_threshold": 1.0,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.286,
+      "recall@100": 0.486,
+      "recall@200": 0.629,
+      "recall@300": 0.686,
+      "recall@400": 0.771,
+      "recall@500": 0.829,
+      "recall@1000": 0.914,
+      "recall@2000": 1.0,
+      "recall@3000": 1.0,
+      "recall@4000": 1.0,
+      "recall@5000": 1.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD008587-B1-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD008587",
+    "condition": "B1",
+    "primary_score": 0.943,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 33.0,
+      "num_rels": 35.0,
+      "last_rel": 2782.0,
+      "norm_last_rel": 0.556,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.0,
+      "wss_95": 0.394,
+      "total_cost": 4380.0,
+      "norm_area": 0.863,
+      "ap": 0.112,
+      "recall_total": 33.0,
+      "recall_max": 35.0,
+      "recall_at_threshold": 0.943,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.257,
+      "recall@100": 0.429,
+      "recall@200": 0.6,
+      "recall@300": 0.6,
+      "recall@400": 0.686,
+      "recall@500": 0.714,
+      "recall@1000": 0.8,
+      "recall@2000": 0.914,
+      "recall@3000": 0.943,
+      "recall@4000": 0.943,
+      "recall@5000": 0.943
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD008759-B0-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD008759",
+    "condition": "B0",
+    "primary_score": 0.923,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 48.0,
+      "num_rels": 52.0,
+      "last_rel": 1808.0,
+      "norm_last_rel": 0.362,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.0,
+      "wss_95": 0.0,
+      "total_cost": 4120.0,
+      "norm_area": 0.887,
+      "ap": 0.168,
+      "recall_total": 48.0,
+      "recall_max": 52.0,
+      "recall_at_threshold": 0.923,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.231,
+      "recall@100": 0.385,
+      "recall@200": 0.596,
+      "recall@300": 0.788,
+      "recall@400": 0.865,
+      "recall@500": 0.865,
+      "recall@1000": 0.885,
+      "recall@2000": 0.923,
+      "recall@3000": 0.923,
+      "recall@4000": 0.923,
+      "recall@5000": 0.923
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD008759-B1-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD008759",
+    "condition": "B1",
+    "primary_score": 0.923,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 48.0,
+      "num_rels": 52.0,
+      "last_rel": 2368.0,
+      "norm_last_rel": 0.474,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.0,
+      "wss_95": 0.0,
+      "total_cost": 4120.0,
+      "norm_area": 0.887,
+      "ap": 0.199,
+      "recall_total": 48.0,
+      "recall_max": 52.0,
+      "recall_at_threshold": 0.923,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.269,
+      "recall@100": 0.404,
+      "recall@200": 0.596,
+      "recall@300": 0.712,
+      "recall@400": 0.769,
+      "recall@500": 0.885,
+      "recall@1000": 0.904,
+      "recall@2000": 0.904,
+      "recall@3000": 0.923,
+      "recall@4000": 0.923,
+      "recall@5000": 0.923
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD008892-B0-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD008892",
+    "condition": "B0",
+    "primary_score": 0.853,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 29.0,
+      "num_rels": 34.0,
+      "last_rel": 4625.0,
+      "norm_last_rel": 0.925,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.0,
+      "wss_95": 0.0,
+      "total_cost": 4520.0,
+      "norm_area": 0.769,
+      "ap": 0.11,
+      "recall_total": 29.0,
+      "recall_max": 34.0,
+      "recall_at_threshold": 0.853,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.147,
+      "recall@100": 0.206,
+      "recall@200": 0.353,
+      "recall@300": 0.441,
+      "recall@400": 0.588,
+      "recall@500": 0.706,
+      "recall@1000": 0.765,
+      "recall@2000": 0.824,
+      "recall@3000": 0.824,
+      "recall@4000": 0.824,
+      "recall@5000": 0.853
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD008892-B1-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD008892",
+    "condition": "B1",
+    "primary_score": 0.912,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 31.0,
+      "num_rels": 34.0,
+      "last_rel": 2634.0,
+      "norm_last_rel": 0.527,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.0,
+      "wss_95": 0.0,
+      "total_cost": 4440.0,
+      "norm_area": 0.815,
+      "ap": 0.126,
+      "recall_total": 31.0,
+      "recall_max": 34.0,
+      "recall_at_threshold": 0.912,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.206,
+      "recall@100": 0.294,
+      "recall@200": 0.382,
+      "recall@300": 0.471,
+      "recall@400": 0.559,
+      "recall@500": 0.618,
+      "recall@1000": 0.735,
+      "recall@2000": 0.853,
+      "recall@3000": 0.912,
+      "recall@4000": 0.912,
+      "recall@5000": 0.912
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD009175-B0-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD009175",
+    "condition": "B0",
+    "primary_score": 1.0,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 7.0,
+      "num_rels": 7.0,
+      "last_rel": 420.0,
+      "norm_last_rel": 0.084,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.916,
+      "wss_95": 0.866,
+      "total_cost": 4860.0,
+      "norm_area": 0.982,
+      "ap": 0.113,
+      "recall_total": 7.0,
+      "recall_max": 7.0,
+      "recall_at_threshold": 1.0,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.571,
+      "recall@100": 0.857,
+      "recall@200": 0.857,
+      "recall@300": 0.857,
+      "recall@400": 0.857,
+      "recall@500": 1.0,
+      "recall@1000": 1.0,
+      "recall@2000": 1.0,
+      "recall@3000": 1.0,
+      "recall@4000": 1.0,
+      "recall@5000": 1.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD009175-B1-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD009175",
+    "condition": "B1",
+    "primary_score": 1.0,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 7.0,
+      "num_rels": 7.0,
+      "last_rel": 461.0,
+      "norm_last_rel": 0.092,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.908,
+      "wss_95": 0.858,
+      "total_cost": 4860.0,
+      "norm_area": 0.985,
+      "ap": 0.215,
+      "recall_total": 7.0,
+      "recall_max": 7.0,
+      "recall_at_threshold": 1.0,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.857,
+      "recall@100": 0.857,
+      "recall@200": 0.857,
+      "recall@300": 0.857,
+      "recall@400": 0.857,
+      "recall@500": 1.0,
+      "recall@1000": 1.0,
+      "recall@2000": 1.0,
+      "recall@3000": 1.0,
+      "recall@4000": 1.0,
+      "recall@5000": 1.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD009263-B0-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD009263",
+    "condition": "B0",
+    "primary_score": 0.727,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 8.0,
+      "num_rels": 11.0,
+      "last_rel": 1024.0,
+      "norm_last_rel": 0.205,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.0,
+      "wss_95": 0.0,
+      "total_cost": 4900.0,
+      "norm_area": 0.69,
+      "ap": 0.136,
+      "recall_total": 8.0,
+      "recall_max": 11.0,
+      "recall_at_threshold": 0.727,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.273,
+      "recall@100": 0.364,
+      "recall@200": 0.364,
+      "recall@300": 0.545,
+      "recall@400": 0.545,
+      "recall@500": 0.545,
+      "recall@1000": 0.636,
+      "recall@2000": 0.727,
+      "recall@3000": 0.727,
+      "recall@4000": 0.727,
+      "recall@5000": 0.727
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD009263-B1-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD009263",
+    "condition": "B1",
+    "primary_score": 0.818,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 9.0,
+      "num_rels": 11.0,
+      "last_rel": 419.0,
+      "norm_last_rel": 0.084,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.0,
+      "wss_95": 0.0,
+      "total_cost": 4860.0,
+      "norm_area": 0.797,
+      "ap": 0.132,
+      "recall_total": 9.0,
+      "recall_max": 11.0,
+      "recall_at_threshold": 0.818,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.364,
+      "recall@100": 0.455,
+      "recall@200": 0.545,
+      "recall@300": 0.727,
+      "recall@400": 0.727,
+      "recall@500": 0.818,
+      "recall@1000": 0.818,
+      "recall@2000": 0.818,
+      "recall@3000": 0.818,
+      "recall@4000": 0.818,
+      "recall@5000": 0.818
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD009694-B0-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD009694",
+    "condition": "B0",
+    "primary_score": 1.0,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 10.0,
+      "num_rels": 10.0,
+      "last_rel": 698.0,
+      "norm_last_rel": 0.14,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.86,
+      "wss_95": 0.81,
+      "total_cost": 4800.0,
+      "norm_area": 0.968,
+      "ap": 0.286,
+      "recall_total": 10.0,
+      "recall_max": 10.0,
+      "recall_at_threshold": 1.0,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.5,
+      "recall@100": 0.7,
+      "recall@200": 0.7,
+      "recall@300": 0.8,
+      "recall@400": 0.8,
+      "recall@500": 0.9,
+      "recall@1000": 1.0,
+      "recall@2000": 1.0,
+      "recall@3000": 1.0,
+      "recall@4000": 1.0,
+      "recall@5000": 1.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD009694-B1-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD009694",
+    "condition": "B1",
+    "primary_score": 1.0,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 10.0,
+      "num_rels": 10.0,
+      "last_rel": 154.0,
+      "norm_last_rel": 0.031,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.969,
+      "wss_95": 0.919,
+      "total_cost": 4800.0,
+      "norm_area": 0.992,
+      "ap": 0.44,
+      "recall_total": 10.0,
+      "recall_max": 10.0,
+      "recall_at_threshold": 1.0,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.5,
+      "recall@100": 0.9,
+      "recall@200": 1.0,
+      "recall@300": 1.0,
+      "recall@400": 1.0,
+      "recall@500": 1.0,
+      "recall@1000": 1.0,
+      "recall@2000": 1.0,
+      "recall@3000": 1.0,
+      "recall@4000": 1.0,
+      "recall@5000": 1.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD010213-B0-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD010213",
+    "condition": "B0",
+    "primary_score": 0.1,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 4.0,
+      "num_rels": 40.0,
+      "last_rel": 4536.0,
+      "norm_last_rel": 0.907,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.0,
+      "wss_95": 0.0,
+      "total_cost": 5640.0,
+      "norm_area": 0.07,
+      "ap": 0.001,
+      "recall_total": 4.0,
+      "recall_max": 40.0,
+      "recall_at_threshold": 0.1,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.0,
+      "recall@100": 0.025,
+      "recall@200": 0.025,
+      "recall@300": 0.025,
+      "recall@400": 0.025,
+      "recall@500": 0.025,
+      "recall@1000": 0.075,
+      "recall@2000": 0.075,
+      "recall@3000": 0.075,
+      "recall@4000": 0.075,
+      "recall@5000": 0.1
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD010213-B1-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD010213",
+    "condition": "B1",
+    "primary_score": 0.35,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 14.0,
+      "num_rels": 40.0,
+      "last_rel": 4928.0,
+      "norm_last_rel": 0.986,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.0,
+      "wss_95": 0.0,
+      "total_cost": 5240.0,
+      "norm_area": 0.215,
+      "ap": 0.002,
+      "recall_total": 14.0,
+      "recall_max": 40.0,
+      "recall_at_threshold": 0.35,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.0,
+      "recall@100": 0.025,
+      "recall@200": 0.05,
+      "recall@300": 0.075,
+      "recall@400": 0.075,
+      "recall@500": 0.075,
+      "recall@1000": 0.1,
+      "recall@2000": 0.2,
+      "recall@3000": 0.275,
+      "recall@4000": 0.325,
+      "recall@5000": 0.35
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD010296-B0-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD010296",
+    "condition": "B0",
+    "primary_score": 1.0,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 38.0,
+      "num_rels": 38.0,
+      "last_rel": 1821.0,
+      "norm_last_rel": 0.364,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.636,
+      "wss_95": 0.882,
+      "total_cost": 4240.0,
+      "norm_area": 0.98,
+      "ap": 0.502,
+      "recall_total": 38.0,
+      "recall_max": 38.0,
+      "recall_at_threshold": 1.0,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.579,
+      "recall@100": 0.763,
+      "recall@200": 0.895,
+      "recall@300": 0.921,
+      "recall@400": 0.947,
+      "recall@500": 0.974,
+      "recall@1000": 0.974,
+      "recall@2000": 1.0,
+      "recall@3000": 1.0,
+      "recall@4000": 1.0,
+      "recall@5000": 1.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD010296-B1-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD010296",
+    "condition": "B1",
+    "primary_score": 1.0,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 38.0,
+      "num_rels": 38.0,
+      "last_rel": 3492.0,
+      "norm_last_rel": 0.698,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.302,
+      "wss_95": 0.894,
+      "total_cost": 4240.0,
+      "norm_area": 0.971,
+      "ap": 0.533,
+      "recall_total": 38.0,
+      "recall_max": 38.0,
+      "recall_at_threshold": 1.0,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.553,
+      "recall@100": 0.684,
+      "recall@200": 0.868,
+      "recall@300": 0.947,
+      "recall@400": 0.974,
+      "recall@500": 0.974,
+      "recall@1000": 0.974,
+      "recall@2000": 0.974,
+      "recall@3000": 0.974,
+      "recall@4000": 1.0,
+      "recall@5000": 1.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD010502-B0-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD010502",
+    "condition": "B0",
+    "primary_score": 0.756,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 62.0,
+      "num_rels": 82.0,
+      "last_rel": 3768.0,
+      "norm_last_rel": 0.754,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.0,
+      "wss_95": 0.0,
+      "total_cost": 4160.0,
+      "norm_area": 0.711,
+      "ap": 0.231,
+      "recall_total": 62.0,
+      "recall_max": 82.0,
+      "recall_at_threshold": 0.756,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.207,
+      "recall@100": 0.317,
+      "recall@200": 0.427,
+      "recall@300": 0.524,
+      "recall@400": 0.573,
+      "recall@500": 0.634,
+      "recall@1000": 0.72,
+      "recall@2000": 0.732,
+      "recall@3000": 0.732,
+      "recall@4000": 0.756,
+      "recall@5000": 0.756
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD010502-B1-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD010502",
+    "condition": "B1",
+    "primary_score": 0.78,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 64.0,
+      "num_rels": 82.0,
+      "last_rel": 4716.0,
+      "norm_last_rel": 0.943,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.0,
+      "wss_95": 0.0,
+      "total_cost": 4080.0,
+      "norm_area": 0.719,
+      "ap": 0.198,
+      "recall_total": 64.0,
+      "recall_max": 82.0,
+      "recall_at_threshold": 0.78,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.146,
+      "recall@100": 0.268,
+      "recall@200": 0.476,
+      "recall@300": 0.561,
+      "recall@400": 0.61,
+      "recall@500": 0.634,
+      "recall@1000": 0.707,
+      "recall@2000": 0.72,
+      "recall@3000": 0.756,
+      "recall@4000": 0.768,
+      "recall@5000": 0.78
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD010657-B0-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD010657",
+    "condition": "B0",
+    "primary_score": 0.973,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 36.0,
+      "num_rels": 37.0,
+      "last_rel": 4211.0,
+      "norm_last_rel": 0.842,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.0,
+      "wss_95": 0.474,
+      "total_cost": 4300.0,
+      "norm_area": 0.89,
+      "ap": 0.158,
+      "recall_total": 36.0,
+      "recall_max": 37.0,
+      "recall_at_threshold": 0.973,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.351,
+      "recall@100": 0.432,
+      "recall@200": 0.595,
+      "recall@300": 0.649,
+      "recall@400": 0.703,
+      "recall@500": 0.784,
+      "recall@1000": 0.838,
+      "recall@2000": 0.919,
+      "recall@3000": 0.946,
+      "recall@4000": 0.946,
+      "recall@5000": 0.973
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD010657-B1-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD010657",
+    "condition": "B1",
+    "primary_score": 0.946,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 35.0,
+      "num_rels": 37.0,
+      "last_rel": 4021.0,
+      "norm_last_rel": 0.804,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.0,
+      "wss_95": 0.146,
+      "total_cost": 4340.0,
+      "norm_area": 0.867,
+      "ap": 0.177,
+      "recall_total": 35.0,
+      "recall_max": 37.0,
+      "recall_at_threshold": 0.946,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.351,
+      "recall@100": 0.486,
+      "recall@200": 0.595,
+      "recall@300": 0.649,
+      "recall@400": 0.649,
+      "recall@500": 0.73,
+      "recall@1000": 0.811,
+      "recall@2000": 0.919,
+      "recall@3000": 0.919,
+      "recall@4000": 0.919,
+      "recall@5000": 0.946
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD010680-B0-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD010680",
+    "condition": "B0",
+    "primary_score": 1.0,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 1.0,
+      "num_rels": 1.0,
+      "last_rel": 174.0,
+      "norm_last_rel": 0.035,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.965,
+      "wss_95": 0.915,
+      "total_cost": 4980.0,
+      "norm_area": 0.965,
+      "ap": 0.006,
+      "recall_total": 1.0,
+      "recall_max": 1.0,
+      "recall_at_threshold": 1.0,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.0,
+      "recall@100": 0.0,
+      "recall@200": 1.0,
+      "recall@300": 1.0,
+      "recall@400": 1.0,
+      "recall@500": 1.0,
+      "recall@1000": 1.0,
+      "recall@2000": 1.0,
+      "recall@3000": 1.0,
+      "recall@4000": 1.0,
+      "recall@5000": 1.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD010680-B1-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD010680",
+    "condition": "B1",
+    "primary_score": 1.0,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 1.0,
+      "num_rels": 1.0,
+      "last_rel": 3943.0,
+      "norm_last_rel": 0.789,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.211,
+      "wss_95": 0.161,
+      "total_cost": 4980.0,
+      "norm_area": 0.212,
+      "ap": 0.0,
+      "recall_total": 1.0,
+      "recall_max": 1.0,
+      "recall_at_threshold": 1.0,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.0,
+      "recall@100": 0.0,
+      "recall@200": 0.0,
+      "recall@300": 0.0,
+      "recall@400": 0.0,
+      "recall@500": 0.0,
+      "recall@1000": 0.0,
+      "recall@2000": 0.0,
+      "recall@3000": 0.0,
+      "recall@4000": 1.0,
+      "recall@5000": 1.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD010864-B0-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD010864",
+    "condition": "B0",
+    "primary_score": 1.0,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 3.0,
+      "num_rels": 3.0,
+      "last_rel": 230.0,
+      "norm_last_rel": 0.046,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.954,
+      "wss_95": 0.904,
+      "total_cost": 4940.0,
+      "norm_area": 0.969,
+      "ap": 0.021,
+      "recall_total": 3.0,
+      "recall_max": 3.0,
+      "recall_at_threshold": 1.0,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.333,
+      "recall@100": 0.333,
+      "recall@200": 0.333,
+      "recall@300": 1.0,
+      "recall@400": 1.0,
+      "recall@500": 1.0,
+      "recall@1000": 1.0,
+      "recall@2000": 1.0,
+      "recall@3000": 1.0,
+      "recall@4000": 1.0,
+      "recall@5000": 1.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD010864-B1-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD010864",
+    "condition": "B1",
+    "primary_score": 1.0,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 3.0,
+      "num_rels": 3.0,
+      "last_rel": 620.0,
+      "norm_last_rel": 0.124,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.876,
+      "wss_95": 0.826,
+      "total_cost": 4940.0,
+      "norm_area": 0.915,
+      "ap": 0.007,
+      "recall_total": 3.0,
+      "recall_max": 3.0,
+      "recall_at_threshold": 1.0,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.0,
+      "recall@100": 0.333,
+      "recall@200": 0.333,
+      "recall@300": 0.333,
+      "recall@400": 0.333,
+      "recall@500": 0.333,
+      "recall@1000": 1.0,
+      "recall@2000": 1.0,
+      "recall@3000": 1.0,
+      "recall@4000": 1.0,
+      "recall@5000": 1.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD011053-B0-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD011053",
+    "condition": "B0",
+    "primary_score": 0.778,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 7.0,
+      "num_rels": 9.0,
+      "last_rel": 4875.0,
+      "norm_last_rel": 0.975,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.0,
+      "wss_95": 0.0,
+      "total_cost": 4900.0,
+      "norm_area": 0.469,
+      "ap": 0.019,
+      "recall_total": 7.0,
+      "recall_max": 9.0,
+      "recall_at_threshold": 0.778,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.222,
+      "recall@100": 0.222,
+      "recall@200": 0.222,
+      "recall@300": 0.333,
+      "recall@400": 0.333,
+      "recall@500": 0.333,
+      "recall@1000": 0.444,
+      "recall@2000": 0.444,
+      "recall@3000": 0.556,
+      "recall@4000": 0.556,
+      "recall@5000": 0.778
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD011053-B1-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD011053",
+    "condition": "B1",
+    "primary_score": 0.556,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 5.0,
+      "num_rels": 9.0,
+      "last_rel": 2442.0,
+      "norm_last_rel": 0.488,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.0,
+      "wss_95": 0.0,
+      "total_cost": 4980.0,
+      "norm_area": 0.47,
+      "ap": 0.004,
+      "recall_total": 5.0,
+      "recall_max": 9.0,
+      "recall_at_threshold": 0.556,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.0,
+      "recall@100": 0.111,
+      "recall@200": 0.111,
+      "recall@300": 0.222,
+      "recall@400": 0.333,
+      "recall@500": 0.333,
+      "recall@1000": 0.444,
+      "recall@2000": 0.444,
+      "recall@3000": 0.556,
+      "recall@4000": 0.556,
+      "recall@5000": 0.556
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD011126-B0-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD011126",
+    "condition": "B0",
+    "primary_score": 1.0,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 12.0,
+      "num_rels": 12.0,
+      "last_rel": 286.0,
+      "norm_last_rel": 0.057,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.943,
+      "wss_95": 0.908,
+      "total_cost": 4760.0,
+      "norm_area": 0.982,
+      "ap": 0.137,
+      "recall_total": 12.0,
+      "recall_max": 12.0,
+      "recall_at_threshold": 1.0,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.417,
+      "recall@100": 0.667,
+      "recall@200": 0.833,
+      "recall@300": 1.0,
+      "recall@400": 1.0,
+      "recall@500": 1.0,
+      "recall@1000": 1.0,
+      "recall@2000": 1.0,
+      "recall@3000": 1.0,
+      "recall@4000": 1.0,
+      "recall@5000": 1.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD011126-B1-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD011126",
+    "condition": "B1",
+    "primary_score": 1.0,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 12.0,
+      "num_rels": 12.0,
+      "last_rel": 382.0,
+      "norm_last_rel": 0.076,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.924,
+      "wss_95": 0.913,
+      "total_cost": 4760.0,
+      "norm_area": 0.977,
+      "ap": 0.08,
+      "recall_total": 12.0,
+      "recall_max": 12.0,
+      "recall_at_threshold": 1.0,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.25,
+      "recall@100": 0.5,
+      "recall@200": 0.917,
+      "recall@300": 0.917,
+      "recall@400": 1.0,
+      "recall@500": 1.0,
+      "recall@1000": 1.0,
+      "recall@2000": 1.0,
+      "recall@3000": 1.0,
+      "recall@4000": 1.0,
+      "recall@5000": 1.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD011420-B0-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD011420",
+    "condition": "B0",
+    "primary_score": 0.5,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 4.0,
+      "num_rels": 8.0,
+      "last_rel": 25.0,
+      "norm_last_rel": 0.005,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.0,
+      "wss_95": 0.0,
+      "total_cost": 5000.0,
+      "norm_area": 0.499,
+      "ap": 0.196,
+      "recall_total": 4.0,
+      "recall_max": 8.0,
+      "recall_at_threshold": 0.5,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.5,
+      "recall@100": 0.5,
+      "recall@200": 0.5,
+      "recall@300": 0.5,
+      "recall@400": 0.5,
+      "recall@500": 0.5,
+      "recall@1000": 0.5,
+      "recall@2000": 0.5,
+      "recall@3000": 0.5,
+      "recall@4000": 0.5,
+      "recall@5000": 0.5
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD011420-B1-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD011420",
+    "condition": "B1",
+    "primary_score": 0.5,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 4.0,
+      "num_rels": 8.0,
+      "last_rel": 138.0,
+      "norm_last_rel": 0.028,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.0,
+      "wss_95": 0.0,
+      "total_cost": 5000.0,
+      "norm_area": 0.495,
+      "ap": 0.05,
+      "recall_total": 4.0,
+      "recall_max": 8.0,
+      "recall_at_threshold": 0.5,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.25,
+      "recall@100": 0.375,
+      "recall@200": 0.5,
+      "recall@300": 0.5,
+      "recall@400": 0.5,
+      "recall@500": 0.5,
+      "recall@1000": 0.5,
+      "recall@2000": 0.5,
+      "recall@3000": 0.5,
+      "recall@4000": 0.5,
+      "recall@5000": 0.5
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD011431-B0-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD011431",
+    "condition": "B0",
+    "primary_score": 0.941,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 32.0,
+      "num_rels": 34.0,
+      "last_rel": 4749.0,
+      "norm_last_rel": 0.95,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.0,
+      "wss_95": 0.0,
+      "total_cost": 4400.0,
+      "norm_area": 0.816,
+      "ap": 0.123,
+      "recall_total": 32.0,
+      "recall_max": 34.0,
+      "recall_at_threshold": 0.941,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.206,
+      "recall@100": 0.353,
+      "recall@200": 0.529,
+      "recall@300": 0.588,
+      "recall@400": 0.647,
+      "recall@500": 0.647,
+      "recall@1000": 0.706,
+      "recall@2000": 0.853,
+      "recall@3000": 0.882,
+      "recall@4000": 0.912,
+      "recall@5000": 0.941
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD011431-B1-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD011431",
+    "condition": "B1",
+    "primary_score": 0.912,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 31.0,
+      "num_rels": 34.0,
+      "last_rel": 1680.0,
+      "norm_last_rel": 0.336,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.0,
+      "wss_95": 0.0,
+      "total_cost": 4440.0,
+      "norm_area": 0.871,
+      "ap": 0.191,
+      "recall_total": 31.0,
+      "recall_max": 34.0,
+      "recall_at_threshold": 0.912,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.382,
+      "recall@100": 0.529,
+      "recall@200": 0.647,
+      "recall@300": 0.735,
+      "recall@400": 0.794,
+      "recall@500": 0.794,
+      "recall@1000": 0.853,
+      "recall@2000": 0.912,
+      "recall@3000": 0.912,
+      "recall@4000": 0.912,
+      "recall@5000": 0.912
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD011515-B0-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD011515",
+    "condition": "B0",
+    "primary_score": 1.0,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 2.0,
+      "num_rels": 2.0,
+      "last_rel": 652.0,
+      "norm_last_rel": 0.13,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.87,
+      "wss_95": 0.82,
+      "total_cost": 4960.0,
+      "norm_area": 0.901,
+      "ap": 0.003,
+      "recall_total": 2.0,
+      "recall_max": 2.0,
+      "recall_at_threshold": 1.0,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.0,
+      "recall@100": 0.0,
+      "recall@200": 0.0,
+      "recall@300": 0.0,
+      "recall@400": 0.5,
+      "recall@500": 0.5,
+      "recall@1000": 1.0,
+      "recall@2000": 1.0,
+      "recall@3000": 1.0,
+      "recall@4000": 1.0,
+      "recall@5000": 1.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD011515-B1-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD011515",
+    "condition": "B1",
+    "primary_score": 1.0,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 2.0,
+      "num_rels": 2.0,
+      "last_rel": 161.0,
+      "norm_last_rel": 0.032,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.968,
+      "wss_95": 0.918,
+      "total_cost": 4960.0,
+      "norm_area": 0.976,
+      "ap": 0.013,
+      "recall_total": 2.0,
+      "recall_max": 2.0,
+      "recall_at_threshold": 1.0,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.0,
+      "recall@100": 0.5,
+      "recall@200": 1.0,
+      "recall@300": 1.0,
+      "recall@400": 1.0,
+      "recall@500": 1.0,
+      "recall@1000": 1.0,
+      "recall@2000": 1.0,
+      "recall@3000": 1.0,
+      "recall@4000": 1.0,
+      "recall@5000": 1.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD011602-B0-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD011602",
+    "condition": "B0",
+    "primary_score": 1.0,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 1.0,
+      "num_rels": 1.0,
+      "last_rel": 671.0,
+      "norm_last_rel": 0.134,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.866,
+      "wss_95": 0.816,
+      "total_cost": 4980.0,
+      "norm_area": 0.866,
+      "ap": 0.001,
+      "recall_total": 1.0,
+      "recall_max": 1.0,
+      "recall_at_threshold": 1.0,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.0,
+      "recall@100": 0.0,
+      "recall@200": 0.0,
+      "recall@300": 0.0,
+      "recall@400": 0.0,
+      "recall@500": 0.0,
+      "recall@1000": 1.0,
+      "recall@2000": 1.0,
+      "recall@3000": 1.0,
+      "recall@4000": 1.0,
+      "recall@5000": 1.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD011602-B1-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD011602",
+    "condition": "B1",
+    "primary_score": 1.0,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 1.0,
+      "num_rels": 1.0,
+      "last_rel": 4193.0,
+      "norm_last_rel": 0.839,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.161,
+      "wss_95": 0.111,
+      "total_cost": 4980.0,
+      "norm_area": 0.162,
+      "ap": 0.0,
+      "recall_total": 1.0,
+      "recall_max": 1.0,
+      "recall_at_threshold": 1.0,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.0,
+      "recall@100": 0.0,
+      "recall@200": 0.0,
+      "recall@300": 0.0,
+      "recall@400": 0.0,
+      "recall@500": 0.0,
+      "recall@1000": 0.0,
+      "recall@2000": 0.0,
+      "recall@3000": 0.0,
+      "recall@4000": 0.0,
+      "recall@5000": 1.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD011686-B0-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD011686",
+    "condition": "B0",
+    "primary_score": 1.0,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 3.0,
+      "num_rels": 3.0,
+      "last_rel": 59.0,
+      "norm_last_rel": 0.012,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.988,
+      "wss_95": 0.938,
+      "total_cost": 4940.0,
+      "norm_area": 0.992,
+      "ap": 0.043,
+      "recall_total": 3.0,
+      "recall_max": 3.0,
+      "recall_at_threshold": 1.0,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.667,
+      "recall@100": 1.0,
+      "recall@200": 1.0,
+      "recall@300": 1.0,
+      "recall@400": 1.0,
+      "recall@500": 1.0,
+      "recall@1000": 1.0,
+      "recall@2000": 1.0,
+      "recall@3000": 1.0,
+      "recall@4000": 1.0,
+      "recall@5000": 1.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD011686-B1-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD011686",
+    "condition": "B1",
+    "primary_score": 1.0,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 3.0,
+      "num_rels": 3.0,
+      "last_rel": 50.0,
+      "norm_last_rel": 0.01,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.99,
+      "wss_95": 0.94,
+      "total_cost": 4940.0,
+      "norm_area": 0.993,
+      "ap": 0.052,
+      "recall_total": 3.0,
+      "recall_max": 3.0,
+      "recall_at_threshold": 1.0,
+      "recall_threshold": 5000.0,
+      "recall@50": 1.0,
+      "recall@100": 1.0,
+      "recall@200": 1.0,
+      "recall@300": 1.0,
+      "recall@400": 1.0,
+      "recall@500": 1.0,
+      "recall@1000": 1.0,
+      "recall@2000": 1.0,
+      "recall@3000": 1.0,
+      "recall@4000": 1.0,
+      "recall@5000": 1.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD011912-B0-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD011912",
+    "condition": "B0",
+    "primary_score": 1.0,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 18.0,
+      "num_rels": 18.0,
+      "last_rel": 143.0,
+      "norm_last_rel": 0.029,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.971,
+      "wss_95": 0.926,
+      "total_cost": 4640.0,
+      "norm_area": 0.994,
+      "ap": 0.406,
+      "recall_total": 18.0,
+      "recall_max": 18.0,
+      "recall_at_threshold": 1.0,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.667,
+      "recall@100": 0.889,
+      "recall@200": 1.0,
+      "recall@300": 1.0,
+      "recall@400": 1.0,
+      "recall@500": 1.0,
+      "recall@1000": 1.0,
+      "recall@2000": 1.0,
+      "recall@3000": 1.0,
+      "recall@4000": 1.0,
+      "recall@5000": 1.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD011912-B1-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD011912",
+    "condition": "B1",
+    "primary_score": 1.0,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 18.0,
+      "num_rels": 18.0,
+      "last_rel": 495.0,
+      "norm_last_rel": 0.099,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.901,
+      "wss_95": 0.921,
+      "total_cost": 4640.0,
+      "norm_area": 0.984,
+      "ap": 0.175,
+      "recall_total": 18.0,
+      "recall_max": 18.0,
+      "recall_at_threshold": 1.0,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.333,
+      "recall@100": 0.778,
+      "recall@200": 0.944,
+      "recall@300": 0.944,
+      "recall@400": 0.944,
+      "recall@500": 1.0,
+      "recall@1000": 1.0,
+      "recall@2000": 1.0,
+      "recall@3000": 1.0,
+      "recall@4000": 1.0,
+      "recall@5000": 1.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD011926-B0-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD011926",
+    "condition": "B0",
+    "primary_score": 0.968,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 30.0,
+      "num_rels": 31.0,
+      "last_rel": 2854.0,
+      "norm_last_rel": 0.571,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.0,
+      "wss_95": 0.404,
+      "total_cost": 4420.0,
+      "norm_area": 0.899,
+      "ap": 0.235,
+      "recall_total": 30.0,
+      "recall_max": 31.0,
+      "recall_at_threshold": 0.968,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.387,
+      "recall@100": 0.516,
+      "recall@200": 0.613,
+      "recall@300": 0.677,
+      "recall@400": 0.742,
+      "recall@500": 0.774,
+      "recall@1000": 0.903,
+      "recall@2000": 0.903,
+      "recall@3000": 0.968,
+      "recall@4000": 0.968,
+      "recall@5000": 0.968
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD011926-B1-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD011926",
+    "condition": "B1",
+    "primary_score": 0.968,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 30.0,
+      "num_rels": 31.0,
+      "last_rel": 2998.0,
+      "norm_last_rel": 0.6,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.0,
+      "wss_95": 0.481,
+      "total_cost": 4420.0,
+      "norm_area": 0.907,
+      "ap": 0.526,
+      "recall_total": 30.0,
+      "recall_max": 31.0,
+      "recall_at_threshold": 0.968,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.645,
+      "recall@100": 0.677,
+      "recall@200": 0.71,
+      "recall@300": 0.774,
+      "recall@400": 0.806,
+      "recall@500": 0.839,
+      "recall@1000": 0.871,
+      "recall@2000": 0.871,
+      "recall@3000": 0.968,
+      "recall@4000": 0.968,
+      "recall@5000": 0.968
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD012009-B0-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD012009",
+    "condition": "B0",
+    "primary_score": 1.0,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 4.0,
+      "num_rels": 4.0,
+      "last_rel": 1901.0,
+      "norm_last_rel": 0.38,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.62,
+      "wss_95": 0.57,
+      "total_cost": 4920.0,
+      "norm_area": 0.895,
+      "ap": 0.042,
+      "recall_total": 4.0,
+      "recall_max": 4.0,
+      "recall_at_threshold": 1.0,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.5,
+      "recall@100": 0.5,
+      "recall@200": 0.75,
+      "recall@300": 0.75,
+      "recall@400": 0.75,
+      "recall@500": 0.75,
+      "recall@1000": 0.75,
+      "recall@2000": 1.0,
+      "recall@3000": 1.0,
+      "recall@4000": 1.0,
+      "recall@5000": 1.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD012009-B1-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD012009",
+    "condition": "B1",
+    "primary_score": 1.0,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 4.0,
+      "num_rels": 4.0,
+      "last_rel": 393.0,
+      "norm_last_rel": 0.079,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.921,
+      "wss_95": 0.871,
+      "total_cost": 4920.0,
+      "norm_area": 0.976,
+      "ap": 0.069,
+      "recall_total": 4.0,
+      "recall_max": 4.0,
+      "recall_at_threshold": 1.0,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.5,
+      "recall@100": 0.75,
+      "recall@200": 0.75,
+      "recall@300": 0.75,
+      "recall@400": 1.0,
+      "recall@500": 1.0,
+      "recall@1000": 1.0,
+      "recall@2000": 1.0,
+      "recall@3000": 1.0,
+      "recall@4000": 1.0,
+      "recall@5000": 1.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD012010-B0-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD012010",
+    "condition": "B0",
+    "primary_score": 0.667,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 6.0,
+      "num_rels": 9.0,
+      "last_rel": 131.0,
+      "norm_last_rel": 0.026,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.0,
+      "wss_95": 0.0,
+      "total_cost": 4940.0,
+      "norm_area": 0.662,
+      "ap": 0.135,
+      "recall_total": 6.0,
+      "recall_max": 9.0,
+      "recall_at_threshold": 0.667,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.444,
+      "recall@100": 0.556,
+      "recall@200": 0.667,
+      "recall@300": 0.667,
+      "recall@400": 0.667,
+      "recall@500": 0.667,
+      "recall@1000": 0.667,
+      "recall@2000": 0.667,
+      "recall@3000": 0.667,
+      "recall@4000": 0.667,
+      "recall@5000": 0.667
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD012010-B1-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD012010",
+    "condition": "B1",
+    "primary_score": 0.667,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 6.0,
+      "num_rels": 9.0,
+      "last_rel": 203.0,
+      "norm_last_rel": 0.041,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.0,
+      "wss_95": 0.0,
+      "total_cost": 4940.0,
+      "norm_area": 0.661,
+      "ap": 0.162,
+      "recall_total": 6.0,
+      "recall_max": 9.0,
+      "recall_at_threshold": 0.667,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.556,
+      "recall@100": 0.556,
+      "recall@200": 0.556,
+      "recall@300": 0.667,
+      "recall@400": 0.667,
+      "recall@500": 0.667,
+      "recall@1000": 0.667,
+      "recall@2000": 0.667,
+      "recall@3000": 0.667,
+      "recall@4000": 0.667,
+      "recall@5000": 0.667
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD012083-B0-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD012083",
+    "condition": "B0",
+    "primary_score": 0.857,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 6.0,
+      "num_rels": 7.0,
+      "last_rel": 843.0,
+      "norm_last_rel": 0.169,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.0,
+      "wss_95": 0.0,
+      "total_cost": 4900.0,
+      "norm_area": 0.831,
+      "ap": 0.388,
+      "recall_total": 6.0,
+      "recall_max": 7.0,
+      "recall_at_threshold": 0.857,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.571,
+      "recall@100": 0.714,
+      "recall@200": 0.714,
+      "recall@300": 0.714,
+      "recall@400": 0.714,
+      "recall@500": 0.714,
+      "recall@1000": 0.857,
+      "recall@2000": 0.857,
+      "recall@3000": 0.857,
+      "recall@4000": 0.857,
+      "recall@5000": 0.857
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD012083-B1-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD012083",
+    "condition": "B1",
+    "primary_score": 0.857,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 6.0,
+      "num_rels": 7.0,
+      "last_rel": 2121.0,
+      "norm_last_rel": 0.424,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.0,
+      "wss_95": 0.0,
+      "total_cost": 4900.0,
+      "norm_area": 0.792,
+      "ap": 0.444,
+      "recall_total": 6.0,
+      "recall_max": 7.0,
+      "recall_at_threshold": 0.857,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.429,
+      "recall@100": 0.714,
+      "recall@200": 0.714,
+      "recall@300": 0.714,
+      "recall@400": 0.714,
+      "recall@500": 0.714,
+      "recall@1000": 0.714,
+      "recall@2000": 0.714,
+      "recall@3000": 0.857,
+      "recall@4000": 0.857,
+      "recall@5000": 0.857
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD012165-B0-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD012165",
+    "condition": "B0",
+    "primary_score": 0.885,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 46.0,
+      "num_rels": 52.0,
+      "last_rel": 3387.0,
+      "norm_last_rel": 0.677,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.0,
+      "wss_95": 0.0,
+      "total_cost": 4200.0,
+      "norm_area": 0.729,
+      "ap": 0.039,
+      "recall_total": 46.0,
+      "recall_max": 52.0,
+      "recall_at_threshold": 0.885,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.058,
+      "recall@100": 0.115,
+      "recall@200": 0.231,
+      "recall@300": 0.269,
+      "recall@400": 0.327,
+      "recall@500": 0.442,
+      "recall@1000": 0.596,
+      "recall@2000": 0.769,
+      "recall@3000": 0.846,
+      "recall@4000": 0.885,
+      "recall@5000": 0.885
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD012165-B1-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD012165",
+    "condition": "B1",
+    "primary_score": 0.846,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 44.0,
+      "num_rels": 52.0,
+      "last_rel": 4454.0,
+      "norm_last_rel": 0.891,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.0,
+      "wss_95": 0.0,
+      "total_cost": 4280.0,
+      "norm_area": 0.687,
+      "ap": 0.065,
+      "recall_total": 44.0,
+      "recall_max": 52.0,
+      "recall_at_threshold": 0.846,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.154,
+      "recall@100": 0.173,
+      "recall@200": 0.212,
+      "recall@300": 0.288,
+      "recall@400": 0.327,
+      "recall@500": 0.346,
+      "recall@1000": 0.558,
+      "recall@2000": 0.75,
+      "recall@3000": 0.788,
+      "recall@4000": 0.808,
+      "recall@5000": 0.846
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD012179-B0-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD012179",
+    "condition": "B0",
+    "primary_score": 0.228,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 29.0,
+      "num_rels": 127.0,
+      "last_rel": 4802.0,
+      "norm_last_rel": 0.96,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.0,
+      "wss_95": 0.0,
+      "total_cost": 6380.0,
+      "norm_area": 0.138,
+      "ap": 0.002,
+      "recall_total": 29.0,
+      "recall_max": 127.0,
+      "recall_at_threshold": 0.228,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.0,
+      "recall@100": 0.0,
+      "recall@200": 0.008,
+      "recall@300": 0.008,
+      "recall@400": 0.016,
+      "recall@500": 0.024,
+      "recall@1000": 0.079,
+      "recall@2000": 0.134,
+      "recall@3000": 0.157,
+      "recall@4000": 0.197,
+      "recall@5000": 0.228
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD012179-B1-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD012179",
+    "condition": "B1",
+    "primary_score": 0.008,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 1.0,
+      "num_rels": 127.0,
+      "last_rel": 1749.0,
+      "norm_last_rel": 0.35,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.0,
+      "wss_95": 0.0,
+      "total_cost": 7500.0,
+      "norm_area": 0.005,
+      "ap": 0.0,
+      "recall_total": 1.0,
+      "recall_max": 127.0,
+      "recall_at_threshold": 0.008,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.0,
+      "recall@100": 0.0,
+      "recall@200": 0.0,
+      "recall@300": 0.0,
+      "recall@400": 0.0,
+      "recall@500": 0.0,
+      "recall@1000": 0.0,
+      "recall@2000": 0.008,
+      "recall@3000": 0.008,
+      "recall@4000": 0.008,
+      "recall@5000": 0.008
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD012216-B0-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD012216",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 0.0,
+      "num_rels": 1.0,
+      "last_rel": 0.0,
+      "norm_last_rel": 0.0,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.0,
+      "wss_95": 0.0,
+      "total_cost": 5020.0,
+      "norm_area": 0.0,
+      "ap": 0.0,
+      "recall_total": 0.0,
+      "recall_max": 1.0,
+      "recall_at_threshold": 0.0,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.0,
+      "recall@100": 0.0,
+      "recall@200": 0.0,
+      "recall@300": 0.0,
+      "recall@400": 0.0,
+      "recall@500": 0.0,
+      "recall@1000": 0.0,
+      "recall@2000": 0.0,
+      "recall@3000": 0.0,
+      "recall@4000": 0.0,
+      "recall@5000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD012216-B1-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD012216",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 0.0,
+      "num_rels": 1.0,
+      "last_rel": 0.0,
+      "norm_last_rel": 0.0,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.0,
+      "wss_95": 0.0,
+      "total_cost": 5020.0,
+      "norm_area": 0.0,
+      "ap": 0.0,
+      "recall_total": 0.0,
+      "recall_max": 1.0,
+      "recall_at_threshold": 0.0,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.0,
+      "recall@100": 0.0,
+      "recall@200": 0.0,
+      "recall@300": 0.0,
+      "recall@400": 0.0,
+      "recall@500": 0.0,
+      "recall@1000": 0.0,
+      "recall@2000": 0.0,
+      "recall@3000": 0.0,
+      "recall@4000": 0.0,
+      "recall@5000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD012281-B0-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD012281",
+    "condition": "B0",
+    "primary_score": 0.4,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 4.0,
+      "num_rels": 10.0,
+      "last_rel": 4535.0,
+      "norm_last_rel": 0.907,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.0,
+      "wss_95": 0.0,
+      "total_cost": 5040.0,
+      "norm_area": 0.166,
+      "ap": 0.0,
+      "recall_total": 4.0,
+      "recall_max": 10.0,
+      "recall_at_threshold": 0.4,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.0,
+      "recall@100": 0.0,
+      "recall@200": 0.0,
+      "recall@300": 0.0,
+      "recall@400": 0.0,
+      "recall@500": 0.0,
+      "recall@1000": 0.1,
+      "recall@2000": 0.1,
+      "recall@3000": 0.2,
+      "recall@4000": 0.3,
+      "recall@5000": 0.4
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD012281-B1-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD012281",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 0.0,
+      "num_rels": 10.0,
+      "last_rel": 0.0,
+      "norm_last_rel": 0.0,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.0,
+      "wss_95": 0.0,
+      "total_cost": 5200.0,
+      "norm_area": 0.0,
+      "ap": 0.0,
+      "recall_total": 0.0,
+      "recall_max": 10.0,
+      "recall_at_threshold": 0.0,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.0,
+      "recall@100": 0.0,
+      "recall@200": 0.0,
+      "recall@300": 0.0,
+      "recall@400": 0.0,
+      "recall@500": 0.0,
+      "recall@1000": 0.0,
+      "recall@2000": 0.0,
+      "recall@3000": 0.0,
+      "recall@4000": 0.0,
+      "recall@5000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD012599-B0-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD012599",
+    "condition": "B0",
+    "primary_score": 0.789,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 15.0,
+      "num_rels": 19.0,
+      "last_rel": 1989.0,
+      "norm_last_rel": 0.398,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.0,
+      "wss_95": 0.0,
+      "total_cost": 4780.0,
+      "norm_area": 0.734,
+      "ap": 0.064,
+      "recall_total": 15.0,
+      "recall_max": 19.0,
+      "recall_at_threshold": 0.789,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.158,
+      "recall@100": 0.263,
+      "recall@200": 0.316,
+      "recall@300": 0.526,
+      "recall@400": 0.632,
+      "recall@500": 0.684,
+      "recall@1000": 0.684,
+      "recall@2000": 0.789,
+      "recall@3000": 0.789,
+      "recall@4000": 0.789,
+      "recall@5000": 0.789
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tar2018_full-CD012599-B1-r1",
+    "task": "tar2018_full",
+    "topic_id": "CD012599",
+    "condition": "B1",
+    "primary_score": 0.895,
+    "topic_scores": {
+      "num_shown": 5000.0,
+      "rels_found": 17.0,
+      "num_rels": 19.0,
+      "last_rel": 2762.0,
+      "norm_last_rel": 0.552,
+      "threshold": 5000.0,
+      "norm_threshold": 1.0,
+      "wss_100": 0.0,
+      "wss_95": 0.0,
+      "total_cost": 4700.0,
+      "norm_area": 0.795,
+      "ap": 0.059,
+      "recall_total": 17.0,
+      "recall_max": 19.0,
+      "recall_at_threshold": 0.895,
+      "recall_threshold": 5000.0,
+      "recall@50": 0.158,
+      "recall@100": 0.211,
+      "recall@200": 0.421,
+      "recall@300": 0.526,
+      "recall@400": 0.579,
+      "recall@500": 0.632,
+      "recall@1000": 0.684,
+      "recall@2000": 0.842,
+      "recall@3000": 0.895,
+      "recall@4000": 0.895,
+      "recall@5000": 0.895
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-1006-B0-r1",
+    "task": "tot2023",
+    "topic_id": "1006",
+    "condition": "B0",
+    "primary_score": 0.1081,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1081
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-1006-B1-r1",
+    "task": "tot2023",
+    "topic_id": "1006",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-1031-B0-r1",
+    "task": "tot2023",
+    "topic_id": "1031",
+    "condition": "B0",
+    "primary_score": 0.173,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.173
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-1031-B1-r1",
+    "task": "tot2023",
+    "topic_id": "1031",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-1036-B0-r1",
+    "task": "tot2023",
+    "topic_id": "1036",
+    "condition": "B0",
+    "primary_score": 0.1178,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1178
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-1036-B1-r1",
+    "task": "tot2023",
+    "topic_id": "1036",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-1049-B0-r1",
+    "task": "tot2023",
+    "topic_id": "1049",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-1049-B1-r1",
+    "task": "tot2023",
+    "topic_id": "1049",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-105-B0-r1",
+    "task": "tot2023",
+    "topic_id": "105",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-105-B1-r1",
+    "task": "tot2023",
+    "topic_id": "105",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-1067-B0-r1",
+    "task": "tot2023",
+    "topic_id": "1067",
+    "condition": "B0",
+    "primary_score": 0.132,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.132
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-1067-B1-r1",
+    "task": "tot2023",
+    "topic_id": "1067",
+    "condition": "B1",
+    "primary_score": 0.1097,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1097
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-108-B0-r1",
+    "task": "tot2023",
+    "topic_id": "108",
+    "condition": "B0",
+    "primary_score": 0.1892,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1892
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-108-B1-r1",
+    "task": "tot2023",
+    "topic_id": "108",
+    "condition": "B1",
+    "primary_score": 0.166,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.166
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-118-B0-r1",
+    "task": "tot2023",
+    "topic_id": "118",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-118-B1-r1",
+    "task": "tot2023",
+    "topic_id": "118",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-120-B0-r1",
+    "task": "tot2023",
+    "topic_id": "120",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-120-B1-r1",
+    "task": "tot2023",
+    "topic_id": "120",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-126-B0-r1",
+    "task": "tot2023",
+    "topic_id": "126",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-126-B1-r1",
+    "task": "tot2023",
+    "topic_id": "126",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-132-B0-r1",
+    "task": "tot2023",
+    "topic_id": "132",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-132-B1-r1",
+    "task": "tot2023",
+    "topic_id": "132",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-137-B0-r1",
+    "task": "tot2023",
+    "topic_id": "137",
+    "condition": "B0",
+    "primary_score": 0.1144,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1144
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-137-B1-r1",
+    "task": "tot2023",
+    "topic_id": "137",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-148-B0-r1",
+    "task": "tot2023",
+    "topic_id": "148",
+    "condition": "B0",
+    "primary_score": 0.5,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.5
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-148-B1-r1",
+    "task": "tot2023",
+    "topic_id": "148",
+    "condition": "B1",
+    "primary_score": 0.1374,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1374
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-150-B0-r1",
+    "task": "tot2023",
+    "topic_id": "150",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-150-B1-r1",
+    "task": "tot2023",
+    "topic_id": "150",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-162-B0-r1",
+    "task": "tot2023",
+    "topic_id": "162",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-162-B1-r1",
+    "task": "tot2023",
+    "topic_id": "162",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-171-B0-r1",
+    "task": "tot2023",
+    "topic_id": "171",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-171-B1-r1",
+    "task": "tot2023",
+    "topic_id": "171",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-172-B0-r1",
+    "task": "tot2023",
+    "topic_id": "172",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-172-B1-r1",
+    "task": "tot2023",
+    "topic_id": "172",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-173-B0-r1",
+    "task": "tot2023",
+    "topic_id": "173",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-173-B1-r1",
+    "task": "tot2023",
+    "topic_id": "173",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-190-B0-r1",
+    "task": "tot2023",
+    "topic_id": "190",
+    "condition": "B0",
+    "primary_score": 1.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 1.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-190-B1-r1",
+    "task": "tot2023",
+    "topic_id": "190",
+    "condition": "B1",
+    "primary_score": 1.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 1.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-192-B0-r1",
+    "task": "tot2023",
+    "topic_id": "192",
+    "condition": "B0",
+    "primary_score": 0.2153,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.2153
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-192-B1-r1",
+    "task": "tot2023",
+    "topic_id": "192",
+    "condition": "B1",
+    "primary_score": 0.2242,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.2242
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-200-B0-r1",
+    "task": "tot2023",
+    "topic_id": "200",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-200-B1-r1",
+    "task": "tot2023",
+    "topic_id": "200",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-201-B0-r1",
+    "task": "tot2023",
+    "topic_id": "201",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-201-B1-r1",
+    "task": "tot2023",
+    "topic_id": "201",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-211-B0-r1",
+    "task": "tot2023",
+    "topic_id": "211",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-211-B1-r1",
+    "task": "tot2023",
+    "topic_id": "211",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-212-B0-r1",
+    "task": "tot2023",
+    "topic_id": "212",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-212-B1-r1",
+    "task": "tot2023",
+    "topic_id": "212",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-223-B0-r1",
+    "task": "tot2023",
+    "topic_id": "223",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-223-B1-r1",
+    "task": "tot2023",
+    "topic_id": "223",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-224-B0-r1",
+    "task": "tot2023",
+    "topic_id": "224",
+    "condition": "B0",
+    "primary_score": 1.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 1.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-224-B1-r1",
+    "task": "tot2023",
+    "topic_id": "224",
+    "condition": "B1",
+    "primary_score": 0.181,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.181
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-232-B0-r1",
+    "task": "tot2023",
+    "topic_id": "232",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-232-B1-r1",
+    "task": "tot2023",
+    "topic_id": "232",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-236-B0-r1",
+    "task": "tot2023",
+    "topic_id": "236",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-236-B1-r1",
+    "task": "tot2023",
+    "topic_id": "236",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-243-B0-r1",
+    "task": "tot2023",
+    "topic_id": "243",
+    "condition": "B0",
+    "primary_score": 0.1098,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1098
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-243-B1-r1",
+    "task": "tot2023",
+    "topic_id": "243",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-245-B0-r1",
+    "task": "tot2023",
+    "topic_id": "245",
+    "condition": "B0",
+    "primary_score": 0.1373,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1373
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-245-B1-r1",
+    "task": "tot2023",
+    "topic_id": "245",
+    "condition": "B1",
+    "primary_score": 0.1032,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1032
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-250-B0-r1",
+    "task": "tot2023",
+    "topic_id": "250",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-250-B1-r1",
+    "task": "tot2023",
+    "topic_id": "250",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-253-B0-r1",
+    "task": "tot2023",
+    "topic_id": "253",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-253-B1-r1",
+    "task": "tot2023",
+    "topic_id": "253",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-261-B0-r1",
+    "task": "tot2023",
+    "topic_id": "261",
+    "condition": "B0",
+    "primary_score": 0.1125,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1125
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-261-B1-r1",
+    "task": "tot2023",
+    "topic_id": "261",
+    "condition": "B1",
+    "primary_score": 0.1019,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1019
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-263-B0-r1",
+    "task": "tot2023",
+    "topic_id": "263",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-263-B1-r1",
+    "task": "tot2023",
+    "topic_id": "263",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-266-B0-r1",
+    "task": "tot2023",
+    "topic_id": "266",
+    "condition": "B0",
+    "primary_score": 0.1087,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1087
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-266-B1-r1",
+    "task": "tot2023",
+    "topic_id": "266",
+    "condition": "B1",
+    "primary_score": 0.1072,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1072
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-275-B0-r1",
+    "task": "tot2023",
+    "topic_id": "275",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-275-B1-r1",
+    "task": "tot2023",
+    "topic_id": "275",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-277-B0-r1",
+    "task": "tot2023",
+    "topic_id": "277",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-277-B1-r1",
+    "task": "tot2023",
+    "topic_id": "277",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-280-B0-r1",
+    "task": "tot2023",
+    "topic_id": "280",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-280-B1-r1",
+    "task": "tot2023",
+    "topic_id": "280",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-285-B0-r1",
+    "task": "tot2023",
+    "topic_id": "285",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-285-B1-r1",
+    "task": "tot2023",
+    "topic_id": "285",
+    "condition": "B1",
+    "primary_score": 0.1195,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1195
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-287-B0-r1",
+    "task": "tot2023",
+    "topic_id": "287",
+    "condition": "B0",
+    "primary_score": 0.1458,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1458
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-287-B1-r1",
+    "task": "tot2023",
+    "topic_id": "287",
+    "condition": "B1",
+    "primary_score": 0.1453,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1453
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-297-B0-r1",
+    "task": "tot2023",
+    "topic_id": "297",
+    "condition": "B0",
+    "primary_score": 1.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 1.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-297-B1-r1",
+    "task": "tot2023",
+    "topic_id": "297",
+    "condition": "B1",
+    "primary_score": 0.1266,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1266
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-298-B0-r1",
+    "task": "tot2023",
+    "topic_id": "298",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-298-B1-r1",
+    "task": "tot2023",
+    "topic_id": "298",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-302-B0-r1",
+    "task": "tot2023",
+    "topic_id": "302",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-302-B1-r1",
+    "task": "tot2023",
+    "topic_id": "302",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-327-B0-r1",
+    "task": "tot2023",
+    "topic_id": "327",
+    "condition": "B0",
+    "primary_score": 0.1043,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1043
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-327-B1-r1",
+    "task": "tot2023",
+    "topic_id": "327",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-328-B0-r1",
+    "task": "tot2023",
+    "topic_id": "328",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-328-B1-r1",
+    "task": "tot2023",
+    "topic_id": "328",
+    "condition": "B1",
+    "primary_score": 0.109,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.109
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-331-B0-r1",
+    "task": "tot2023",
+    "topic_id": "331",
+    "condition": "B0",
+    "primary_score": 0.1073,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1073
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-331-B1-r1",
+    "task": "tot2023",
+    "topic_id": "331",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-334-B0-r1",
+    "task": "tot2023",
+    "topic_id": "334",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-334-B1-r1",
+    "task": "tot2023",
+    "topic_id": "334",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-339-B0-r1",
+    "task": "tot2023",
+    "topic_id": "339",
+    "condition": "B0",
+    "primary_score": 0.1415,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1415
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-339-B1-r1",
+    "task": "tot2023",
+    "topic_id": "339",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-342-B0-r1",
+    "task": "tot2023",
+    "topic_id": "342",
+    "condition": "B0",
+    "primary_score": 0.2354,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.2354
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-342-B1-r1",
+    "task": "tot2023",
+    "topic_id": "342",
+    "condition": "B1",
+    "primary_score": 0.6309,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.6309
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-349-B0-r1",
+    "task": "tot2023",
+    "topic_id": "349",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-349-B1-r1",
+    "task": "tot2023",
+    "topic_id": "349",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-356-B0-r1",
+    "task": "tot2023",
+    "topic_id": "356",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-356-B1-r1",
+    "task": "tot2023",
+    "topic_id": "356",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-361-B0-r1",
+    "task": "tot2023",
+    "topic_id": "361",
+    "condition": "B0",
+    "primary_score": 1.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 1.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-361-B1-r1",
+    "task": "tot2023",
+    "topic_id": "361",
+    "condition": "B1",
+    "primary_score": 0.2626,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.2626
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-366-B0-r1",
+    "task": "tot2023",
+    "topic_id": "366",
+    "condition": "B0",
+    "primary_score": 0.1195,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1195
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-366-B1-r1",
+    "task": "tot2023",
+    "topic_id": "366",
+    "condition": "B1",
+    "primary_score": 0.1305,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1305
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-369-B0-r1",
+    "task": "tot2023",
+    "topic_id": "369",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-369-B1-r1",
+    "task": "tot2023",
+    "topic_id": "369",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-370-B0-r1",
+    "task": "tot2023",
+    "topic_id": "370",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-370-B1-r1",
+    "task": "tot2023",
+    "topic_id": "370",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-390-B0-r1",
+    "task": "tot2023",
+    "topic_id": "390",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-390-B1-r1",
+    "task": "tot2023",
+    "topic_id": "390",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-407-B0-r1",
+    "task": "tot2023",
+    "topic_id": "407",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-407-B1-r1",
+    "task": "tot2023",
+    "topic_id": "407",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-430-B0-r1",
+    "task": "tot2023",
+    "topic_id": "430",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-430-B1-r1",
+    "task": "tot2023",
+    "topic_id": "430",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-432-B0-r1",
+    "task": "tot2023",
+    "topic_id": "432",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-432-B1-r1",
+    "task": "tot2023",
+    "topic_id": "432",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-452-B0-r1",
+    "task": "tot2023",
+    "topic_id": "452",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-452-B1-r1",
+    "task": "tot2023",
+    "topic_id": "452",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-456-B0-r1",
+    "task": "tot2023",
+    "topic_id": "456",
+    "condition": "B0",
+    "primary_score": 0.2181,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.2181
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-456-B1-r1",
+    "task": "tot2023",
+    "topic_id": "456",
+    "condition": "B1",
+    "primary_score": 0.2181,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.2181
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-457-B0-r1",
+    "task": "tot2023",
+    "topic_id": "457",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-457-B1-r1",
+    "task": "tot2023",
+    "topic_id": "457",
+    "condition": "B1",
+    "primary_score": 0.1261,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1261
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-460-B0-r1",
+    "task": "tot2023",
+    "topic_id": "460",
+    "condition": "B0",
+    "primary_score": 0.1192,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1192
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-460-B1-r1",
+    "task": "tot2023",
+    "topic_id": "460",
+    "condition": "B1",
+    "primary_score": 0.1333,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1333
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-461-B0-r1",
+    "task": "tot2023",
+    "topic_id": "461",
+    "condition": "B0",
+    "primary_score": 0.1654,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1654
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-461-B1-r1",
+    "task": "tot2023",
+    "topic_id": "461",
+    "condition": "B1",
+    "primary_score": 0.1345,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1345
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-464-B0-r1",
+    "task": "tot2023",
+    "topic_id": "464",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-464-B1-r1",
+    "task": "tot2023",
+    "topic_id": "464",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-466-B0-r1",
+    "task": "tot2023",
+    "topic_id": "466",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-466-B1-r1",
+    "task": "tot2023",
+    "topic_id": "466",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-467-B0-r1",
+    "task": "tot2023",
+    "topic_id": "467",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-467-B1-r1",
+    "task": "tot2023",
+    "topic_id": "467",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-477-B0-r1",
+    "task": "tot2023",
+    "topic_id": "477",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-477-B1-r1",
+    "task": "tot2023",
+    "topic_id": "477",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-494-B0-r1",
+    "task": "tot2023",
+    "topic_id": "494",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-494-B1-r1",
+    "task": "tot2023",
+    "topic_id": "494",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-501-B0-r1",
+    "task": "tot2023",
+    "topic_id": "501",
+    "condition": "B0",
+    "primary_score": 0.256,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.256
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-501-B1-r1",
+    "task": "tot2023",
+    "topic_id": "501",
+    "condition": "B1",
+    "primary_score": 0.2702,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.2702
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-505-B0-r1",
+    "task": "tot2023",
+    "topic_id": "505",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-505-B1-r1",
+    "task": "tot2023",
+    "topic_id": "505",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-508-B0-r1",
+    "task": "tot2023",
+    "topic_id": "508",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-508-B1-r1",
+    "task": "tot2023",
+    "topic_id": "508",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-516-B0-r1",
+    "task": "tot2023",
+    "topic_id": "516",
+    "condition": "B0",
+    "primary_score": 0.1104,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1104
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-516-B1-r1",
+    "task": "tot2023",
+    "topic_id": "516",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-518-B0-r1",
+    "task": "tot2023",
+    "topic_id": "518",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-518-B1-r1",
+    "task": "tot2023",
+    "topic_id": "518",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-519-B0-r1",
+    "task": "tot2023",
+    "topic_id": "519",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-519-B1-r1",
+    "task": "tot2023",
+    "topic_id": "519",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-522-B0-r1",
+    "task": "tot2023",
+    "topic_id": "522",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-522-B1-r1",
+    "task": "tot2023",
+    "topic_id": "522",
+    "condition": "B1",
+    "primary_score": 0.103,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.103
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-526-B0-r1",
+    "task": "tot2023",
+    "topic_id": "526",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-526-B1-r1",
+    "task": "tot2023",
+    "topic_id": "526",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-528-B0-r1",
+    "task": "tot2023",
+    "topic_id": "528",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-528-B1-r1",
+    "task": "tot2023",
+    "topic_id": "528",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-533-B0-r1",
+    "task": "tot2023",
+    "topic_id": "533",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-533-B1-r1",
+    "task": "tot2023",
+    "topic_id": "533",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-537-B0-r1",
+    "task": "tot2023",
+    "topic_id": "537",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-537-B1-r1",
+    "task": "tot2023",
+    "topic_id": "537",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-539-B0-r1",
+    "task": "tot2023",
+    "topic_id": "539",
+    "condition": "B0",
+    "primary_score": 0.6309,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.6309
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-539-B1-r1",
+    "task": "tot2023",
+    "topic_id": "539",
+    "condition": "B1",
+    "primary_score": 0.3562,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.3562
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-545-B0-r1",
+    "task": "tot2023",
+    "topic_id": "545",
+    "condition": "B0",
+    "primary_score": 0.1821,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1821
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-545-B1-r1",
+    "task": "tot2023",
+    "topic_id": "545",
+    "condition": "B1",
+    "primary_score": 0.1738,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1738
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-547-B0-r1",
+    "task": "tot2023",
+    "topic_id": "547",
+    "condition": "B0",
+    "primary_score": 0.1094,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1094
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-547-B1-r1",
+    "task": "tot2023",
+    "topic_id": "547",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-550-B0-r1",
+    "task": "tot2023",
+    "topic_id": "550",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-550-B1-r1",
+    "task": "tot2023",
+    "topic_id": "550",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-557-B0-r1",
+    "task": "tot2023",
+    "topic_id": "557",
+    "condition": "B0",
+    "primary_score": 0.2789,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.2789
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-557-B1-r1",
+    "task": "tot2023",
+    "topic_id": "557",
+    "condition": "B1",
+    "primary_score": 0.2058,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.2058
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-558-B0-r1",
+    "task": "tot2023",
+    "topic_id": "558",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-558-B1-r1",
+    "task": "tot2023",
+    "topic_id": "558",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-565-B0-r1",
+    "task": "tot2023",
+    "topic_id": "565",
+    "condition": "B0",
+    "primary_score": 0.1023,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1023
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-565-B1-r1",
+    "task": "tot2023",
+    "topic_id": "565",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-572-B0-r1",
+    "task": "tot2023",
+    "topic_id": "572",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-572-B1-r1",
+    "task": "tot2023",
+    "topic_id": "572",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-580-B0-r1",
+    "task": "tot2023",
+    "topic_id": "580",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-580-B1-r1",
+    "task": "tot2023",
+    "topic_id": "580",
+    "condition": "B1",
+    "primary_score": 0.1292,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1292
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-582-B0-r1",
+    "task": "tot2023",
+    "topic_id": "582",
+    "condition": "B0",
+    "primary_score": 1.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 1.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-582-B1-r1",
+    "task": "tot2023",
+    "topic_id": "582",
+    "condition": "B1",
+    "primary_score": 0.1512,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1512
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-587-B0-r1",
+    "task": "tot2023",
+    "topic_id": "587",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-587-B1-r1",
+    "task": "tot2023",
+    "topic_id": "587",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-599-B0-r1",
+    "task": "tot2023",
+    "topic_id": "599",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-599-B1-r1",
+    "task": "tot2023",
+    "topic_id": "599",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-610-B0-r1",
+    "task": "tot2023",
+    "topic_id": "610",
+    "condition": "B0",
+    "primary_score": 0.2891,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.2891
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-610-B1-r1",
+    "task": "tot2023",
+    "topic_id": "610",
+    "condition": "B1",
+    "primary_score": 0.5,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.5
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-611-B0-r1",
+    "task": "tot2023",
+    "topic_id": "611",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-611-B1-r1",
+    "task": "tot2023",
+    "topic_id": "611",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-616-B0-r1",
+    "task": "tot2023",
+    "topic_id": "616",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-616-B1-r1",
+    "task": "tot2023",
+    "topic_id": "616",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-618-B0-r1",
+    "task": "tot2023",
+    "topic_id": "618",
+    "condition": "B0",
+    "primary_score": 0.2789,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.2789
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-618-B1-r1",
+    "task": "tot2023",
+    "topic_id": "618",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-621-B0-r1",
+    "task": "tot2023",
+    "topic_id": "621",
+    "condition": "B0",
+    "primary_score": 0.1714,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1714
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-621-B1-r1",
+    "task": "tot2023",
+    "topic_id": "621",
+    "condition": "B1",
+    "primary_score": 0.1059,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1059
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-630-B0-r1",
+    "task": "tot2023",
+    "topic_id": "630",
+    "condition": "B0",
+    "primary_score": 0.25,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.25
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-630-B1-r1",
+    "task": "tot2023",
+    "topic_id": "630",
+    "condition": "B1",
+    "primary_score": 0.1582,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1582
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-632-B0-r1",
+    "task": "tot2023",
+    "topic_id": "632",
+    "condition": "B0",
+    "primary_score": 0.301,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.301
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-632-B1-r1",
+    "task": "tot2023",
+    "topic_id": "632",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-636-B0-r1",
+    "task": "tot2023",
+    "topic_id": "636",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-636-B1-r1",
+    "task": "tot2023",
+    "topic_id": "636",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-647-B0-r1",
+    "task": "tot2023",
+    "topic_id": "647",
+    "condition": "B0",
+    "primary_score": 0.1217,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1217
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-647-B1-r1",
+    "task": "tot2023",
+    "topic_id": "647",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-650-B0-r1",
+    "task": "tot2023",
+    "topic_id": "650",
+    "condition": "B0",
+    "primary_score": 0.3562,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.3562
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-650-B1-r1",
+    "task": "tot2023",
+    "topic_id": "650",
+    "condition": "B1",
+    "primary_score": 0.2891,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.2891
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-654-B0-r1",
+    "task": "tot2023",
+    "topic_id": "654",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-654-B1-r1",
+    "task": "tot2023",
+    "topic_id": "654",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-656-B0-r1",
+    "task": "tot2023",
+    "topic_id": "656",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-656-B1-r1",
+    "task": "tot2023",
+    "topic_id": "656",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-661-B0-r1",
+    "task": "tot2023",
+    "topic_id": "661",
+    "condition": "B0",
+    "primary_score": 0.1533,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1533
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-661-B1-r1",
+    "task": "tot2023",
+    "topic_id": "661",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-662-B0-r1",
+    "task": "tot2023",
+    "topic_id": "662",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-662-B1-r1",
+    "task": "tot2023",
+    "topic_id": "662",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-667-B0-r1",
+    "task": "tot2023",
+    "topic_id": "667",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-667-B1-r1",
+    "task": "tot2023",
+    "topic_id": "667",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-668-B0-r1",
+    "task": "tot2023",
+    "topic_id": "668",
+    "condition": "B0",
+    "primary_score": 1.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 1.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-668-B1-r1",
+    "task": "tot2023",
+    "topic_id": "668",
+    "condition": "B1",
+    "primary_score": 0.6309,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.6309
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-672-B0-r1",
+    "task": "tot2023",
+    "topic_id": "672",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-672-B1-r1",
+    "task": "tot2023",
+    "topic_id": "672",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-673-B0-r1",
+    "task": "tot2023",
+    "topic_id": "673",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-673-B1-r1",
+    "task": "tot2023",
+    "topic_id": "673",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-691-B0-r1",
+    "task": "tot2023",
+    "topic_id": "691",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-691-B1-r1",
+    "task": "tot2023",
+    "topic_id": "691",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-698-B0-r1",
+    "task": "tot2023",
+    "topic_id": "698",
+    "condition": "B0",
+    "primary_score": 0.5,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.5
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-698-B1-r1",
+    "task": "tot2023",
+    "topic_id": "698",
+    "condition": "B1",
+    "primary_score": 0.6309,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.6309
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-701-B0-r1",
+    "task": "tot2023",
+    "topic_id": "701",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-701-B1-r1",
+    "task": "tot2023",
+    "topic_id": "701",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-702-B0-r1",
+    "task": "tot2023",
+    "topic_id": "702",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-702-B1-r1",
+    "task": "tot2023",
+    "topic_id": "702",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-709-B0-r1",
+    "task": "tot2023",
+    "topic_id": "709",
+    "condition": "B0",
+    "primary_score": 0.5,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.5
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-709-B1-r1",
+    "task": "tot2023",
+    "topic_id": "709",
+    "condition": "B1",
+    "primary_score": 0.195,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.195
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-729-B0-r1",
+    "task": "tot2023",
+    "topic_id": "729",
+    "condition": "B0",
+    "primary_score": 0.1966,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1966
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-729-B1-r1",
+    "task": "tot2023",
+    "topic_id": "729",
+    "condition": "B1",
+    "primary_score": 0.1026,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1026
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-736-B0-r1",
+    "task": "tot2023",
+    "topic_id": "736",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-736-B1-r1",
+    "task": "tot2023",
+    "topic_id": "736",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-740-B0-r1",
+    "task": "tot2023",
+    "topic_id": "740",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-740-B1-r1",
+    "task": "tot2023",
+    "topic_id": "740",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-743-B0-r1",
+    "task": "tot2023",
+    "topic_id": "743",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-743-B1-r1",
+    "task": "tot2023",
+    "topic_id": "743",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-745-B0-r1",
+    "task": "tot2023",
+    "topic_id": "745",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-745-B1-r1",
+    "task": "tot2023",
+    "topic_id": "745",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-750-B0-r1",
+    "task": "tot2023",
+    "topic_id": "750",
+    "condition": "B0",
+    "primary_score": 1.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 1.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-750-B1-r1",
+    "task": "tot2023",
+    "topic_id": "750",
+    "condition": "B1",
+    "primary_score": 1.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 1.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-755-B0-r1",
+    "task": "tot2023",
+    "topic_id": "755",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-755-B1-r1",
+    "task": "tot2023",
+    "topic_id": "755",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-783-B0-r1",
+    "task": "tot2023",
+    "topic_id": "783",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-783-B1-r1",
+    "task": "tot2023",
+    "topic_id": "783",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-800-B0-r1",
+    "task": "tot2023",
+    "topic_id": "800",
+    "condition": "B0",
+    "primary_score": 0.1131,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1131
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-800-B1-r1",
+    "task": "tot2023",
+    "topic_id": "800",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-820-B0-r1",
+    "task": "tot2023",
+    "topic_id": "820",
+    "condition": "B0",
+    "primary_score": 0.2181,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.2181
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-820-B1-r1",
+    "task": "tot2023",
+    "topic_id": "820",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-822-B0-r1",
+    "task": "tot2023",
+    "topic_id": "822",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-822-B1-r1",
+    "task": "tot2023",
+    "topic_id": "822",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-824-B0-r1",
+    "task": "tot2023",
+    "topic_id": "824",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-824-B1-r1",
+    "task": "tot2023",
+    "topic_id": "824",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-833-B0-r1",
+    "task": "tot2023",
+    "topic_id": "833",
+    "condition": "B0",
+    "primary_score": 0.1139,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1139
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-833-B1-r1",
+    "task": "tot2023",
+    "topic_id": "833",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-852-B0-r1",
+    "task": "tot2023",
+    "topic_id": "852",
+    "condition": "B0",
+    "primary_score": 0.256,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.256
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-852-B1-r1",
+    "task": "tot2023",
+    "topic_id": "852",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-859-B0-r1",
+    "task": "tot2023",
+    "topic_id": "859",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-859-B1-r1",
+    "task": "tot2023",
+    "topic_id": "859",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-867-B0-r1",
+    "task": "tot2023",
+    "topic_id": "867",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-867-B1-r1",
+    "task": "tot2023",
+    "topic_id": "867",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-869-B0-r1",
+    "task": "tot2023",
+    "topic_id": "869",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-869-B1-r1",
+    "task": "tot2023",
+    "topic_id": "869",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-872-B0-r1",
+    "task": "tot2023",
+    "topic_id": "872",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-872-B1-r1",
+    "task": "tot2023",
+    "topic_id": "872",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-873-B0-r1",
+    "task": "tot2023",
+    "topic_id": "873",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-873-B1-r1",
+    "task": "tot2023",
+    "topic_id": "873",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-877-B0-r1",
+    "task": "tot2023",
+    "topic_id": "877",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-877-B1-r1",
+    "task": "tot2023",
+    "topic_id": "877",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-884-B0-r1",
+    "task": "tot2023",
+    "topic_id": "884",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-884-B1-r1",
+    "task": "tot2023",
+    "topic_id": "884",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-900-B0-r1",
+    "task": "tot2023",
+    "topic_id": "900",
+    "condition": "B0",
+    "primary_score": 0.1028,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1028
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-900-B1-r1",
+    "task": "tot2023",
+    "topic_id": "900",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-911-B0-r1",
+    "task": "tot2023",
+    "topic_id": "911",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-911-B1-r1",
+    "task": "tot2023",
+    "topic_id": "911",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-930-B0-r1",
+    "task": "tot2023",
+    "topic_id": "930",
+    "condition": "B0",
+    "primary_score": 0.109,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.109
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-930-B1-r1",
+    "task": "tot2023",
+    "topic_id": "930",
+    "condition": "B1",
+    "primary_score": 0.1966,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1966
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-931-B0-r1",
+    "task": "tot2023",
+    "topic_id": "931",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-931-B1-r1",
+    "task": "tot2023",
+    "topic_id": "931",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-945-B0-r1",
+    "task": "tot2023",
+    "topic_id": "945",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-945-B1-r1",
+    "task": "tot2023",
+    "topic_id": "945",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-960-B0-r1",
+    "task": "tot2023",
+    "topic_id": "960",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-960-B1-r1",
+    "task": "tot2023",
+    "topic_id": "960",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-964-B0-r1",
+    "task": "tot2023",
+    "topic_id": "964",
+    "condition": "B0",
+    "primary_score": 0.1013,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1013
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-964-B1-r1",
+    "task": "tot2023",
+    "topic_id": "964",
+    "condition": "B1",
+    "primary_score": 0.1085,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.1085
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-965-B0-r1",
+    "task": "tot2023",
+    "topic_id": "965",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-965-B1-r1",
+    "task": "tot2023",
+    "topic_id": "965",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-970-B0-r1",
+    "task": "tot2023",
+    "topic_id": "970",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-970-B1-r1",
+    "task": "tot2023",
+    "topic_id": "970",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-973-B0-r1",
+    "task": "tot2023",
+    "topic_id": "973",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-973-B1-r1",
+    "task": "tot2023",
+    "topic_id": "973",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-979-B0-r1",
+    "task": "tot2023",
+    "topic_id": "979",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-979-B1-r1",
+    "task": "tot2023",
+    "topic_id": "979",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-980-B0-r1",
+    "task": "tot2023",
+    "topic_id": "980",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-980-B1-r1",
+    "task": "tot2023",
+    "topic_id": "980",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-984-B0-r1",
+    "task": "tot2023",
+    "topic_id": "984",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-984-B1-r1",
+    "task": "tot2023",
+    "topic_id": "984",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-987-B0-r1",
+    "task": "tot2023",
+    "topic_id": "987",
+    "condition": "B0",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  },
+  {
+    "model": "fixed_retrieval",
+    "job_id": "tot2023-987-B1-r1",
+    "task": "tot2023",
+    "topic_id": "987",
+    "condition": "B1",
+    "primary_score": 0.0,
+    "topic_scores": {
+      "ndcg_cut_1000": 0.0
+    },
+    "evaluable": true
+  }
+]

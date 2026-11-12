@@ -1,0 +1,14 @@
+{
+  "scope": "3240 matched primary cells across three models and three tasks",
+  "behavior_source": "anonymous actions, observations, batches, timeline, and public task only",
+  "label_join": "after per-session behavior extraction",
+  "primary_tests": "frozen paired bootstrap and sign randomization; Holm over S1-S4 versus S0 within each task/model",
+  "exploratory_family": "27 S1-S3 contrasts over all three models/tasks; S4 contrasts separate",
+  "behavior_intervals": "10000 paired-topic bootstrap samples, seed 20261106, unadjusted",
+  "semantic_adherence": "lexical and action measures only; no automatic semantic labels claimed",
+  "effort": "search/open actions; provider tokens joined separately; no elapsed-time analysis",
+  "new_model_calls": 0,
+  "new_searches": 0,
+  "exploratory_goal_control_family": "27 S1-S3 versus S4 contrasts; Holm across models and tasks",
+  "exploratory_model_skill_family": "27 differences in S1-S3 gains between model pairs; Holm across pairs and tasks"
+}

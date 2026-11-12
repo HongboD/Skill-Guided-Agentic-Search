@@ -1,0 +1,21 @@
+# Search Strategy
+
+## Objective
+
+Search the provided collection using specific descriptions of what is sought, checking the search against the original request.
+
+## Search Process
+
+1. Use the identifying details supplied in the request to formulate the search, without assuming they are complete or correct.
+2. Where possible, begin with the most specific term or concept in the request, likely to yield the fewest results.
+3. If results are too broad, add another element of the request or reduce alternative terms for the same concept, keeping those that describe it most closely.
+4. When adding or deleting terms, change one concept at a time so you can connect the change to its effect on retrieval.
+5. Compare the current search with the original request and correct spelling or factual errors; question an empty result before treating it as absence of material.
+
+## Handling Findings
+
+Read retrieved documents to check the search and identify flaws in its formulation.
+
+## Stopping
+
+Stop pursuing a candidate once it has been verified against the request. End the search when the expected benefit of another specific search no longer justifies the effort.
