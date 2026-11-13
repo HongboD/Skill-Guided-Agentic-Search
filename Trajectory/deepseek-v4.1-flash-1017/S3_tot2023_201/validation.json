@@ -1,0 +1,28 @@
+{
+  "status": "PASS",
+  "tool_requests": 494,
+  "executed_calls": 494,
+  "rejected_requests": 0,
+  "executed_tools": {
+    "search": 451,
+    "open": 42,
+    "finish": 1
+  },
+  "tool_errors": 1,
+  "observations": 494,
+  "response_batches_with_actions": 142,
+  "public_agent_notes": 16,
+  "context_compactions": 4,
+  "recorded_runtime_retries": 0,
+  "format_repair_messages": 0,
+  "checks": [
+    "every_model_tool_request_exported_once",
+    "every_return_exported_once",
+    "arguments_preserved",
+    "executed_tool_returned_text_preserved",
+    "controller_and_python_agent_records_reconciled",
+    "batch_evidence_boundary_checked",
+    "final_query_selection_preserved",
+    "explicit_identity_markers_checked"
+  ]
+}
