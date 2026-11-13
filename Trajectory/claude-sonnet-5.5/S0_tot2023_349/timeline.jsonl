@@ -1,0 +1,14 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00006","event":"tool_request","action_id":"action_0003","batch_id":"batch_0002"}
+{"event_id":"event_00007","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00008","event":"tool_request","action_id":"action_0004","batch_id":"batch_0003"}
+{"event_id":"event_00009","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00010","event":"tool_request","action_id":"action_0005","batch_id":"batch_0004"}
+{"event_id":"event_00011","event":"tool_result_received","action_id":"action_0005","observation_id":"observation_0005"}
+{"event_id":"event_00012","event":"agent_note","text":"The best match is *Tales That Witness Madness* (1973), a British horror anthology directed by Freddie Francis. I picked it from the plot summary in the collection, not from any other source.\n\nThe \"Mel\" segment fits what you remember. Brian Thompson (Michael Jayston) brings home an old dead tree, calls it Mel, and mounts it in his modern home as art. His wife Bella (Joan Collins) gets jealous as he pays it more and more attention. You also guessed it might be an anthology, and it is one.\n\nIt isn't confirmed that the film aired on British TV in the 1980s, since the collection doesn't say. The other 1970s anthologies that came up (the Amicus films and *Trilogy of Terror*) have no tree in their summaries.\n\nI submitted two searches, both of which ranked this film first or near the top. The first was \"1970s horror anthology strange plant grows in living room\". The second was \"anthology horror dead tree brought home mounted in living room wife jealous\", which put it at rank 1."}
+{"event_id":"event_00013","event":"turn_completed"}
+{"event_id":"event_00014","event":"session_completed"}

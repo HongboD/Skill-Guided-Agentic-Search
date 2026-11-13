@@ -1,0 +1,22 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00006","event":"tool_request","action_id":"action_0003","batch_id":"batch_0002"}
+{"event_id":"event_00007","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00008","event":"tool_request","action_id":"action_0004","batch_id":"batch_0002"}
+{"event_id":"event_00009","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00010","event":"tool_request","action_id":"action_0005","batch_id":"batch_0003"}
+{"event_id":"event_00011","event":"tool_result_received","action_id":"action_0005","observation_id":"observation_0005"}
+{"event_id":"event_00012","event":"tool_request","action_id":"action_0006","batch_id":"batch_0003"}
+{"event_id":"event_00013","event":"tool_result_received","action_id":"action_0006","observation_id":"observation_0006"}
+{"event_id":"event_00014","event":"tool_request","action_id":"action_0007","batch_id":"batch_0004"}
+{"event_id":"event_00015","event":"tool_result_received","action_id":"action_0007","observation_id":"observation_0007"}
+{"event_id":"event_00016","event":"tool_request","action_id":"action_0008","batch_id":"batch_0005"}
+{"event_id":"event_00017","event":"tool_result_received","action_id":"action_0008","observation_id":"observation_0008"}
+{"event_id":"event_00018","event":"tool_request","action_id":"action_0009","batch_id":"batch_0006"}
+{"event_id":"event_00019","event":"tool_result_received","action_id":"action_0009","observation_id":"observation_0009"}
+{"event_id":"event_00020","event":"agent_note","text":"I submitted three searches, and the system fused them into a ranked list of 601 documents. I did not open any documents or screen them against the full eligibility criteria. Studies that fail those criteria may be in the list.\n\nThe three searches were:\n- **OptiMAL search (`q000005`, 441 hits):** OptiMAL with sensitivity or specificity.\n- **Vivax in endemic settings (`q000006`, 47 hits):** vivax with rapid or immunochromatographic tests, in endemic areas, in patients, reporting sensitivity.\n- **Brand-name search (`q000007`, 154 hits):** brand-name tests (ICT, Binax NOW, Pf/Pan, Parascreen and others) compared against microscopy or PCR, reporting sensitivity.\n\nI left out two searches I had run, because their top results included many travellers-in-non-endemic-setting studies, which the protocol excludes. Those were the broad pLDH/aldolase search (`q000002`) and the vivax/non-falciparum search with microscopy or PCR (`q000003`).\n\nThe three I chose still pull in some non-endemic travel-clinic studies, some asymptomatic-population studies and some treatment-monitoring studies. Those are excluded under the protocol, so they will lower precision."}
+{"event_id":"event_00021","event":"turn_completed"}
+{"event_id":"event_00022","event":"session_completed"}

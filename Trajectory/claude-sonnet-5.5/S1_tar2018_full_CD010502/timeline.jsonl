@@ -1,0 +1,22 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00006","event":"tool_request","action_id":"action_0003","batch_id":"batch_0002"}
+{"event_id":"event_00007","event":"tool_request","action_id":"action_0004","batch_id":"batch_0002"}
+{"event_id":"event_00008","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00009","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00010","event":"tool_request","action_id":"action_0005","batch_id":"batch_0003"}
+{"event_id":"event_00011","event":"tool_result_received","action_id":"action_0005","observation_id":"observation_0005"}
+{"event_id":"event_00012","event":"tool_request","action_id":"action_0006","batch_id":"batch_0003"}
+{"event_id":"event_00013","event":"tool_result_received","action_id":"action_0006","observation_id":"observation_0006"}
+{"event_id":"event_00014","event":"tool_request","action_id":"action_0007","batch_id":"batch_0004"}
+{"event_id":"event_00015","event":"tool_result_received","action_id":"action_0007","observation_id":"observation_0007"}
+{"event_id":"event_00016","event":"tool_request","action_id":"action_0008","batch_id":"batch_0004"}
+{"event_id":"event_00017","event":"tool_result_received","action_id":"action_0008","observation_id":"observation_0008"}
+{"event_id":"event_00018","event":"tool_request","action_id":"action_0009","batch_id":"batch_0005"}
+{"event_id":"event_00019","event":"tool_result_received","action_id":"action_0009","observation_id":"observation_0009"}
+{"event_id":"event_00020","event":"agent_note","text":"I finished the search and submitted three queries. Their results are fused into a ranked list of 129 documents. I haven't read any of the documents in full, so none has been checked against the criteria. Candidates were judged from titles and snippets only.\n\nThe three queries were:\n- **q000003** (86 hits): rapid, immunoassay or antigen-detection tests, plus streptococcus, pharyngitis, sensitivity or specificity, culture, and children or paediatric terms.\n- **q000007** (69 hits): named test types and brands (TestPack, Strep A OIA, Quick-Vue, Directigen, immunochromatographic, enzyme or optical immunoassay), plus pharyngitis, culture, and children.\n- **q000004** (26 hits): the exact phrase \"rapid antigen detection test\", plus streptococcus, pharyngitis, and children.\n\nThe list will contain some documents that don't meet the criteria:\n- **Latex agglutination studies** are included in the results, but the protocol covers only EIA and OIA tests. Several of them turned up in q000003 and q000007.\n- **Off-topic papers** appear at the tail of q000007, including influenza rapid-test evaluations.\n- **Studies without a culture comparison** appear, such as cost-effectiveness analyses, clinical scoring papers and guidelines.\n\nPapers that look like good matches:\n- Strep A OIA evaluations in children, such as 8150968, 7774137, 9881982 and 7650184.\n- EIA and immunochromatographic evaluations in children, such as 3298593, 3292998, 8111517, 7699057 and 10829824.\n- Recent RADT accuracy studies in paediatric outpatients, such as 19171607, 18538421, 20347185, 22768060 and 23340863.\n\nI can't change the order of the final list."}
+{"event_id":"event_00021","event":"turn_completed"}
+{"event_id":"event_00022","event":"session_completed"}

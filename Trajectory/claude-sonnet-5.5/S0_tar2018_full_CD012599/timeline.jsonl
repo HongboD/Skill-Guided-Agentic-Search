@@ -1,0 +1,22 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00006","event":"tool_request","action_id":"action_0003","batch_id":"batch_0002"}
+{"event_id":"event_00007","event":"tool_request","action_id":"action_0004","batch_id":"batch_0002"}
+{"event_id":"event_00008","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00009","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00010","event":"tool_request","action_id":"action_0005","batch_id":"batch_0003"}
+{"event_id":"event_00011","event":"tool_result_received","action_id":"action_0005","observation_id":"observation_0005"}
+{"event_id":"event_00012","event":"tool_request","action_id":"action_0006","batch_id":"batch_0003"}
+{"event_id":"event_00013","event":"tool_result_received","action_id":"action_0006","observation_id":"observation_0006"}
+{"event_id":"event_00014","event":"tool_request","action_id":"action_0007","batch_id":"batch_0004"}
+{"event_id":"event_00015","event":"tool_result_received","action_id":"action_0007","observation_id":"observation_0007"}
+{"event_id":"event_00016","event":"tool_request","action_id":"action_0008","batch_id":"batch_0004"}
+{"event_id":"event_00017","event":"tool_result_received","action_id":"action_0008","observation_id":"observation_0008"}
+{"event_id":"event_00018","event":"tool_request","action_id":"action_0009","batch_id":"batch_0005"}
+{"event_id":"event_00019","event":"tool_result_received","action_id":"action_0009","observation_id":"observation_0009"}
+{"event_id":"event_00020","event":"agent_note","text":"I submitted three queries. Together they return 183 ranked documents, but I didn't check any of them against the review criteria, so some will be off-topic. For example, cost-effectiveness models, simulation studies and narrative reviews appear in the hits. The review requires studies in which women actually had the tests and were compared against a reference standard.\n\nThe first search was a broad keyword query. I discarded it because it matched millions of documents. I kept three narrower queries, all restricted to the 1980–Aug 2011 range:\n\n- **q000003:** Down's or trisomy 21, plus integrated, sequential, contingent, combined or quadruple testing, plus detection rate or sensitivity, plus first and second trimester. This returned 128 hits.\n- **q000006:** \"first and second trimester\" plus PAPP-A or nuchal translucency, false-positive rate, and a trial, prospective, case-control or stored-serum design. This returned 29 hits.\n- **q000007:** nuchal translucency plus triple, quadruple, double or second-trimester serum testing, plus combined, integrated, sequential or stepwise strategies. This returned 103 hits.\n\nThe results include the main trials and cohorts I'd expect, such as SURUSS, FASTER, and the Wald integrated-screening paper. They also include several prospective evaluations of integrated, contingent and sequential testing.\n\nI dropped the broader integrated-test queries because they returned millions of hits dominated by loosely related papers.\n\nI didn't use the later search that added terms like \"serum integrated\" or \"stepwise sequential\". It was a pure OR query, so it pulled in a lot of unrelated documents."}
+{"event_id":"event_00021","event":"turn_completed"}
+{"event_id":"event_00022","event":"session_completed"}

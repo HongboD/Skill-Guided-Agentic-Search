@@ -1,0 +1,20 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00006","event":"tool_request","action_id":"action_0003","batch_id":"batch_0002"}
+{"event_id":"event_00007","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00008","event":"tool_request","action_id":"action_0004","batch_id":"batch_0002"}
+{"event_id":"event_00009","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00010","event":"tool_request","action_id":"action_0005","batch_id":"batch_0003"}
+{"event_id":"event_00011","event":"tool_result_received","action_id":"action_0005","observation_id":"observation_0005"}
+{"event_id":"event_00012","event":"tool_request","action_id":"action_0006","batch_id":"batch_0003"}
+{"event_id":"event_00013","event":"tool_result_received","action_id":"action_0006","observation_id":"observation_0006"}
+{"event_id":"event_00014","event":"tool_request","action_id":"action_0007","batch_id":"batch_0004"}
+{"event_id":"event_00015","event":"tool_result_received","action_id":"action_0007","observation_id":"observation_0007"}
+{"event_id":"event_00016","event":"tool_request","action_id":"action_0008","batch_id":"batch_0005"}
+{"event_id":"event_00017","event":"tool_result_received","action_id":"action_0008","observation_id":"observation_0008"}
+{"event_id":"event_00018","event":"agent_note","text":"I ran the searches and submitted three of them. Together they fuse into a ranked list of 260 documents. I did not open any full texts. I judged relevance from the titles and 600-character snippets only.\n\nThe three submitted queries:\n- **q000003** (132 hits) combined malaria, a rapid test or dipstick term, a named brand (Paracheck, ICT Malaria, OptiMAL, SD Bioline, ParaHIT, CareStart-type tests and others), and a symptomatic or outpatient term (fever, febrile, clinic, suspected malaria).\n- **q000007** (122 hits) required a rapid test or antigen-detection term, both sensitivity and specificity, and microscopy or blood film. It excluded travellers, returned or imported cases, and placental malaria, so it screens out the non-immune and non-endemic populations the review rules out.\n- **q000004** (95 hits) required falciparum, a rapid test term, microscopy, and a named endemic country or continent.\n\nI also ran a brand-focused query (q000006, 56 hits: ParaSight-F, OptiMAL, pLDH and similar) but didn't submit it. Its results overlap heavily with the others, and several of its top hits are travel-clinic or post-treatment studies.\n\nThe lists will still include some studies the review excludes. The three queries can't filter out asymptomatic or household-survey studies, post-treatment monitoring, severe or cerebral malaria, or studies whose data can't be extracted into 2×2 tables. Examples that surfaced are the Zambian household survey, the Hexagon test in asymptomatic children, and the ParaSight-F test in cerebral malaria. Screening the full texts would be needed to remove those."}
+{"event_id":"event_00019","event":"turn_completed"}
+{"event_id":"event_00020","event":"session_completed"}

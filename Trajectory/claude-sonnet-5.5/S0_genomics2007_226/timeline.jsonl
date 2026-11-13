@@ -1,0 +1,14 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00006","event":"tool_request","action_id":"action_0003","batch_id":"batch_0002"}
+{"event_id":"event_00007","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00008","event":"tool_request","action_id":"action_0004","batch_id":"batch_0002"}
+{"event_id":"event_00009","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00010","event":"tool_request","action_id":"action_0005","batch_id":"batch_0003"}
+{"event_id":"event_00011","event":"tool_result_received","action_id":"action_0005","observation_id":"observation_0005"}
+{"event_id":"event_00012","event":"agent_note","text":"I finished the task with three searches (q000001, q000003 and q000004). The collection's passages answer the question for mammalian SRP, not for mouse specifically. I didn't open any documents in full, so this rests on the search snippets.\n\nThe passages consistently say mammalian SRP has six proteins plus one RNA, the 7SL RNA (about 300 nucleotides). The proteins are SRP9, SRP14, SRP19, SRP54, SRP68 and SRP72, named for their approximate molecular weights in kilodaltons. SRP9 and SRP14 form a heterodimer that binds the Alu domain of the RNA. SRP68 and SRP72 form a second heterodimer.\n\nI didn't find a passage stating that the mouse particle has a different composition. One paper (9016560) compares human and mouse SRP9/14 binding to Alu-like RNAs. I'm assuming mouse SRP has the same six proteins as other mammals.\n\nThe three searches overlap heavily. The ranked output combines them."}
+{"event_id":"event_00013","event":"turn_completed"}
+{"event_id":"event_00014","event":"session_completed"}

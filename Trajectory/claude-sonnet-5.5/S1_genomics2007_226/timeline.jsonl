@@ -1,0 +1,12 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00006","event":"tool_request","action_id":"action_0003","batch_id":"batch_0002"}
+{"event_id":"event_00007","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00008","event":"tool_request","action_id":"action_0004","batch_id":"batch_0003"}
+{"event_id":"event_00009","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00010","event":"agent_note","text":"The collection says mammalian SRP has six proteins: SRP9, SRP14, SRP19, SRP54, SRP68 and SRP72. I found no passage that describes the mouse particle on its own. The passages describe canine or general mammalian SRP, so the mouse answer rests on the particle being conserved across mammals.\n\nThe names refer to approximate molecular weights in kilodaltons. The particle also contains one 7SL RNA of about 300 nucleotides. The passages describe these groupings:\n- **SRP9/14:** SRP9 and SRP14 form a heterodimer that binds the Alu domain at the 5' end of the RNA.\n- **SRP68/72:** SRP68 and SRP72 bind each other as a heterodimer.\n- **SRP19 and SRP54:** these two bind as single proteins. SRP54 binds the signal peptide.\n\nTwo of the searches turned up the passages that state this directly, and I submitted those two. One passage was about the mouse SRP9/14 subunit, but it compared mouse and human RNA binding and did not list the mouse composition."}
+{"event_id":"event_00011","event":"turn_completed"}
+{"event_id":"event_00012","event":"session_completed"}

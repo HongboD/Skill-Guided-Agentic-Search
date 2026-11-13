@@ -1,0 +1,16 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00006","event":"tool_request","action_id":"action_0003","batch_id":"batch_0002"}
+{"event_id":"event_00007","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00008","event":"tool_request","action_id":"action_0004","batch_id":"batch_0002"}
+{"event_id":"event_00009","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00010","event":"tool_request","action_id":"action_0005","batch_id":"batch_0003"}
+{"event_id":"event_00011","event":"tool_result_received","action_id":"action_0005","observation_id":"observation_0005"}
+{"event_id":"event_00012","event":"tool_request","action_id":"action_0006","batch_id":"batch_0004"}
+{"event_id":"event_00013","event":"tool_result_received","action_id":"action_0006","observation_id":"observation_0006"}
+{"event_id":"event_00014","event":"agent_note","text":"I submitted three searches. Their fused ranking has 103 documents. I didn't open any full texts or check studies against the protocol criteria, so the ranking rests on titles and snippets only.\n\nThe three queries were:\n- **q000002 (28 hits):** CTA terms (\"CT angiography\", \"computed tomographic angiography\" and similar) combined with \"brain death\", \"brain dead\" or \"cerebral death\". It brought up most of the directly relevant CTA studies. Examples are the studies by Escudero, Frampas, Leclerc, Quesnel, Sawicki and Welschehold, the French multicentre CTA scoring study, and the CT angiography-with-perfusion studies.\n- **q000005 (42 hits):** brain death terms combined with spiral, multislice or multidetector CT, contrast enhancement, opacification or CT perfusion. It added the two-phase spiral CT studies and the spiral CT study of intracranial circulation in suspected brain death.\n- **q000004 (71 hits):** brain death or circulatory arrest terms combined with CT or angiography terms and with \"ancillary\", \"confirmatory\" or \"sensitivity\". It catches CTA studies the other two might miss, but it also pulls in transcranial Doppler, scintigraphy and general ancillary-test papers.\n\n**Noise in the ranking:** the results include some case reports and non-diagnostic-accuracy papers. Examples are a porcine model, postmortem imaging papers, reviews and guidelines, and a few unrelated papers.\n\n**Not run:** I didn't run a separate search for paediatric studies. The protocol says no paediatric data were identified, and the one child case report that surfaced was already in the results."}
+{"event_id":"event_00015","event":"turn_completed"}
+{"event_id":"event_00016","event":"session_completed"}

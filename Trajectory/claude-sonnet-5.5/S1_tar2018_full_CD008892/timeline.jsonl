@@ -1,0 +1,26 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00006","event":"tool_request","action_id":"action_0003","batch_id":"batch_0002"}
+{"event_id":"event_00007","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00008","event":"tool_request","action_id":"action_0004","batch_id":"batch_0002"}
+{"event_id":"event_00009","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00010","event":"tool_request","action_id":"action_0005","batch_id":"batch_0003"}
+{"event_id":"event_00011","event":"tool_result_received","action_id":"action_0005","observation_id":"observation_0005"}
+{"event_id":"event_00012","event":"tool_request","action_id":"action_0006","batch_id":"batch_0003"}
+{"event_id":"event_00013","event":"tool_result_received","action_id":"action_0006","observation_id":"observation_0006"}
+{"event_id":"event_00014","event":"tool_request","action_id":"action_0007","batch_id":"batch_0004"}
+{"event_id":"event_00015","event":"tool_result_received","action_id":"action_0007","observation_id":"observation_0007"}
+{"event_id":"event_00016","event":"tool_request","action_id":"action_0008","batch_id":"batch_0004"}
+{"event_id":"event_00017","event":"tool_result_received","action_id":"action_0008","observation_id":"observation_0008"}
+{"event_id":"event_00018","event":"tool_request","action_id":"action_0009","batch_id":"batch_0005"}
+{"event_id":"event_00019","event":"tool_result_received","action_id":"action_0009","observation_id":"observation_0009"}
+{"event_id":"event_00020","event":"tool_request","action_id":"action_0010","batch_id":"batch_0005"}
+{"event_id":"event_00021","event":"tool_result_received","action_id":"action_0010","observation_id":"observation_0010"}
+{"event_id":"event_00022","event":"tool_request","action_id":"action_0011","batch_id":"batch_0006"}
+{"event_id":"event_00023","event":"tool_result_received","action_id":"action_0011","observation_id":"observation_0011"}
+{"event_id":"event_00024","event":"agent_note","text":"I finished the search and chose three queries. Their combined ranking has 131 documents. I judged relevance only from titles and snippets and didn't open any documents, so some of the 131 are probably not eligible.\n\nThe three queries were:\n- **q000010:** typhoid, paratyphoid or enteric fever AND any of the rapid-test terms (Typhidot, Tubex, dipstick, lateral flow, point-of-care, immunochromatographic, dot-EIA). This is the broadest query, with 122 hits.\n- **q000009:** the same disease terms AND antibody detection, blood culture or bone marrow as reference, sensitivity and specificity, and a rapid-test format. This is the most precise query, with 22 hits.\n- **q000005:** typhoid terms, also including \"Salmonella typhi\", AND the rapid-test terms. It has 103 hits.\n\nq000010 and q000005 overlap heavily.\n\nThe collection covers many unrelated topics, such as Legionella, dengue and leptospirosis, so every query needed typhoid terms alongside the test terms. The retrieved studies include evaluations of Typhidot, Typhidot-M, Tubex, dipstick assays, IgM lateral flow tests, Enterocheck, SD Bioline, OnSite and TyphiRapid against blood culture or bone marrow culture. They also include urine antigen studies (coagglutination and ELISA).\n\nLikely ineligible items are also in the list. These include Widal-only audits, PCR-only work, case reports and structural studies of the Typhidot antigen. I left out q000008, which had 1,447 hits mostly about Widal tests, because it would have added too much noise."}
+{"event_id":"event_00025","event":"turn_completed"}
+{"event_id":"event_00026","event":"session_completed"}

@@ -1,0 +1,26 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00006","event":"tool_request","action_id":"action_0003","batch_id":"batch_0002"}
+{"event_id":"event_00007","event":"tool_request","action_id":"action_0004","batch_id":"batch_0002"}
+{"event_id":"event_00008","event":"tool_request","action_id":"action_0005","batch_id":"batch_0002"}
+{"event_id":"event_00009","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00010","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00011","event":"tool_result_received","action_id":"action_0005","observation_id":"observation_0005"}
+{"event_id":"event_00012","event":"tool_request","action_id":"action_0006","batch_id":"batch_0003"}
+{"event_id":"event_00013","event":"tool_request","action_id":"action_0007","batch_id":"batch_0003"}
+{"event_id":"event_00014","event":"tool_request","action_id":"action_0008","batch_id":"batch_0003"}
+{"event_id":"event_00015","event":"tool_result_received","action_id":"action_0006","observation_id":"observation_0006"}
+{"event_id":"event_00016","event":"tool_result_received","action_id":"action_0007","observation_id":"observation_0007"}
+{"event_id":"event_00017","event":"tool_result_received","action_id":"action_0008","observation_id":"observation_0008"}
+{"event_id":"event_00018","event":"tool_request","action_id":"action_0009","batch_id":"batch_0004"}
+{"event_id":"event_00019","event":"tool_result_received","action_id":"action_0009","observation_id":"observation_0009"}
+{"event_id":"event_00020","event":"tool_request","action_id":"action_0010","batch_id":"batch_0004"}
+{"event_id":"event_00021","event":"tool_result_received","action_id":"action_0010","observation_id":"observation_0010"}
+{"event_id":"event_00022","event":"tool_request","action_id":"action_0011","batch_id":"batch_0005"}
+{"event_id":"event_00023","event":"tool_result_received","action_id":"action_0011","observation_id":"observation_0011"}
+{"event_id":"event_00024","event":"agent_note","text":"I've finished the search and submitted three queries. The collection points to the HIV-1 *env* gene as the main viral gene affecting membrane fusion. I read result snippets only and didn't open any full documents.\n\n- **env (gp160, cleaved into gp120 and gp41):** Many passages say the viral envelope glycoprotein mediates fusion of the viral and cell membranes.\n  - gp120 binds CD4 and then a coreceptor (CCR5 or CXCR4). That triggers conformational changes in gp41.\n  - gp41 carries the fusion machinery: the N-terminal fusion peptide and the two heptad-repeat regions (N-terminal and C-terminal). Together they form the six-helix bundle that brings the membranes together.\n  - Mutations in gp120's V3 and V1/V2 loops, in the gp41 fusion peptide, and in the aromatic-rich region next to the membrane-spanning domain change fusion activity or syncytium formation.\n  - Truncating the gp41 cytoplasmic tail can increase fusogenicity.\n- **nef and vpu (weaker evidence):** These accessory genes affect infectivity indirectly.\n  - Nef raises the amount of Env on virions.\n  - Nef and Vpu lower CD4 on the cell surface. That limits CD4 being incorporated into virions, which would otherwise block Env.\n  - Neither is described as a direct fusion factor.\n- **vif:** Searches turned up no link between vif and fusion.\n\nThe three saved queries were:\n- **q000002:** env, gp41 and gp120 with membrane fusion.\n- **q000006:** gp41 fusion peptide and heptad repeat mutations that impair fusion.\n- **q000010:** env gene mutations that alter fusion and entry.\n\nI left out the query on accessory genes (q000009) because its hits were mostly about CD4 down-regulation, not fusion itself."}
+{"event_id":"event_00025","event":"turn_completed"}
+{"event_id":"event_00026","event":"session_completed"}

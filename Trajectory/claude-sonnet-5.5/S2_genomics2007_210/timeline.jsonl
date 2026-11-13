@@ -1,0 +1,24 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00006","event":"tool_request","action_id":"action_0003","batch_id":"batch_0002"}
+{"event_id":"event_00007","event":"tool_request","action_id":"action_0004","batch_id":"batch_0002"}
+{"event_id":"event_00008","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00009","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00010","event":"tool_request","action_id":"action_0005","batch_id":"batch_0003"}
+{"event_id":"event_00011","event":"tool_request","action_id":"action_0006","batch_id":"batch_0003"}
+{"event_id":"event_00012","event":"tool_result_received","action_id":"action_0005","observation_id":"observation_0005"}
+{"event_id":"event_00013","event":"tool_result_received","action_id":"action_0006","observation_id":"observation_0006"}
+{"event_id":"event_00014","event":"tool_request","action_id":"action_0007","batch_id":"batch_0004"}
+{"event_id":"event_00015","event":"tool_request","action_id":"action_0008","batch_id":"batch_0004"}
+{"event_id":"event_00016","event":"tool_result_received","action_id":"action_0007","observation_id":"observation_0007"}
+{"event_id":"event_00017","event":"tool_result_received","action_id":"action_0008","observation_id":"observation_0008"}
+{"event_id":"event_00018","event":"tool_request","action_id":"action_0009","batch_id":"batch_0005"}
+{"event_id":"event_00019","event":"tool_result_received","action_id":"action_0009","observation_id":"observation_0009"}
+{"event_id":"event_00020","event":"tool_request","action_id":"action_0010","batch_id":"batch_0006"}
+{"event_id":"event_00021","event":"tool_result_received","action_id":"action_0010","observation_id":"observation_0010"}
+{"event_id":"event_00022","event":"agent_note","text":"I finished the search and submitted three queries (q000005, q000002 and q000009). The system fused their results into a ranked list of 1,000 documents. I didn't read any documents in full; I judged relevance from the search snippets.\n\nThe collection is very large (millions of passages), and the question doesn't name specific functions. So I looked for passages that list what glycosylation does. They describe these functions:\n\n- **Folding and quality control:** N-glycans promote correct protein folding and ER quality control, including the calnexin/calreticulin cycle.\n- **Stability and protection:** They stabilize proteins, protect them from proteases, reduce aggregation and increase solubility.\n- **Trafficking and sorting:** They help with intracellular trafficking, apical targeting, secretion and cell-surface expression.\n- **Ligand binding and signaling:** They affect ligand binding and signal transduction. One passage reports that removing the N-glycans on the insulin receptor blocks its signaling without changing insulin affinity.\n- **Cell adhesion and immune recognition:** They act as recognition signals in cell adhesion, selectin binding and lectin-mediated immune recognition.\n\nI left out q000004, a query on immune recognition and pathogen interaction, because the other three covered the general functions better. That means the final list may be thinner on immune and pathogen recognition passages."}
+{"event_id":"event_00023","event":"turn_completed"}
+{"event_id":"event_00024","event":"session_completed"}

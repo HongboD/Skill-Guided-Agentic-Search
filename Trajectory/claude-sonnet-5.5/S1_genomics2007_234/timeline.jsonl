@@ -1,0 +1,16 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00006","event":"tool_request","action_id":"action_0003","batch_id":"batch_0002"}
+{"event_id":"event_00007","event":"tool_request","action_id":"action_0004","batch_id":"batch_0002"}
+{"event_id":"event_00008","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00009","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00010","event":"tool_request","action_id":"action_0005","batch_id":"batch_0003"}
+{"event_id":"event_00011","event":"tool_result_received","action_id":"action_0005","observation_id":"observation_0005"}
+{"event_id":"event_00012","event":"tool_request","action_id":"action_0006","batch_id":"batch_0004"}
+{"event_id":"event_00013","event":"tool_result_received","action_id":"action_0006","observation_id":"observation_0006"}
+{"event_id":"event_00014","event":"agent_note","text":"I ran five searches and submitted three of them (q000003, q000004, q000005). The system fused their results into a ranked list of 1,000 documents. I judged relevance from the search snippets only and didn't open any full documents.\n\nThe passages I found describe these components of the pathway:\n\n- **NF-κB/Rel family (transcription factors):**\n  - p65/RelA, RelB and c-Rel.\n  - NFKB1 (precursor p105, processed to p50) and NFKB2 (precursor p100, processed to p52).\n- **IκB inhibitors:**\n  - IκBα, IκBβ and IκBε.\n  - p105 and p100, which also act as IκB-like inhibitors.\n- **IKK complex (canonical pathway):** IKKα and IKKβ as the catalytic subunits, and NEMO (IKKγ) as the scaffold.\n- **Non-canonical pathway:** NIK (NF-κB-inducing kinase), IKKα, and p100 processing to p52/RelB. TRAF3 is a negative regulator of NIK.\n\nTwo of the three submitted queries (q000003, q000004) were mostly review-style passages that list these members. The third (q000005, the IKK complex) was weaker. Its top results are mostly reference-list citations, with relevant passages further down, so it adds some noise to the fused ranking. I included it to cover the IKK genes.\n\nMy first two searches returned mostly reference-list citations, so I dropped them."}
+{"event_id":"event_00015","event":"turn_completed"}
+{"event_id":"event_00016","event":"session_completed"}

@@ -1,0 +1,18 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00006","event":"tool_request","action_id":"action_0003","batch_id":"batch_0002"}
+{"event_id":"event_00007","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00008","event":"tool_request","action_id":"action_0004","batch_id":"batch_0002"}
+{"event_id":"event_00009","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00010","event":"tool_request","action_id":"action_0005","batch_id":"batch_0003"}
+{"event_id":"event_00011","event":"tool_request","action_id":"action_0006","batch_id":"batch_0003"}
+{"event_id":"event_00012","event":"tool_result_received","action_id":"action_0005","observation_id":"observation_0005"}
+{"event_id":"event_00013","event":"tool_result_received","action_id":"action_0006","observation_id":"observation_0006"}
+{"event_id":"event_00014","event":"tool_request","action_id":"action_0007","batch_id":"batch_0004"}
+{"event_id":"event_00015","event":"tool_result_received","action_id":"action_0007","observation_id":"observation_0007"}
+{"event_id":"event_00016","event":"agent_note","text":"I submitted three queries: q000001, q000002 and q000005. The final ranking is their reciprocal-rank fusion, capped at 1000 documents. I didn't open any documents in full, and I judged relevance only from the search snippets.\n\n- **q000001** (\"drugs that inhibit HIV-1 infection\") returned statins, the cyclin-dependent kinase inhibitor roscovitine, Bis-PMEA-loaded red blood cells and the CADA compounds.\n- **q000002** (\"antiretroviral inhibitors of HIV type 1 replication\") returned passages on reverse transcriptase, protease and fusion inhibitors.\n- **q000005** (\"compounds inhibit HIV-1 replication in vitro EC50 antiviral activity…\") returned specific compounds with measured activity. Examples are G-quartet oligonucleotides, pyridine N-oxide derivatives, the lectins UDA and GRFT, and diketo acid integrase inhibitors.\n\nThe collection is large, with millions of hits for each broad query, so the top-ranked passages are noisy. The queries I left out did worse:\n\n- **q000003**, an exact-phrase query, mostly matched reference-list entries.\n- **q000004**, which combined named drugs with the phrase \"HIV-1 infection\", returned only 34 hits, many of them off-topic.\n- **q000006**, a drug-class query, mostly returned clinical treatment studies rather than passages about inhibiting infection."}
+{"event_id":"event_00017","event":"turn_completed"}
+{"event_id":"event_00018","event":"session_completed"}

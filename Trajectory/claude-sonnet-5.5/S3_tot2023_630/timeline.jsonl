@@ -1,0 +1,14 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00006","event":"tool_request","action_id":"action_0003","batch_id":"batch_0002"}
+{"event_id":"event_00007","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00008","event":"tool_request","action_id":"action_0004","batch_id":"batch_0003"}
+{"event_id":"event_00009","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00010","event":"tool_request","action_id":"action_0005","batch_id":"batch_0004"}
+{"event_id":"event_00011","event":"tool_result_received","action_id":"action_0005","observation_id":"observation_0005"}
+{"event_id":"event_00012","event":"agent_note","text":"I picked *The Abrafaxe – Under The Black Flag* (also released as *The Pirates of Tortuga: Under The Black Flag*) as the film you remember. It's a 2001 German animated film, and the search is finished.\n\n- **Three kids:** Abrax, Brabax and Califax find a golden Aztec bowl in a museum, and playing with it sends them back in time.\n- **Tortuga and the female captain:** Califax lands in the pirate city of Tortuga, which is governed by the pirate Anne Bonny. The kids end up helping her find the treasure of El Dorado.\n- **The relic:** The object is an Aztec bowl, not a book. That is the one detail that doesn't match. You weren't sure about the book, so I still think this is the right film.\n\nI submitted two searches (q000002 and q000003), both of which ranked this film first. I left out the first search (q000001), which had it second."}
+{"event_id":"event_00013","event":"turn_completed"}
+{"event_id":"event_00014","event":"session_completed"}

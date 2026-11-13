@@ -1,0 +1,13 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00006","event":"tool_request","action_id":"action_0003","batch_id":"batch_0002"}
+{"event_id":"event_00007","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00008","event":"agent_note","text":"Fortress (1985) matches the request, including the final scene with the preserved heart in the schoolhouse."}
+{"event_id":"event_00009","event":"tool_request","action_id":"action_0004","batch_id":"batch_0003"}
+{"event_id":"event_00010","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00011","event":"agent_note","text":"The film is almost certainly **Fortress** (1985), an Australian thriller directed by Arch Nicholson and starring Rachel Ward. I checked the plot summary in the collection against your description:\n\n- **Setting:** Sally Jones is the only teacher at a one-room school in the Outback. She has 9 pupils aged six to sixteen.\n- **The thugs:** Four armed men in masks take the teacher and the children away in a van, planning to hold them for ransom.\n- **Survival:** They escape through a cave and cross an underground river. Later they fortify another cave with a spike pit and spears made from school supplies, and they fight back against their captors.\n- **Final scene:** Back at the school, Sally looks at a preserved human heart on display among the science experiments. That matches the body part in a glass container.\n- **Where you saw it:** It premiered on HBO in 1985, so a TV broadcast in the early 90s fits.\n\nI submitted both searches. Both returned Fortress in their results, but the second search also pulled in a lot of unrelated Australian titles."}
+{"event_id":"event_00012","event":"turn_completed"}
+{"event_id":"event_00013","event":"session_completed"}

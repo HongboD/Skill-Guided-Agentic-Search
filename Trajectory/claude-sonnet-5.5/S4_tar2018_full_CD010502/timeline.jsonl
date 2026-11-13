@@ -1,0 +1,24 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_request","action_id":"action_0003","batch_id":"batch_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00006","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00007","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00008","event":"tool_request","action_id":"action_0004","batch_id":"batch_0002"}
+{"event_id":"event_00009","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00010","event":"tool_request","action_id":"action_0005","batch_id":"batch_0002"}
+{"event_id":"event_00011","event":"tool_result_received","action_id":"action_0005","observation_id":"observation_0005"}
+{"event_id":"event_00012","event":"tool_request","action_id":"action_0006","batch_id":"batch_0003"}
+{"event_id":"event_00013","event":"tool_result_received","action_id":"action_0006","observation_id":"observation_0006"}
+{"event_id":"event_00014","event":"tool_request","action_id":"action_0007","batch_id":"batch_0003"}
+{"event_id":"event_00015","event":"tool_result_received","action_id":"action_0007","observation_id":"observation_0007"}
+{"event_id":"event_00016","event":"tool_request","action_id":"action_0008","batch_id":"batch_0004"}
+{"event_id":"event_00017","event":"tool_result_received","action_id":"action_0008","observation_id":"observation_0008"}
+{"event_id":"event_00018","event":"tool_request","action_id":"action_0009","batch_id":"batch_0004"}
+{"event_id":"event_00019","event":"tool_result_received","action_id":"action_0009","observation_id":"observation_0009"}
+{"event_id":"event_00020","event":"tool_request","action_id":"action_0010","batch_id":"batch_0005"}
+{"event_id":"event_00021","event":"tool_result_received","action_id":"action_0010","observation_id":"observation_0010"}
+{"event_id":"event_00022","event":"agent_note","text":"I ran the searches and submitted three queries. The fused ranking has 265 documents. I judged relevance only from titles and snippets and didn't open any full texts, so I haven't checked individual studies against the age, setting and reference-standard criteria.\n\nThe three queries I chose:\n- **q000006:** Streptococcus or GABHS, with pharyngitis or sore throat, a rapid-test term, sensitivity/specificity/predictive value, and a child or adolescent term. It has 97 hits.\n- **q000009:** Streptococcus or group A, with pharyngitis or throat, and an immunoassay term (EIA, OIA, ELISA), excluding influenza. It has 148 hits. This one targets the two index test types the review covers.\n- **q000004:** pediatric terms, pharyngitis, streptococcus, rapid-test or brand-name terms, and culture. It has 114 hits.\n\n- **Latex agglutination studies:** The first two queries also return latex agglutination and coagglutination studies. The protocol includes only EIA and OIA tests, so these will probably be false positives.\n- **Non-child records:** Some adult-only and clinical-score papers also appear. Some are likely false positives, and others may have a child subgroup that can't be judged from the snippet.\n- **Searches I didn't use:** A brand-name query pulled in influenza-test papers, so I left it out. The first two broad queries had very large hit counts and little filtering."}
+{"event_id":"event_00023","event":"turn_completed"}
+{"event_id":"event_00024","event":"session_completed"}

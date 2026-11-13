@@ -1,0 +1,24 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00006","event":"tool_request","action_id":"action_0003","batch_id":"batch_0002"}
+{"event_id":"event_00007","event":"tool_request","action_id":"action_0004","batch_id":"batch_0002"}
+{"event_id":"event_00008","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00009","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00010","event":"tool_request","action_id":"action_0005","batch_id":"batch_0003"}
+{"event_id":"event_00011","event":"tool_request","action_id":"action_0006","batch_id":"batch_0003"}
+{"event_id":"event_00012","event":"tool_result_received","action_id":"action_0005","observation_id":"observation_0005"}
+{"event_id":"event_00013","event":"tool_result_received","action_id":"action_0006","observation_id":"observation_0006"}
+{"event_id":"event_00014","event":"tool_request","action_id":"action_0007","batch_id":"batch_0004"}
+{"event_id":"event_00015","event":"tool_result_received","action_id":"action_0007","observation_id":"observation_0007"}
+{"event_id":"event_00016","event":"tool_request","action_id":"action_0008","batch_id":"batch_0004"}
+{"event_id":"event_00017","event":"tool_result_received","action_id":"action_0008","observation_id":"observation_0008"}
+{"event_id":"event_00018","event":"tool_request","action_id":"action_0009","batch_id":"batch_0005"}
+{"event_id":"event_00019","event":"tool_result_received","action_id":"action_0009","observation_id":"observation_0009"}
+{"event_id":"event_00020","event":"tool_request","action_id":"action_0010","batch_id":"batch_0006"}
+{"event_id":"event_00021","event":"tool_result_received","action_id":"action_0010","observation_id":"observation_0010"}
+{"event_id":"event_00022","event":"agent_note","text":"I finished the search and selected three queries. Together they return 57 documents after fusion and de-duplication.\n\n- **q000009** is the broad query: urine or urinary, LAM or lipoarabinomannan, and HIV or AIDS. It has 54 hits.\n- **q000003** adds lateral flow, strip, point-of-care and Determine TB terms, plus sensitivity, specificity or accuracy. It has 20 hits and is the most precise of the three.\n- **q000004** matches the product names (\"Determine TB-LAM\", \"Alere Determine\", \"LF-LAM\"). It has 17 hits.\n\nThe collection ends in February 2015, so it only contains studies up to that date. The broad query was my fallback for studies that use different wording.\n\n**Not checked:** I didn't open the full text of any document, so I haven't confirmed which studies used the Determine TB-LAM strip test and which used an ELISA. Some of the results are ELISA studies, which don't meet the review's index-test criterion.\n\n**Noise:** The results also include non-diagnostic papers, such as cost-effectiveness analyses, prognostic studies, reviews and a paediatric study. I couldn't filter these out with the search alone.\n\n**Left out:** I dropped q000008, which would have added two ELISA-based studies (20108382 and 21963941), and q000002, which was too noisy."}
+{"event_id":"event_00023","event":"turn_completed"}
+{"event_id":"event_00024","event":"session_completed"}

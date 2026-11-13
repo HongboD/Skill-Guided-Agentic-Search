@@ -1,0 +1,18 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00006","event":"tool_request","action_id":"action_0003","batch_id":"batch_0002"}
+{"event_id":"event_00007","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00008","event":"tool_request","action_id":"action_0004","batch_id":"batch_0002"}
+{"event_id":"event_00009","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00010","event":"tool_request","action_id":"action_0005","batch_id":"batch_0003"}
+{"event_id":"event_00011","event":"tool_result_received","action_id":"action_0005","observation_id":"observation_0005"}
+{"event_id":"event_00012","event":"tool_request","action_id":"action_0006","batch_id":"batch_0003"}
+{"event_id":"event_00013","event":"tool_result_received","action_id":"action_0006","observation_id":"observation_0006"}
+{"event_id":"event_00014","event":"tool_request","action_id":"action_0007","batch_id":"batch_0004"}
+{"event_id":"event_00015","event":"tool_result_received","action_id":"action_0007","observation_id":"observation_0007"}
+{"event_id":"event_00016","event":"agent_note","text":"I finished with two queries: `q000003` and `q000001`. Together they return 165 ranked documents. I didn't open any full texts. Relevance was judged from titles and snippets only, so I haven't checked that any study has a usable 2×2 table or meets the other criteria.\n\n- **`q000003`** requires 2D and 3D terms, a saline sonography term (sonohysterography, hysterosonography, \"saline infusion\" or \"saline contrast\") and hysteroscopy. It returned 67 hits. The top results include 2D versus 3D sonohysterography studies compared against hysteroscopy, such as `25195158`, `20226408`, `12738522`, `22592204` and `19360790`.\n- **`q000001`** is looser: saline sonography terms, 3D terms and hysteroscopy, without requiring 2D. It returned 149 hits and should pick up 3D-only studies, such as `23647489` and `21808116`.\n\nI left out two broader searches I ran because their hit counts were far too large (about 1,100 and 3 million) and would have added mostly irrelevant results to the fused ranking.\n\nSome results will fall outside the review's scope. Examples are the uterine-anomaly and cesarean-scar studies, and `19208422`, which is a retrospective analysis. The review excludes retrospective cohorts."}
+{"event_id":"event_00017","event":"turn_completed"}
+{"event_id":"event_00018","event":"session_completed"}

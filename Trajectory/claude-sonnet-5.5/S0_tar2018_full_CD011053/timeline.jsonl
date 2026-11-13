@@ -1,0 +1,26 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_request","action_id":"action_0003","batch_id":"batch_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00006","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00007","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00008","event":"tool_request","action_id":"action_0004","batch_id":"batch_0002"}
+{"event_id":"event_00009","event":"tool_request","action_id":"action_0005","batch_id":"batch_0002"}
+{"event_id":"event_00010","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00011","event":"tool_result_received","action_id":"action_0005","observation_id":"observation_0005"}
+{"event_id":"event_00012","event":"tool_request","action_id":"action_0006","batch_id":"batch_0003"}
+{"event_id":"event_00013","event":"tool_request","action_id":"action_0007","batch_id":"batch_0003"}
+{"event_id":"event_00014","event":"tool_request","action_id":"action_0008","batch_id":"batch_0003"}
+{"event_id":"event_00015","event":"tool_result_received","action_id":"action_0006","observation_id":"observation_0006"}
+{"event_id":"event_00016","event":"tool_result_received","action_id":"action_0007","observation_id":"observation_0007"}
+{"event_id":"event_00017","event":"tool_result_received","action_id":"action_0008","observation_id":"observation_0008"}
+{"event_id":"event_00018","event":"tool_request","action_id":"action_0009","batch_id":"batch_0004"}
+{"event_id":"event_00019","event":"tool_result_received","action_id":"action_0009","observation_id":"observation_0009"}
+{"event_id":"event_00020","event":"tool_request","action_id":"action_0010","batch_id":"batch_0004"}
+{"event_id":"event_00021","event":"tool_result_received","action_id":"action_0010","observation_id":"observation_0010"}
+{"event_id":"event_00022","event":"tool_request","action_id":"action_0011","batch_id":"batch_0005"}
+{"event_id":"event_00023","event":"tool_result_received","action_id":"action_0011","observation_id":"observation_0011"}
+{"event_id":"event_00024","event":"agent_note","text":"I've run the final selection. It fuses three searches into a ranked list of 233 documents. I judged relevance from titles and the first 600 characters of each result, and I didn't open any full texts.\n\nThe three searches were:\n- **q000003** (158 hits): pregnancy AND \"pulmonary embolism\" AND a test term (lung scan, perfusion, CT angiography or magnetic resonance angiography). It surfaced most of the core studies.\n- **q000005** (90 hits): pregnant AND \"pulmonary embolism\" AND a study-design or outcome term (retrospective, prospective, consecutive, follow-up or negative predictive value). It favours cohort studies that report outcomes.\n- **q000010** (24 hits): pregnant or pregnancy AND a technique term (SPECT, perfusion scintigraphy, low-dose perfusion or multidetector) AND embolism. It picks up scintigraphy and SPECT cohorts.\n\nThese are the studies that look most likely to meet the criteria. I haven't checked them against the criteria (consecutive recruitment, 25 or more patients per test, follow-up of six weeks or more):\n- Perfusion scintigraphy in pregnant women (17342484)\n- CTPA versus lung scintigraphy in pregnancy (19843734, 20729418, 19546768, 21131583)\n- Low-dose perfusion nuclear imaging (19051618, 23242041)\n- Outcomes after negative CTPA (22006654)\n- Lung scan results and outcomes (12020189)\n- V/P SPECT (25916742)\n- The Wells score with V/Q scanning (24434350)\n\n**Weak spots:**\n- **MRA:** I found only a pregnancy MRI study (23534587) that may be too small to qualify. The collection seems to hold little on MRA in pregnancy.\n- **Noise:** The fused list also contains reviews, guidelines, dose-only studies, surveys and case reports. These would be excluded on screening.\n- **Overlap:** Some candidates enrol postpartum women as well as pregnant ones, so their data may need to be extractable for the pregnant group alone."}
+{"event_id":"event_00025","event":"turn_completed"}
+{"event_id":"event_00026","event":"session_completed"}

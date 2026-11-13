@@ -1,0 +1,14 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00006","event":"tool_request","action_id":"action_0003","batch_id":"batch_0002"}
+{"event_id":"event_00007","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00008","event":"tool_request","action_id":"action_0004","batch_id":"batch_0003"}
+{"event_id":"event_00009","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00010","event":"tool_request","action_id":"action_0005","batch_id":"batch_0004"}
+{"event_id":"event_00011","event":"tool_result_received","action_id":"action_0005","observation_id":"observation_0005"}
+{"event_id":"event_00012","event":"agent_note","text":"The best match is **Decoys (2004)**, a Canadian sci-fi horror film (doc 448181). The plot summary matches your description:\n\n- **Aliens as girls:** the aliens pose as seductive college girls to get men into bed.\n- **Frozen partners:** the \"mating\" happens mouth to mouth, with a tentacle down the man's throat. The men end up frozen solid.\n- **Era and genre:** it's from 2004, in English, and clearly adult-oriented.\n\nThe summary doesn't mention glasses, so I couldn't confirm that detail. I also can't tell which character is your \"lead girl\", but Alex, Luke's girlfriend, is the likely candidate.\n\nThe 2007 sequel, *Decoys 2: Alien Seduction* (doc 9537791), is a possible alternative. I didn't open it, so I haven't compared its plot to your description. I'd put the original first.\n\nI submitted two searches. One ranks the original *Decoys* first (q000002). The other ranks the sequel first and the original second (q000003)."}
+{"event_id":"event_00013","event":"turn_completed"}
+{"event_id":"event_00014","event":"session_completed"}

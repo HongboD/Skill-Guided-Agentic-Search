@@ -1,0 +1,24 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00006","event":"tool_request","action_id":"action_0003","batch_id":"batch_0002"}
+{"event_id":"event_00007","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00008","event":"tool_request","action_id":"action_0004","batch_id":"batch_0002"}
+{"event_id":"event_00009","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00010","event":"tool_request","action_id":"action_0005","batch_id":"batch_0002"}
+{"event_id":"event_00011","event":"tool_result_received","action_id":"action_0005","observation_id":"observation_0005"}
+{"event_id":"event_00012","event":"tool_request","action_id":"action_0006","batch_id":"batch_0003"}
+{"event_id":"event_00013","event":"tool_result_received","action_id":"action_0006","observation_id":"observation_0006"}
+{"event_id":"event_00014","event":"tool_request","action_id":"action_0007","batch_id":"batch_0003"}
+{"event_id":"event_00015","event":"tool_result_received","action_id":"action_0007","observation_id":"observation_0007"}
+{"event_id":"event_00016","event":"tool_request","action_id":"action_0008","batch_id":"batch_0004"}
+{"event_id":"event_00017","event":"tool_result_received","action_id":"action_0008","observation_id":"observation_0008"}
+{"event_id":"event_00018","event":"tool_request","action_id":"action_0009","batch_id":"batch_0004"}
+{"event_id":"event_00019","event":"tool_result_received","action_id":"action_0009","observation_id":"observation_0009"}
+{"event_id":"event_00020","event":"tool_request","action_id":"action_0010","batch_id":"batch_0005"}
+{"event_id":"event_00021","event":"tool_result_received","action_id":"action_0010","observation_id":"observation_0010"}
+{"event_id":"event_00022","event":"agent_note","text":"I've finished the search and submitted three queries. Together they return 659 documents, fused by reciprocal rank. I only read search-result snippets and didn't open any full texts, so no study has been checked against the full criteria. The ranking will include some off-topic papers, such as esophageal staging and cystic neoplasm studies.\n\nThe three queries were:\n- **Combined (q000006):** pancreatic or periampullary terms, resectability, any of EUS, MRI or PET, a surgical or laparoscopic reference, and accuracy terms. It returned 249 hits.\n- **Title-restricted (q000008):** the same topic and modality terms, but required in the title. It also returned 249 hits and favours studies squarely on the question.\n- **PET-focused (q000005):** PET and PET/CT with staging, metastases and resection terms. It returned 258 hits, to cover the PET studies the other two could miss.\n\nI tried separate queries for EUS plus CT and for MRI plus CT, but I didn't submit them. They were mostly covered by the combined query. The EUS-plus-CT query also returned 1,192 hits, which was too noisy.\n\nThe collection is broad (it looks like all of PubMed), so these results include studies on other cancers and other imaging questions. The date filter to 5 November 2015 was applied automatically."}
+{"event_id":"event_00023","event":"turn_completed"}
+{"event_id":"event_00024","event":"session_completed"}

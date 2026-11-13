@@ -1,0 +1,14 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00006","event":"tool_request","action_id":"action_0003","batch_id":"batch_0002"}
+{"event_id":"event_00007","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00008","event":"tool_request","action_id":"action_0004","batch_id":"batch_0002"}
+{"event_id":"event_00009","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00010","event":"tool_request","action_id":"action_0005","batch_id":"batch_0003"}
+{"event_id":"event_00011","event":"tool_result_received","action_id":"action_0005","observation_id":"observation_0005"}
+{"event_id":"event_00012","event":"agent_note","text":"The film is almost certainly *The Adjustment Bureau* (2011), and I submitted the query that surfaces it (`\"Adjustment Bureau\"`). I picked it from my own recall of the film, then checked the plot in the collection.\n\n- **Dropped cup:** The collection's plot summary has a caseworker, Harry, who is supposed to spill coffee on David Norris's shirt by 7:05 a.m. That would force David to go home and change.\n- **The lapse:** Harry falls asleep and misses it. David catches his intended bus and meets Elise again, which was not in \"the Plan\".\n- **The fix:** The Bureau, which keeps people's lives on track, then tries to keep the two apart.\n- **Angels:** A reviewer cited in the plot summary reads the caseworkers as angels, which fits your friend's \"guardian angels\" description.\n- **Date:** It premiered February 14, 2011, and was released in US theaters on March 4, 2011, so it came out before July 2011.\n\nThe details differ slightly from what you were told. It's coffee rather than a cup dropped at home, and the Bureau's people are caseworkers rather than literal angels. Those look like retelling drift, since the rest of the plot matches closely.\n\nI didn't run a search for other angel films, so I can't rule out a lesser-known film with a similar premise."}
+{"event_id":"event_00013","event":"turn_completed"}
+{"event_id":"event_00014","event":"session_completed"}

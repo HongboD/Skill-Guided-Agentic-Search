@@ -1,0 +1,16 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00006","event":"tool_request","action_id":"action_0003","batch_id":"batch_0002"}
+{"event_id":"event_00007","event":"tool_request","action_id":"action_0004","batch_id":"batch_0002"}
+{"event_id":"event_00008","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00009","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00010","event":"tool_request","action_id":"action_0005","batch_id":"batch_0003"}
+{"event_id":"event_00011","event":"tool_result_received","action_id":"action_0005","observation_id":"observation_0005"}
+{"event_id":"event_00012","event":"tool_request","action_id":"action_0006","batch_id":"batch_0004"}
+{"event_id":"event_00013","event":"tool_result_received","action_id":"action_0006","observation_id":"observation_0006"}
+{"event_id":"event_00014","event":"agent_note","text":"I finished the search and selected three queries: q000002, q000003 and q000005. The system fused their results into a ranked list of 1,000 documents. I opened no documents in full, so everything below comes from the search snippets.\n\nThe collection answers the question mainly for BRAF:\n\n- **Main mutation:** the V599E substitution, also written V600E, is the most common. The snippets put it at over 90% of BRAF mutations in melanoma and nevi. It is the same change as the T1796A nucleotide mutation, and it is a constitutively active kinase.\n- **Location:** the mutations sit in the kinase domain, mostly in exon 15 around codons 593–600. Exon 11 mutations are rarer.\n- **Other mutations:**\n  - In colorectal cancer, D593G and K600N were reported.\n  - K438T, T439P and K438Q were reported in lung adenocarcinoma, small cell lung carcinoma and melanoma.\n- **Cancers affected:**\n  - Melanoma\n  - Papillary thyroid carcinoma\n  - Colorectal cancer\n  - Ovarian serous tumors\n  - Lung cancer\n  - Head and neck cancer\n\nThe snippets say little about mutations in the other Raf genes (A-Raf and Raf1/C-Raf), so those are weakly covered."}
+{"event_id":"event_00015","event":"turn_completed"}
+{"event_id":"event_00016","event":"session_completed"}

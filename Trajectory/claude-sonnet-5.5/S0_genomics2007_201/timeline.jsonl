@@ -1,0 +1,18 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00006","event":"tool_request","action_id":"action_0003","batch_id":"batch_0002"}
+{"event_id":"event_00007","event":"tool_request","action_id":"action_0004","batch_id":"batch_0002"}
+{"event_id":"event_00008","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00009","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00010","event":"tool_request","action_id":"action_0005","batch_id":"batch_0003"}
+{"event_id":"event_00011","event":"tool_request","action_id":"action_0006","batch_id":"batch_0003"}
+{"event_id":"event_00012","event":"tool_result_received","action_id":"action_0005","observation_id":"observation_0005"}
+{"event_id":"event_00013","event":"tool_result_received","action_id":"action_0006","observation_id":"observation_0006"}
+{"event_id":"event_00014","event":"tool_request","action_id":"action_0007","batch_id":"batch_0004"}
+{"event_id":"event_00015","event":"tool_result_received","action_id":"action_0007","observation_id":"observation_0007"}
+{"event_id":"event_00016","event":"agent_note","text":"I finished with three queries (q000003, q000005 and q000004), which the system fused into a ranking of 1,000 documents. I haven't opened any of the full documents, so what follows rests on search snippets only.\n\n**What the collection shows:**\n- **Mostly BRAF:** BRAF is the Raf gene with cancer-associated mutations in these results.\n- **V600E / V599E:** The most common one is V600E, also written V599E in older papers, a T1796A change in exon 15. It accounts for more than 90% of oncogenic B-Raf mutations in one snippet, and 80–90% in another.\n- **Kinase domain:** All known BRAF mutations sit in the kinase domain.\n- **Where it occurs:**\n  - Melanoma: about two-thirds of cases.\n  - Papillary thyroid carcinoma: 36–69% in one review, 69% in another study.\n  - Colorectal cancer: mutations cluster between codons 593 and 600 in exon 15.\n  - Low-grade serous ovarian tumors: BRAF or KRAS mutations are common.\n  - Lung cancer and head and neck cancer: BRAF mutations occur at low rates (1.9% and 4.8%).\n- **Rarer BRAF changes:** K438T in lung adenocarcinoma, T439P in small cell lung carcinoma, and K438Q in melanoma. These affect the Thr-439 phosphorylation site.\n- **RAF1 and ARAF:** The snippets I saw said little about cancer mutations in these two genes. A search aimed at them (q000006) returned mostly unrelated Raf biology, so I left it out.\n\nI left out q000001 and q000002 as less useful. The first was generic and the second returned only 11 hits."}
+{"event_id":"event_00017","event":"turn_completed"}
+{"event_id":"event_00018","event":"session_completed"}

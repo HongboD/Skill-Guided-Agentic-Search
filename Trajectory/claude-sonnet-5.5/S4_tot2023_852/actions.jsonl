@@ -1,0 +1,2 @@
+{"action_id":"action_0001","batch_id":"batch_0001","tool":"search","arguments":{"query":"boy blank cheque million dollars computer castle \"Blank Check\""},"executed":true,"status":"succeeded","request_event_id":"event_00002","result_event_id":"event_00003","observation_id":"observation_0001"}
+{"action_id":"action_0002","batch_id":"batch_0002","tool":"finish","arguments":{"query_ids":["q000001"]},"executed":true,"status":"succeeded","request_event_id":"event_00004","result_event_id":"event_00005","observation_id":"observation_0002"}

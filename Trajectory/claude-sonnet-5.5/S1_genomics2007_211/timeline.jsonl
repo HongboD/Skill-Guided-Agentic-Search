@@ -1,0 +1,18 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00006","event":"tool_request","action_id":"action_0003","batch_id":"batch_0002"}
+{"event_id":"event_00007","event":"tool_request","action_id":"action_0004","batch_id":"batch_0002"}
+{"event_id":"event_00008","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00009","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00010","event":"tool_request","action_id":"action_0005","batch_id":"batch_0003"}
+{"event_id":"event_00011","event":"tool_result_received","action_id":"action_0005","observation_id":"observation_0005"}
+{"event_id":"event_00012","event":"tool_request","action_id":"action_0006","batch_id":"batch_0004"}
+{"event_id":"event_00013","event":"tool_result_received","action_id":"action_0006","observation_id":"observation_0006"}
+{"event_id":"event_00014","event":"tool_request","action_id":"action_0007","batch_id":"batch_0005"}
+{"event_id":"event_00015","event":"tool_result_received","action_id":"action_0007","observation_id":"observation_0007"}
+{"event_id":"event_00016","event":"agent_note","text":"I've finished the search and selected three queries, which the system fused into a ranked list of 1,000 passages. The queries were:\n\n- **q000003:** anti-PSD-95 or PSD-95 antibody, combined with antibody type (monoclonal, polyclonal, rabbit, mouse) and vendor names. It returned only 42 hits, mostly \"Antibodies\" or \"Materials and Methods\" passages.\n- **q000006:** PSD-95, PSD95 or SAP90 with \"antibody\", a sourcing verb (purchased, obtained, raised, generated) and a vendor or clone name.\n- **q000004:** exact phrases such as \"monoclonal anti-PSD-95\" and \"rabbit anti-PSD-95\", plus \"dilution\".\n\nI only read the search-result snippets and didn't open any full documents. Those snippets name these PSD-95 antibodies:\n\n- **Mouse monoclonal, Upstate Biotechnology:** including clone K28/43, and the pan-MAGUK \"PSD-95 family\" clone K28/86.2, which also recognizes SAP97 and PSD-93.\n- **Mouse monoclonal, Transduction Laboratories (BD):** including clone M16.\n- **Mouse monoclonal, Affinity BioReagents:** including clone 7E3-18.\n- **Sigma:** an anti-PSD-95 antibody.\n- **Rabbit polyclonals:**\n  - Raised against GST–PSD-95 fusion proteins, including the \"CSK\" antibody, which recognizes a defined region of PSD-95.\n  - A rabbit antibody raised against residues 1–45 of human PSD-95.\n- **Others:**\n  - A guinea pig anti-PSD-95 (HM319).\n  - Sheep antisera to the PDZ domains of PSD-95.\n  - Rabbit antisera to the GK domain of PSD-95.\n\nRetrieval was broad, so some passages in the fused list are only loosely related. These include co-immunoprecipitation results that mention an anti-PSD-95 antibody without naming its source."}
+{"event_id":"event_00017","event":"turn_completed"}
+{"event_id":"event_00018","event":"session_completed"}

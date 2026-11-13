@@ -1,0 +1,20 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00006","event":"tool_request","action_id":"action_0003","batch_id":"batch_0002"}
+{"event_id":"event_00007","event":"tool_request","action_id":"action_0004","batch_id":"batch_0002"}
+{"event_id":"event_00008","event":"tool_request","action_id":"action_0005","batch_id":"batch_0002"}
+{"event_id":"event_00009","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00010","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00011","event":"tool_result_received","action_id":"action_0005","observation_id":"observation_0005"}
+{"event_id":"event_00012","event":"tool_request","action_id":"action_0006","batch_id":"batch_0003"}
+{"event_id":"event_00013","event":"tool_result_received","action_id":"action_0006","observation_id":"observation_0006"}
+{"event_id":"event_00014","event":"tool_request","action_id":"action_0007","batch_id":"batch_0003"}
+{"event_id":"event_00015","event":"tool_result_received","action_id":"action_0007","observation_id":"observation_0007"}
+{"event_id":"event_00016","event":"tool_request","action_id":"action_0008","batch_id":"batch_0004"}
+{"event_id":"event_00017","event":"tool_result_received","action_id":"action_0008","observation_id":"observation_0008"}
+{"event_id":"event_00018","event":"agent_note","text":"I selected three queries: q000006, q000002 and q000001. The search is finished, and the system fused their results into a ranked list of 1,000 documents. I didn't read any full documents. I judged relevance from the search snippets.\n\nThe collection's answer to the question is that neurosteroids are made by both glia and neurons:\n- **Astrocytes:** The most active steroidogenic brain cells in one rat study (doc 10433246). They express P450scc, P450c17, 3βHSD, 17βHSD and P450arom. They make pregnenolone, progesterone, DHEA, androgens and estrogens.\n- **Oligodendrocytes:** They express only P450scc and 3βHSD, and they make pregnenolone and progesterone. They were the strongest pregnenolone producers in that study.\n- **Neurons:** Cortical neurons express the same enzymes as astrocytes, except 17βHSD, and make the same neurosteroids except testosterone.\n- **Specific neurons:**\n  - Cerebellar Purkinje cells make pregnenolone and progesterone (docs 9421408, 12960093).\n  - Hippocampal pyramidal and granule neurons have a complete pregnenolone-synthesis system (doc 11459806).\n  - Retinal ganglion neurons and dorsal root ganglion sensory neurons also express P450scc.\n\nI chose q000006 and q000002 because their results were the most on-target. I added q000001 because it is a broader query that picks up the general statements that glia and neurons both synthesize neurosteroids. I left out the Purkinje query (q000003) because its lower-ranked results drifted off topic.\n\nI also ran a Schwann cell query and a query on dorsal root ganglia and other neuron types. Neither found documents on Schwann cell neurosteroid synthesis beyond a passing mention."}
+{"event_id":"event_00019","event":"turn_completed"}
+{"event_id":"event_00020","event":"session_completed"}

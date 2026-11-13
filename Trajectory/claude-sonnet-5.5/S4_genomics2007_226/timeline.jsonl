@@ -1,0 +1,14 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00006","event":"tool_request","action_id":"action_0003","batch_id":"batch_0002"}
+{"event_id":"event_00007","event":"tool_request","action_id":"action_0004","batch_id":"batch_0002"}
+{"event_id":"event_00008","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00009","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00010","event":"tool_request","action_id":"action_0005","batch_id":"batch_0003"}
+{"event_id":"event_00011","event":"tool_result_received","action_id":"action_0005","observation_id":"observation_0005"}
+{"event_id":"event_00012","event":"agent_note","text":"I submitted three searches (q000003, q000001 and q000004). The collection says the mammalian signal recognition particle has six proteins: SRP9, SRP14, SRP19, SRP54, SRP68 and SRP72. I did not open any full documents, so this rests on search snippets.\n\nThe passages describing this composition are for canine, mammalian or generic eukaryotic SRP, not specifically mouse. I found no passage that states the mouse particle's composition directly. The one mouse-specific hit, a paper on the human SRP9/14 subunit versus its mouse homolog, only suggests that mouse has SRP9 and SRP14.\n\nThe six proteins are bound to the 7SL RNA and are named for their approximate molecular weights in kilodaltons. SRP9 and SRP14 form a heterodimer, and SRP68 and SRP72 form another. SRP19 and SRP54 bind as single proteins.\n\nThe three queries return largely the same documents, so combining them mostly reinforces the same passages."}
+{"event_id":"event_00013","event":"turn_completed"}
+{"event_id":"event_00014","event":"session_completed"}

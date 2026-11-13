@@ -1,0 +1,20 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00006","event":"tool_request","action_id":"action_0003","batch_id":"batch_0002"}
+{"event_id":"event_00007","event":"tool_request","action_id":"action_0004","batch_id":"batch_0002"}
+{"event_id":"event_00008","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00009","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00010","event":"tool_request","action_id":"action_0005","batch_id":"batch_0003"}
+{"event_id":"event_00011","event":"tool_result_received","action_id":"action_0005","observation_id":"observation_0005"}
+{"event_id":"event_00012","event":"tool_request","action_id":"action_0006","batch_id":"batch_0003"}
+{"event_id":"event_00013","event":"tool_result_received","action_id":"action_0006","observation_id":"observation_0006"}
+{"event_id":"event_00014","event":"tool_request","action_id":"action_0007","batch_id":"batch_0004"}
+{"event_id":"event_00015","event":"tool_result_received","action_id":"action_0007","observation_id":"observation_0007"}
+{"event_id":"event_00016","event":"tool_request","action_id":"action_0008","batch_id":"batch_0005"}
+{"event_id":"event_00017","event":"tool_result_received","action_id":"action_0008","observation_id":"observation_0008"}
+{"event_id":"event_00018","event":"agent_note","text":"I've finished the search and submitted three queries. Their fused ranking holds 165 documents. I only skimmed titles and snippets and didn't open any full texts, so I haven't checked individual studies against the review criteria.\n\nThe three queries were:\n- **q000003** (57 hits): vivax or non-falciparum terms, plus RDT, immunochromatographic or dipstick terms, plus microscopy or PCR, patients or febrile, and sensitivity and specificity.\n- **q000004** (56 hits): title-restricted. It required \"malaria\", a rapid-test or brand term (OptiMAL, ICT, SD Bioline, CareStart), and a vivax, non-falciparum, pLDH or aldolase term.\n- **q000007** (104 hits): vivax or non-falciparum, plus named brands and antigen terms (OptiMAL, ICT, NOW, SD Bioline, CareStart, Parascreen, FalciVax, Pv-pLDH, pan-pLDH, Pf/Pan, Pf/Pv), plus suspected, febrile or health-centre terms.\n\nThe results include many studies from endemic settings that match the review: field evaluations of OptiMAL, ICT, SD Bioline, CareStart and Parascreen against microscopy or PCR in febrile patients.\n\nThey also include several that the review's criteria would exclude:\n- **Non-endemic settings:** tests run on samples from returned travellers.\n- **Wrong population:** asymptomatic, mass-survey and severe-malaria studies.\n- **Wrong purpose:** treatment follow-up and cost-effectiveness studies.\n\nBecause I didn't screen them, those studies are still in the ranking.\n\nI used three queries because each one covered documents the others missed, and I didn't search for non-English or older (pre-2000) studies separately. I stopped because further searches were mostly returning documents I'd already seen."}
+{"event_id":"event_00019","event":"turn_completed"}
+{"event_id":"event_00020","event":"session_completed"}

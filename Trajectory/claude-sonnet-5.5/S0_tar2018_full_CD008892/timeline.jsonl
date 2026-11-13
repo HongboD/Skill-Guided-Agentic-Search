@@ -1,0 +1,22 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_request","action_id":"action_0003","batch_id":"batch_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00006","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00007","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00008","event":"tool_request","action_id":"action_0004","batch_id":"batch_0002"}
+{"event_id":"event_00009","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00010","event":"tool_request","action_id":"action_0005","batch_id":"batch_0002"}
+{"event_id":"event_00011","event":"tool_result_received","action_id":"action_0005","observation_id":"observation_0005"}
+{"event_id":"event_00012","event":"tool_request","action_id":"action_0006","batch_id":"batch_0002"}
+{"event_id":"event_00013","event":"tool_result_received","action_id":"action_0006","observation_id":"observation_0006"}
+{"event_id":"event_00014","event":"tool_request","action_id":"action_0007","batch_id":"batch_0003"}
+{"event_id":"event_00015","event":"tool_result_received","action_id":"action_0007","observation_id":"observation_0007"}
+{"event_id":"event_00016","event":"tool_request","action_id":"action_0008","batch_id":"batch_0003"}
+{"event_id":"event_00017","event":"tool_result_received","action_id":"action_0008","observation_id":"observation_0008"}
+{"event_id":"event_00018","event":"tool_request","action_id":"action_0009","batch_id":"batch_0004"}
+{"event_id":"event_00019","event":"tool_result_received","action_id":"action_0009","observation_id":"observation_0009"}
+{"event_id":"event_00020","event":"agent_note","text":"I selected three queries. Their fused ranking has 486 documents. I didn't open any full texts or check studies against the review criteria, so the ranking rests on titles and 600-character snippets.\n\nThe three queries were:\n- **q000002 (377 hits):** brand and test names (Typhidot, Tubex, Widal, IgM lateral flow) combined with typhoid or enteric fever terms. It surfaced most of the commercial-test accuracy studies.\n- **q000004 (110 hits):** typhoid or enteric fever terms combined with rapid-test formats (dipstick, lateral flow, dot enzyme, point-of-care), accuracy terms, and a culture or PCR reference. It found the prototype and point-of-care assays.\n- **q000007 (129 hits):** serological or rapid-test terms, evaluation or comparison terms, and a blood culture or bone marrow reference standard. It added the dot-EIA, dipstick and agglutination evaluations.\n\nI left out two other searches I had run. The urine-antigen query (q000005, 31 hits) returned mostly older ELISA and coagglutination studies, and I judged it too narrow to add. The title-field query (q000008, 1,910 hits) was too broad.\n\nThe ranking will include some non-eligible records. These include PCR-only assays (e.g. 26449938), a systematic review (24358109), and some studies that use a Widal-positive or clinical case definition instead of culture. Studies with healthy controls will also appear, and the review only extracted febrile controls from those."}
+{"event_id":"event_00021","event":"turn_completed"}
+{"event_id":"event_00022","event":"session_completed"}

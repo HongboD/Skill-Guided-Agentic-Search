@@ -1,0 +1,22 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00006","event":"tool_request","action_id":"action_0003","batch_id":"batch_0002"}
+{"event_id":"event_00007","event":"tool_request","action_id":"action_0004","batch_id":"batch_0002"}
+{"event_id":"event_00008","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00009","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00010","event":"tool_request","action_id":"action_0005","batch_id":"batch_0003"}
+{"event_id":"event_00011","event":"tool_result_received","action_id":"action_0005","observation_id":"observation_0005"}
+{"event_id":"event_00012","event":"tool_request","action_id":"action_0006","batch_id":"batch_0003"}
+{"event_id":"event_00013","event":"tool_result_received","action_id":"action_0006","observation_id":"observation_0006"}
+{"event_id":"event_00014","event":"tool_request","action_id":"action_0007","batch_id":"batch_0004"}
+{"event_id":"event_00015","event":"tool_result_received","action_id":"action_0007","observation_id":"observation_0007"}
+{"event_id":"event_00016","event":"tool_request","action_id":"action_0008","batch_id":"batch_0004"}
+{"event_id":"event_00017","event":"tool_result_received","action_id":"action_0008","observation_id":"observation_0008"}
+{"event_id":"event_00018","event":"tool_request","action_id":"action_0009","batch_id":"batch_0005"}
+{"event_id":"event_00019","event":"tool_result_received","action_id":"action_0009","observation_id":"observation_0009"}
+{"event_id":"event_00020","event":"agent_note","text":"I finished the search and submitted three queries. Together they return 294 ranked documents, but I didn't screen those against the full eligibility criteria. Only the first page or two of each query was read, mostly from titles and 600-character snippets.\n\nThe three queries were:\n\n- **`q000003`:** malaria, RDT/dipstick/immunochromatographic, vivax or non-falciparum, sensitivity and specificity, microscopy or PCR, and a symptomatic or clinic-based setting (130 hits).\n- **`q000004`:** named brands (OptiMAL, SD Bioline, CareStart, ICT Malaria, Binax NOW, Pf/Pv, Pf/Pan), vivax and sensitivity (105 hits).\n- **`q000007`:** a broader query on RDT performance in patients for vivax or pan-species tests (167 hits).\n\nThe top results include many likely matches, such as field evaluations in Ethiopia, Colombia, Thailand, Myanmar and India.\n\nThe result sets also contain studies the protocol would exclude, and I didn't filter these out:\n\n- **Non-endemic or traveller samples:** SD FK80, SDFK40, Palutop+4, Clearview and Immunoquick+4 evaluations.\n- **Asymptomatic or active-screening studies:** for example, the Irian Jaya OptiMAL and Thailand ICT asymptomatic studies.\n- **Other designs:** treatment-monitoring, cost-effectiveness and genetic-variability papers, plus a few non-English reports.\n\nI didn't check the consecutive-sampling or extractable 2×2 data requirements for any study. The brand query (`q000004`) may miss tests I didn't name."}
+{"event_id":"event_00021","event":"turn_completed"}
+{"event_id":"event_00022","event":"session_completed"}

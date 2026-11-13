@@ -1,0 +1,20 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_request","action_id":"action_0003","batch_id":"batch_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00006","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00007","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00008","event":"tool_request","action_id":"action_0004","batch_id":"batch_0002"}
+{"event_id":"event_00009","event":"tool_request","action_id":"action_0005","batch_id":"batch_0002"}
+{"event_id":"event_00010","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00011","event":"tool_result_received","action_id":"action_0005","observation_id":"observation_0005"}
+{"event_id":"event_00012","event":"tool_request","action_id":"action_0006","batch_id":"batch_0003"}
+{"event_id":"event_00013","event":"tool_result_received","action_id":"action_0006","observation_id":"observation_0006"}
+{"event_id":"event_00014","event":"tool_request","action_id":"action_0007","batch_id":"batch_0003"}
+{"event_id":"event_00015","event":"tool_result_received","action_id":"action_0007","observation_id":"observation_0007"}
+{"event_id":"event_00016","event":"tool_request","action_id":"action_0008","batch_id":"batch_0004"}
+{"event_id":"event_00017","event":"tool_result_received","action_id":"action_0008","observation_id":"observation_0008"}
+{"event_id":"event_00018","event":"agent_note","text":"I ran the searches and submitted three queries. The fused ranking has 547 documents. I haven't checked how many of them meet the review criteria. I also didn't open any full texts to check reference standards or patient populations, so screening is still needed.\n\nThe three queries were:\n- **q000004:** typhoid, enteric fever, paratyphoid or *Salmonella typhi*, combined with rapid-test terms and with sensitivity or specificity. The rapid-test terms were Typhidot, Tubex, dipstick, lateral flow, dot enzyme immunoassay, latex agglutination, point-of-care and immunochromatographic. It returned 236 hits and covers the main commercial and prototype blood-antibody tests.\n- **q000002:** the test names Typhidot, Tubex, Widal and \"IgM lateral flow\", combined with typhoid or enteric fever. It returned 355 hits and catches kit-specific evaluations that don't use the generic wording.\n- **q000005:** typhoid or enteric fever combined with urine and with antigen, antibody, coagglutination or ELISA. It returned 50 hits and covers the urine-based index tests in the protocol. Some of these may be old or lab-only assays, so it may add a few off-target records.\n\nThe first broad query (q000001) and the reference-standard query (q000003) returned millions of hits because plain terms default to OR, so I left them out.\n\nThe results also include PCR-only, Widal-only and non-diagnostic typhoid papers. Those will need to be excluded at screening."}
+{"event_id":"event_00019","event":"turn_completed"}
+{"event_id":"event_00020","event":"session_completed"}

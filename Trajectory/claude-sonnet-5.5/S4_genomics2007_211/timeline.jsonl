@@ -1,0 +1,20 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00006","event":"tool_request","action_id":"action_0003","batch_id":"batch_0002"}
+{"event_id":"event_00007","event":"tool_request","action_id":"action_0004","batch_id":"batch_0002"}
+{"event_id":"event_00008","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00009","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00010","event":"tool_request","action_id":"action_0005","batch_id":"batch_0003"}
+{"event_id":"event_00011","event":"tool_result_received","action_id":"action_0005","observation_id":"observation_0005"}
+{"event_id":"event_00012","event":"tool_request","action_id":"action_0006","batch_id":"batch_0003"}
+{"event_id":"event_00013","event":"tool_result_received","action_id":"action_0006","observation_id":"observation_0006"}
+{"event_id":"event_00014","event":"tool_request","action_id":"action_0007","batch_id":"batch_0004"}
+{"event_id":"event_00015","event":"tool_result_received","action_id":"action_0007","observation_id":"observation_0007"}
+{"event_id":"event_00016","event":"tool_request","action_id":"action_0008","batch_id":"batch_0005"}
+{"event_id":"event_00017","event":"tool_result_received","action_id":"action_0008","observation_id":"observation_0008"}
+{"event_id":"event_00018","event":"agent_note","text":"I submitted three queries: q000003, q000007 and q000001. I read the result snippets but didn't open any full documents.\n\n- **q000003** is the strongest. It matches antibody-source statements for PSD-95. The antibodies it surfaced include:\n  - Affinity Bioreagents monoclonals: clone 7E3-18, #046/MA1-046, and 6G6.\n  - Upstate Biotechnology monoclonals: clone K28/43, and the pan-MAGUK \"PSD-95 family\" clone K28/86.2.\n  - Transduction Laboratories monoclonals, including M16.\n  - Rabbit and guinea pig polyclonals, such as \"CSK\" and \"HM319\".\n  - Sheep and rabbit antisera raised against the PDZ and GK domains.\n- **q000007** adds more antibody descriptions, such as rabbit polyclonals raised against GST–PSD-95 fragments. It also surfaced a Sigma anti-PSD-95.\n- **q000001** is a broad \"PSD-95 antibody\" search. I included it because it picks up usage passages (Western blot, immunoprecipitation, immunostaining) that the other two don't. It's noisier than the other two.\n\nThe \"PSD-95 family\" and pan-MAGUK antibodies recognize other MAGUK proteins as well as PSD-95. I included them anyway, since they were used to detect PSD-95.\n\nI ran a fourth query with the same text as q000003, only at a later offset, so I didn't select it. Two of my searches errored because I wrote `used:` and the parser read it as a field name."}
+{"event_id":"event_00019","event":"turn_completed"}
+{"event_id":"event_00020","event":"session_completed"}

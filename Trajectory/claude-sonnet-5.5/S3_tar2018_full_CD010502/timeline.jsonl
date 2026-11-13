@@ -1,0 +1,20 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00006","event":"tool_request","action_id":"action_0003","batch_id":"batch_0002"}
+{"event_id":"event_00007","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00008","event":"tool_request","action_id":"action_0004","batch_id":"batch_0003"}
+{"event_id":"event_00009","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00010","event":"tool_request","action_id":"action_0005","batch_id":"batch_0003"}
+{"event_id":"event_00011","event":"tool_result_received","action_id":"action_0005","observation_id":"observation_0005"}
+{"event_id":"event_00012","event":"tool_request","action_id":"action_0006","batch_id":"batch_0004"}
+{"event_id":"event_00013","event":"tool_result_received","action_id":"action_0006","observation_id":"observation_0006"}
+{"event_id":"event_00014","event":"tool_request","action_id":"action_0007","batch_id":"batch_0005"}
+{"event_id":"event_00015","event":"tool_result_received","action_id":"action_0007","observation_id":"observation_0007"}
+{"event_id":"event_00016","event":"tool_request","action_id":"action_0008","batch_id":"batch_0006"}
+{"event_id":"event_00017","event":"tool_result_received","action_id":"action_0008","observation_id":"observation_0008"}
+{"event_id":"event_00018","event":"agent_note","text":"I finished the search and submitted three queries. Their fused ranking has 377 documents. I didn't screen the documents against the full inclusion criteria, so the ranking will include papers that don't qualify. Examples are adult-only studies, guidelines and cost-effectiveness analyses.\n\nThe three queries were:\n\n- **q000003:** a children-focused query on rapid, antigen-detection or immunoassay tests for group A strep pharyngitis, with a throat culture reference (142 hits).\n- **q000006:** a query on named test kits and technologies, such as optical immunoassay (OIA), enzyme immunoassay (EIA), immunochromatographic tests, TestPack, QuickVue and Biostar (173 hits). It picks up OIA and EIA evaluations that don't say \"children\" in the abstract.\n- **q000007:** a query on rapid antigen tests combined with accuracy terms such as sensitivity, specificity and predictive value (173 hits).\n\nI stopped after these three because they cover three different angles and overlap only partly. I didn't run further queries to test whether extra terms would find more relevant studies."}
+{"event_id":"event_00019","event":"turn_completed"}
+{"event_id":"event_00020","event":"session_completed"}

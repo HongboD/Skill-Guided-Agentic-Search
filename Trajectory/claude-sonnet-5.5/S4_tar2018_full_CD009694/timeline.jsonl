@@ -1,0 +1,20 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00006","event":"tool_request","action_id":"action_0003","batch_id":"batch_0002"}
+{"event_id":"event_00007","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00008","event":"tool_request","action_id":"action_0004","batch_id":"batch_0002"}
+{"event_id":"event_00009","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00010","event":"tool_request","action_id":"action_0005","batch_id":"batch_0003"}
+{"event_id":"event_00011","event":"tool_result_received","action_id":"action_0005","observation_id":"observation_0005"}
+{"event_id":"event_00012","event":"tool_request","action_id":"action_0006","batch_id":"batch_0003"}
+{"event_id":"event_00013","event":"tool_result_received","action_id":"action_0006","observation_id":"observation_0006"}
+{"event_id":"event_00014","event":"tool_request","action_id":"action_0007","batch_id":"batch_0004"}
+{"event_id":"event_00015","event":"tool_result_received","action_id":"action_0007","observation_id":"observation_0007"}
+{"event_id":"event_00016","event":"tool_request","action_id":"action_0008","batch_id":"batch_0005"}
+{"event_id":"event_00017","event":"tool_result_received","action_id":"action_0008","observation_id":"observation_0008"}
+{"event_id":"event_00018","event":"agent_note","text":"I finished the search and submitted three queries. Their fused ranking gives 121 documents. I didn't open any full texts or check the studies against the protocol's data requirements. The ranking comes from titles and snippets only.\n\nThe three queries were:\n- **q000007:** \"brain death\" terms combined with CT-angiography variants (angioCT, CT-A, spiral CT, helical CT).\n- **q000004:** \"brain death\" or circulatory arrest terms combined with spiral, multislice, CT perfusion and \"computed tomographic\".\n- **q000002:** \"brain death\" terms combined with CTA, \"CT angiography\" or \"computed tomography angiography\". It returned only 26 hits, and most of the top ones were on topic.\n\nThe studies that look like the best fits are prospective series comparing CTA against clinically established brain death, for example:\n- 19406767 (the French multicentre CTA score study)\n- 17275466 (CTA against conventional angiography)\n- 17643226\n- 19565357\n- 22327714\n- 22788547\n- 21168593\n- 16733422 and 9576648 (spiral CT)\n- 17663960 (a multislice angioCT study)\n\nSeveral of these also use EEG, TCD or CT perfusion as comparators.\n\nThe ranking will also include some off-target results, because the fusion keeps everything each query returned:\n- **Animal and postmortem work:** the porcine model (22409633) and postmortem angiography papers.\n- **Other tests:** transcranial Doppler and SPECT studies that never test CTA.\n- **Case reports and recommendations:** for example 19390993 (a false-positive case report) and 17719630 (French recommendations). These may not supply usable true/false positive counts.\n\nOne paediatric case report (21086225) turned up, even though the protocol says no paediatric data were identified."}
+{"event_id":"event_00019","event":"turn_completed"}
+{"event_id":"event_00020","event":"session_completed"}

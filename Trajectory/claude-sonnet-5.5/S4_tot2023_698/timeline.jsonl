@@ -1,0 +1,12 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00006","event":"tool_request","action_id":"action_0003","batch_id":"batch_0002"}
+{"event_id":"event_00007","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00008","event":"tool_request","action_id":"action_0004","batch_id":"batch_0003"}
+{"event_id":"event_00009","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00010","event":"agent_note","text":"The film is *Gold Diggers: The Secret of Bear Mountain* (1995). Its plot matches the request:\n\n- **Boat and cave:** Two girls, Beth and Jody, ride a motorized boat downstream into a mountain cave to look for a legendary stash of gold.\n- **Beaten mother and arrest:** Jody's mother, Lynette, is badly beaten by her abusive boyfriend, Ray. Ray is arrested at the end. The request says \"husband\", but the plot summary says \"boyfriend\".\n- **Treasure:** The girls are each given a bag of gold in the end.\n- **Date:** It's a 1995 film, which fits \"90s\".\n\nI didn't check the \"Grand Canyon-esque\" river look, and the plot summary doesn't mention it. I also couldn't check the TV viewing detail. Everything else fits.\n\nI finished with the one search that returned this film (`q000001`)."}
+{"event_id":"event_00011","event":"turn_completed"}
+{"event_id":"event_00012","event":"session_completed"}

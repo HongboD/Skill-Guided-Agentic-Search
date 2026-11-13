@@ -1,0 +1,12 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00006","event":"tool_request","action_id":"action_0003","batch_id":"batch_0002"}
+{"event_id":"event_00007","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00008","event":"tool_request","action_id":"action_0004","batch_id":"batch_0003"}
+{"event_id":"event_00009","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00010","event":"agent_note","text":"The film is almost certainly *Fortress* (1985), an Australian thriller directed by Arch Nicholson and starring Rachel Ward. I opened its collection entry and the plot matches your memory:\n\n- **Setting:** Sally Jones is the only teacher at a one-room Outback school, with nine pupils aged six to sixteen.\n- **Abduction:** Armed men in masks take her and the children away in a van.\n- **Survival:** They escape through a cave, build traps and spears from school supplies, and fight back against the kidnappers.\n- **Ending:** Months later, police visit the school. Sally looks at a preserved human heart on display with the science experiments. That is probably the body part in a glass container that you remember.\n\nIt was released directly to HBO cable in the US in November 1985, which fits you seeing it on TV in the early 90s.\n\nI submitted two searches (q000001 and q000002). *Fortress* was the top result in the first and second in the other."}
+{"event_id":"event_00011","event":"turn_completed"}
+{"event_id":"event_00012","event":"session_completed"}

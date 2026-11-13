@@ -1,0 +1,16 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00006","event":"tool_request","action_id":"action_0003","batch_id":"batch_0002"}
+{"event_id":"event_00007","event":"tool_request","action_id":"action_0004","batch_id":"batch_0002"}
+{"event_id":"event_00008","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00009","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00010","event":"tool_request","action_id":"action_0005","batch_id":"batch_0003"}
+{"event_id":"event_00011","event":"tool_result_received","action_id":"action_0005","observation_id":"observation_0005"}
+{"event_id":"event_00012","event":"tool_request","action_id":"action_0006","batch_id":"batch_0004"}
+{"event_id":"event_00013","event":"tool_result_received","action_id":"action_0006","observation_id":"observation_0006"}
+{"event_id":"event_00014","event":"agent_note","text":"I picked three queries: q000002, q000004 and q000005. The system will combine their results into the final ranking. I didn't open any full documents. I judged relevance only from the search snippets.\n\n- **q000002** targets the Rel/NF-κB family and its regulators. Its top results list the five family members: RelA (p65), RelB, c-Rel, NFKB1 (p50/p105) and NFKB2 (p52/p100). They also cover the IκB inhibitors and the IKK complex.\n- **q000004** targets the canonical and noncanonical pathways. Its results describe the Rel members and IκB family, and the roles of IKKα, IKKβ, NEMO and NIK.\n- **q000005** targets the TNF-driven pathway. Its results add upstream components such as TNFR1, TRADD, TRAF2 and RIP, plus the IKK complex and IκB degradation.\n\nI also ran q000001 and q000003. Both mostly returned reference-list entries, so I left them out."}
+{"event_id":"event_00015","event":"turn_completed"}
+{"event_id":"event_00016","event":"session_completed"}

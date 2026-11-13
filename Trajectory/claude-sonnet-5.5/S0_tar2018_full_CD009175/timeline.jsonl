@@ -1,0 +1,20 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00006","event":"tool_request","action_id":"action_0003","batch_id":"batch_0002"}
+{"event_id":"event_00007","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00008","event":"tool_request","action_id":"action_0004","batch_id":"batch_0002"}
+{"event_id":"event_00009","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00010","event":"tool_request","action_id":"action_0005","batch_id":"batch_0003"}
+{"event_id":"event_00011","event":"tool_result_received","action_id":"action_0005","observation_id":"observation_0005"}
+{"event_id":"event_00012","event":"tool_request","action_id":"action_0006","batch_id":"batch_0003"}
+{"event_id":"event_00013","event":"tool_result_received","action_id":"action_0006","observation_id":"observation_0006"}
+{"event_id":"event_00014","event":"tool_request","action_id":"action_0007","batch_id":"batch_0004"}
+{"event_id":"event_00015","event":"tool_result_received","action_id":"action_0007","observation_id":"observation_0007"}
+{"event_id":"event_00016","event":"tool_request","action_id":"action_0008","batch_id":"batch_0005"}
+{"event_id":"event_00017","event":"tool_result_received","action_id":"action_0008","observation_id":"observation_0008"}
+{"event_id":"event_00018","event":"agent_note","text":"I ran seven searches and submitted three of them. I didn't open any full texts, so the picks rest on the titles and 600-character snippets shown in search results. I haven't checked whether any study meets the protocol criteria. These criteria include paediatric CAP, M. pneumoniae serology as the reference standard, and reporting of symptoms and signs.\n\nThe three submitted queries were:\n- **q000001:** M. pneumoniae AND children AND pneumonia AND symptoms/signs/clinical. It is broad, with 6,065 hits.\n- **q000003:** the same topic restricted to serology or paired sera plus named symptoms such as wheeze, crepitations, fever, cough and headache. It is narrow, with 58 hits.\n- **q000007:** M. pneumoniae pneumonia in children, plus an aetiology or clinical-features term, plus serology. It has 110 hits.\n\nI left out q000002, q000004 and q000006. Their OR-style phrasing parsed loosely and pulled in millions of hits, including adult and non-pneumonia papers. I also left out q000005, which was too narrow at 25 hits.\n\nThe submitted set will be noisy. Some papers in the top results look like likely matches:\n- the Mowgli Study Group paper on M. pneumoniae and Chlamydia pneumoniae in children with pneumonia (11334126)\n- \"Prevalence and clinical features of mycoplasma pneumoniae in Thai children\" (17128838)\n- \"The value of clinical features in differentiating between viral, pneumococcal and atypical bacterial pneumonia in children\" (18422803)\n- \"Epidemiology and clinical characteristics of community-acquired pneumonia in hospitalized children\" (15060215)\n\nThe results also include case reports, extrapulmonary-manifestation papers, PCR-only diagnostic studies and some adult studies. I chose not to filter these out."}
+{"event_id":"event_00019","event":"turn_completed"}
+{"event_id":"event_00020","event":"session_completed"}

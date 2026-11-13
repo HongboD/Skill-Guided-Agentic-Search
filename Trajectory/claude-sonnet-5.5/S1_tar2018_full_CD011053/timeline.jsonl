@@ -1,0 +1,26 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00006","event":"tool_request","action_id":"action_0003","batch_id":"batch_0002"}
+{"event_id":"event_00007","event":"tool_request","action_id":"action_0004","batch_id":"batch_0002"}
+{"event_id":"event_00008","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00009","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00010","event":"tool_request","action_id":"action_0005","batch_id":"batch_0003"}
+{"event_id":"event_00011","event":"tool_result_received","action_id":"action_0005","observation_id":"observation_0005"}
+{"event_id":"event_00012","event":"tool_request","action_id":"action_0006","batch_id":"batch_0003"}
+{"event_id":"event_00013","event":"tool_result_received","action_id":"action_0006","observation_id":"observation_0006"}
+{"event_id":"event_00014","event":"tool_request","action_id":"action_0007","batch_id":"batch_0004"}
+{"event_id":"event_00015","event":"tool_result_received","action_id":"action_0007","observation_id":"observation_0007"}
+{"event_id":"event_00016","event":"tool_request","action_id":"action_0008","batch_id":"batch_0004"}
+{"event_id":"event_00017","event":"tool_result_received","action_id":"action_0008","observation_id":"observation_0008"}
+{"event_id":"event_00018","event":"tool_request","action_id":"action_0009","batch_id":"batch_0005"}
+{"event_id":"event_00019","event":"tool_result_received","action_id":"action_0009","observation_id":"observation_0009"}
+{"event_id":"event_00020","event":"tool_request","action_id":"action_0010","batch_id":"batch_0005"}
+{"event_id":"event_00021","event":"tool_result_received","action_id":"action_0010","observation_id":"observation_0010"}
+{"event_id":"event_00022","event":"tool_request","action_id":"action_0011","batch_id":"batch_0006"}
+{"event_id":"event_00023","event":"tool_result_received","action_id":"action_0011","observation_id":"observation_0011"}
+{"event_id":"event_00024","event":"agent_note","text":"I finished the search and submitted three queries. The fused ranking has 162 documents. I didn't read the full text of any candidate, so none has been checked against the review criteria.\n\nThe three queries are:\n- **q000003:** pregnancy + pulmonary embolism + imaging terms (scintigraphy, lung scan, V/Q, CTPA, CT angiography, MR), with 112 hits. It covers most of the likely eligible cohorts.\n- **q000007:** pregnancy + CT pulmonary angiography + cohort/outcome design terms, with 33 hits. It picks up the CTPA cohorts, such as negative-CTPA outcomes in pregnancy.\n- **q000008:** pregnancy + lung scan/V/Q/SPECT + cohort/outcome design terms, with 66 hits. It adds V/Q cohorts that the other queries ranked lower.\n\nThe list will include reviews, guidelines, dosimetry studies and case reports as well as primary cohorts. Sample size, consecutive enrolment, and 6-week follow-up or angiography as the reference standard still need checking on the full texts. The MRI-specific search found only one pregnancy MRI study, so I left it out. A fourth query, q000010, mostly overlapped the three above, so I didn't select it."}
+{"event_id":"event_00025","event":"turn_completed"}
+{"event_id":"event_00026","event":"session_completed"}

@@ -1,0 +1,18 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00006","event":"tool_request","action_id":"action_0003","batch_id":"batch_0002"}
+{"event_id":"event_00007","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00008","event":"tool_request","action_id":"action_0004","batch_id":"batch_0002"}
+{"event_id":"event_00009","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00010","event":"tool_request","action_id":"action_0005","batch_id":"batch_0003"}
+{"event_id":"event_00011","event":"tool_result_received","action_id":"action_0005","observation_id":"observation_0005"}
+{"event_id":"event_00012","event":"tool_request","action_id":"action_0006","batch_id":"batch_0004"}
+{"event_id":"event_00013","event":"tool_result_received","action_id":"action_0006","observation_id":"observation_0006"}
+{"event_id":"event_00014","event":"tool_request","action_id":"action_0007","batch_id":"batch_0005"}
+{"event_id":"event_00015","event":"tool_result_received","action_id":"action_0007","observation_id":"observation_0007"}
+{"event_id":"event_00016","event":"agent_note","text":"I finished the search and submitted three queries. Their results are fused into a ranked list of 71 documents. I didn't open any full texts, so I judged relevance from titles and snippets only.\n\nThe three queries were:\n- **`q000002`:** LAM or lipoarabinomannan, AND a test-format term (Determine, lateral flow, point-of-care or dipstick), AND urine. This gave 37 hits.\n- **`q000005`:** the test names \"TB-LAM\", \"LF-LAM\", \"LAM strip\", \"urine LAM\" or \"Alere Determine\", AND HIV or antiretroviral. This gave 40 hits.\n- **`q000006`:** urine or urinary, AND antigen, strip or LAM, AND tuberculosis, AND culture or Xpert, AND HIV or CD4, AND a clinical-setting term. This gave 39 hits.\n\n**Likely matches:** the first-pass candidates are the Determine TB-LAM diagnostic-accuracy studies in HIV-positive adults. They include these PubMed IDs:\n- 24675585\n- 22015305\n- 22362849\n- 24571362\n- 24684481\n- 22412939\n- 22555166\n- 24168211\n- 23390504\n- 22815718\n\n**Known noise:**\n- **Off-topic hits:** query `q000002` pulled in several lymphangioleiomyomatosis papers, because \"LAM\" is also the abbreviation for that disease.\n- **Ineligible studies:** `q000006` brought in ELISA-based LAM studies, children's studies and prognosis or cost papers. The review only covers the Alere Determine lateral-flow test in adults.\n- **Ranking:** I did not filter these out, so some will rank among the results.\n\nI left out a fourth query that returned mostly ELISA studies (`q000004`), because the protocol only covers the lateral-flow assay."}
+{"event_id":"event_00017","event":"turn_completed"}
+{"event_id":"event_00018","event":"session_completed"}

@@ -1,0 +1,18 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00006","event":"tool_request","action_id":"action_0003","batch_id":"batch_0002"}
+{"event_id":"event_00007","event":"tool_request","action_id":"action_0004","batch_id":"batch_0002"}
+{"event_id":"event_00008","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00009","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00010","event":"tool_request","action_id":"action_0005","batch_id":"batch_0003"}
+{"event_id":"event_00011","event":"tool_result_received","action_id":"action_0005","observation_id":"observation_0005"}
+{"event_id":"event_00012","event":"tool_request","action_id":"action_0006","batch_id":"batch_0003"}
+{"event_id":"event_00013","event":"tool_result_received","action_id":"action_0006","observation_id":"observation_0006"}
+{"event_id":"event_00014","event":"tool_request","action_id":"action_0007","batch_id":"batch_0004"}
+{"event_id":"event_00015","event":"tool_result_received","action_id":"action_0007","observation_id":"observation_0007"}
+{"event_id":"event_00016","event":"agent_note","text":"I submitted three searches: q000001, q000003 and q000006. Together they return 365 fused documents. I didn't open any full texts, so I haven't checked any study against the protocol criteria. The selection rests on titles and the 600-character snippets in the search results.\n\n- **q000001** is a broad MIBG, neuroblastoma and imaging query with 317 hits. I included it for recall on the ¹²³I-MIBG studies.\n- **q000003** adds a diagnostic-accuracy and paediatric filter on MIBG or FDG, with 106 hits.\n- **q000006** targets neuroblastoma studies using PET with MIBG or FDG, in the staging, relapse and MIBG-negative settings. It has 33 hits and is the most precise of the three.\n\nThe results include records that fail the protocol, such as animal studies, olfactory neuroblastoma, and ¹³¹I-MIBG therapy studies. Case reports and reviews are also mixed in, and there was no way to filter these out.\n\nStudies that look like strong matches from their titles include:\n- 21617976: ¹²³I-MIBG scintigraphy/SPECT versus ¹⁸F-FDG PET in paediatric neuroblastoma\n- 19617326: ¹²³I-MIBG scintigraphy and ¹⁸F-FDG PET in neuroblastoma\n- 21421719: ¹⁸F-FDG PET/CT and ¹²³I-MIBG imaging in high-risk neuroblastoma\n- 19185008: ¹²³I-mIBG scintigraphy in known or suspected neuroblastoma, a prospective multicentre trial"}
+{"event_id":"event_00017","event":"turn_completed"}
+{"event_id":"event_00018","event":"session_completed"}

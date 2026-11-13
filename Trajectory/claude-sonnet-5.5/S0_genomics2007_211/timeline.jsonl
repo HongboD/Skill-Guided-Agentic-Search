@@ -1,0 +1,14 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00006","event":"tool_request","action_id":"action_0003","batch_id":"batch_0002"}
+{"event_id":"event_00007","event":"tool_request","action_id":"action_0004","batch_id":"batch_0002"}
+{"event_id":"event_00008","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00009","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00010","event":"tool_request","action_id":"action_0005","batch_id":"batch_0003"}
+{"event_id":"event_00011","event":"tool_result_received","action_id":"action_0005","observation_id":"observation_0005"}
+{"event_id":"event_00012","event":"agent_note","text":"I ran four searches and finished with the three that returned the most useful passages. The first search, a plain \"PSD-95 antibody\" query, was too broad, so I left it out. I didn't open any full documents or check the 1,000 fused results beyond the first page of each search, so the list below comes from search snippets only.\n\nThe saved queries were q000002, q000003 and q000004. The antibodies they surfaced include:\n\n- **Mouse monoclonals from vendors:**\n  - Upstate Biotechnology, including clone K28/43 and clone K28/86.2. The latter is described as a pan-MAGUK antibody that also recognizes other family members such as SAP97 and PSD-93.\n  - Transduction Laboratories, including clone M16, whose epitope is in residues 353–504.\n  - Affinity Bioreagents, including clones 7E3-18 and #046.\n- **In-house polyclonals:** several papers raised their own rabbit antibodies against GST–PSD-95 fusion proteins. One used residues 1–45 and another used residues 4–404. One paper also used a sheep antiserum against the PDZ domains and rabbit antisera against the GK domain.\n- **Tag-based detection:** some papers detected tagged PSD-95 with anti-Myc or anti-GFP antibodies instead of an anti-PSD-95 antibody.\n- **Gifted antibodies:** one paper used an anti-PSD-95 monoclonal provided by Dr. Morgan Sheng."}
+{"event_id":"event_00013","event":"turn_completed"}
+{"event_id":"event_00014","event":"session_completed"}

@@ -1,0 +1,18 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00004","event":"tool_request","action_id":"action_0003","batch_id":"batch_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00006","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00007","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00008","event":"tool_request","action_id":"action_0004","batch_id":"batch_0002"}
+{"event_id":"event_00009","event":"tool_request","action_id":"action_0005","batch_id":"batch_0002"}
+{"event_id":"event_00010","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00011","event":"tool_result_received","action_id":"action_0005","observation_id":"observation_0005"}
+{"event_id":"event_00012","event":"tool_request","action_id":"action_0006","batch_id":"batch_0003"}
+{"event_id":"event_00013","event":"tool_result_received","action_id":"action_0006","observation_id":"observation_0006"}
+{"event_id":"event_00014","event":"tool_request","action_id":"action_0007","batch_id":"batch_0004"}
+{"event_id":"event_00015","event":"tool_result_received","action_id":"action_0007","observation_id":"observation_0007"}
+{"event_id":"event_00016","event":"agent_note","text":"I submitted three queries: q000004, q000006 and q000002. The system fused them into a ranked list of 254 documents. I didn't open any full documents and judged relevance from the search snippets only.\n\nTogether the snippets point to these genes and gene families as implicated in alcohol preference or consumption:\n\n- **Neuropeptide Y (NPY):** Knockout mice drink more ethanol. Mice that overexpress NPY drink less.\n- **Cannabinoid CB1 receptor:** Knockout mice show much lower alcohol preference and consumption.\n- **Opioid receptors:**\n  - Mu-opioid receptor knockout mice do not self-administer ethanol.\n  - Delta-opioid receptor knockout mice prefer ethanol more and drink more of it.\n  - Rat lines bred for alcohol preference also differ in expression of POMC, the precursor of the opioid peptide β-endorphin.\n- **Alpha-synuclein:** It maps to a quantitative trait locus (a genome region linked to a trait) for alcohol preference.\n- **Aldehyde dehydrogenase (ALDH1):** Its polymorphisms differ between high- and low-preference rat lines. A related snippet also mentions the ADH1B gene.\n- **CCK-A receptor (CCKAR):** A polymorphism is associated with alcohol dependence in humans. That is dependence rather than preference.\n\nI picked these three because their queries combined alcohol preference or consumption terms with gene, knockout and receptor terms. They returned small, focused result sets: q000002 had 31 hits, q000006 had 76 and q000004 had 198. The three broader queries I tried first matched over a million documents each, and most of what they surfaced was sweet-preference studies and reference lists."}
+{"event_id":"event_00017","event":"turn_completed"}
+{"event_id":"event_00018","event":"session_completed"}

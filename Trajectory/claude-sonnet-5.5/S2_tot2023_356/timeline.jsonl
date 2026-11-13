@@ -1,0 +1,18 @@
+{"event_id":"event_00001","event":"task_received","task_file":"task.txt"}
+{"event_id":"event_00002","event":"tool_request","action_id":"action_0001","batch_id":"batch_0001"}
+{"event_id":"event_00003","event":"tool_result_received","action_id":"action_0001","observation_id":"observation_0001"}
+{"event_id":"event_00004","event":"tool_request","action_id":"action_0002","batch_id":"batch_0001"}
+{"event_id":"event_00005","event":"tool_result_received","action_id":"action_0002","observation_id":"observation_0002"}
+{"event_id":"event_00006","event":"tool_request","action_id":"action_0003","batch_id":"batch_0002"}
+{"event_id":"event_00007","event":"tool_result_received","action_id":"action_0003","observation_id":"observation_0003"}
+{"event_id":"event_00008","event":"tool_request","action_id":"action_0004","batch_id":"batch_0002"}
+{"event_id":"event_00009","event":"tool_result_received","action_id":"action_0004","observation_id":"observation_0004"}
+{"event_id":"event_00010","event":"tool_request","action_id":"action_0005","batch_id":"batch_0003"}
+{"event_id":"event_00011","event":"tool_result_received","action_id":"action_0005","observation_id":"observation_0005"}
+{"event_id":"event_00012","event":"tool_request","action_id":"action_0006","batch_id":"batch_0004"}
+{"event_id":"event_00013","event":"tool_result_received","action_id":"action_0006","observation_id":"observation_0006"}
+{"event_id":"event_00014","event":"tool_request","action_id":"action_0007","batch_id":"batch_0005"}
+{"event_id":"event_00015","event":"tool_result_received","action_id":"action_0007","observation_id":"observation_0007"}
+{"event_id":"event_00016","event":"agent_note","text":"The best match is **Gunhed** (1989), a Japanese sci-fi action film directed by Masato Harada. It also had a Philippine release as *Killer Tank*. The collection's plot summary fits most of what you remember:\n\n- **Setting:** A crew of scavengers lands on a robotics island, 8JO, run by a rogue AI called Kyron-5. Its automated defenses kill most of the crew. It isn't a space station or a factory, but it is a robot-run facility.\n- **The tank:** The surviving character, Brooklyn, finds the wreck of a GUNHED (a \"Gun Unit of Heavy Eliminate Device\") in a robot scrapyard and repairs it. It is a tank-like combat machine.\n- **The gun:** When the tank is knocked out, Brooklyn rigs part of its gun to fire by hand and destroys the guardian robot, Aerobot.\n\nTwo details differ from your memory. The summary describes the crew as scavengers rather than soldiers, though a Texas Air Ranger sergeant joins them. And it calls the film science fiction action, not horror. It does note an \"Alien\"-like feel.\n\nI finished with queries q000003 and q000002. Gunhed ranked first in q000003 and tenth in q000002. I didn't check the film beyond the collection's text."}
+{"event_id":"event_00017","event":"turn_completed"}
+{"event_id":"event_00018","event":"session_completed"}
