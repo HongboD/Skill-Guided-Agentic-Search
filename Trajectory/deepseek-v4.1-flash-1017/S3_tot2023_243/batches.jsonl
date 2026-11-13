@@ -1,3 +1,0 @@
-{"batch_id":"batch_0001","action_ids":["action_0001","action_0002","action_0003"],"available_observations":[]}
-{"batch_id":"batch_0002","action_ids":["action_0004"],"available_observations":["observation_0001","observation_0002","observation_0003"]}
-{"batch_id":"batch_0003","action_ids":["action_0005"],"available_observations":["observation_0001","observation_0002","observation_0003","observation_0004"]}

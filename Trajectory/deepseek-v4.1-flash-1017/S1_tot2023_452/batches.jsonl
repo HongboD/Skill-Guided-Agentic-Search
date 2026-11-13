@@ -1,4 +1,0 @@
-{"batch_id":"batch_0001","action_ids":["action_0001","action_0002","action_0003","action_0004"],"available_observations":[]}
-{"batch_id":"batch_0002","action_ids":["action_0005","action_0006","action_0007","action_0008","action_0009","action_0010"],"available_observations":["observation_0001","observation_0002","observation_0003","observation_0004"]}
-{"batch_id":"batch_0003","action_ids":["action_0011"],"available_observations":["observation_0001","observation_0002","observation_0003","observation_0004","observation_0005","observation_0006","observation_0007","observation_0008","observation_0009","observation_0010"]}
-{"batch_id":"batch_0004","action_ids":["action_0012"],"available_observations":["observation_0001","observation_0002","observation_0003","observation_0004","observation_0005","observation_0006","observation_0007","observation_0008","observation_0009","observation_0010","observation_0011"]}
