@@ -66,6 +66,7 @@ Change the task, topic, condition, and deployment to select another cell. TAR pu
 - analysis/: statistical analysis, behavior measurement, and saved-ranking evaluation/replay code.
 - results/: published numerical results; no source documents or raw trajectories.
 - configs/: shared settings and topic identifiers defining the experimental cohort.
+- Trajectory/: examples of the experiment run trajectory, full data will be released upon paper acceptance
 
 ## Tests
 
